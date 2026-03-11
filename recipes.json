@@ -1,0 +1,535 @@
+{
+  "version": 1,
+  "recipes": [
+    {
+      "id": "db-b1", "name": "Huevos revueltos con bacon y aguacate", "mealType": "breakfast",
+      "description": "Clásico keto con huevos cremosos, bacon crujiente y aguacate fresco.",
+      "ingredients": [
+        {"name": "huevos", "amount": 150, "unit": "g"},
+        {"name": "bacon", "amount": 60, "unit": "g"},
+        {"name": "aguacate", "amount": 80, "unit": "g"},
+        {"name": "mantequilla", "amount": 15, "unit": "g"}
+      ],
+      "steps": ["Fríe el bacon hasta que esté crujiente y resérvalo.", "Derrite la mantequilla a fuego medio y añade los huevos batidos. Revuelve suavemente hasta que estén cremosos.", "Sirve con el bacon y el aguacate en rodajas. Salpimenta al gusto."],
+      "prepTime": 5, "cookTime": 8, "servings": 2,
+      "macros": {"calories": 520, "protein": 28, "fat": 44, "carbs": 3}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-b2", "name": "Tortilla de queso y espinacas", "mealType": "breakfast",
+      "description": "Tortilla esponjosa rellena de queso fundido y espinacas salteadas.",
+      "ingredients": [
+        {"name": "huevos", "amount": 180, "unit": "g"},
+        {"name": "espinacas frescas", "amount": 60, "unit": "g"},
+        {"name": "queso cheddar rallado", "amount": 50, "unit": "g"},
+        {"name": "mantequilla", "amount": 15, "unit": "g"}
+      ],
+      "steps": ["Saltea las espinacas en la mitad de la mantequilla hasta que se reduzcan.", "Bate los huevos con sal y pimienta. Cuaja en la sartén con el resto de mantequilla.", "Añade espinacas y queso, dobla la tortilla y sirve cuando el queso se haya fundido."],
+      "prepTime": 5, "cookTime": 6, "servings": 2,
+      "macros": {"calories": 440, "protein": 30, "fat": 35, "carbs": 3}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-b3", "name": "Salmón ahumado con huevos poché", "mealType": "breakfast",
+      "description": "Desayuno elegante con salmón ahumado, huevos poché y queso crema.",
+      "ingredients": [
+        {"name": "salmón ahumado", "amount": 80, "unit": "g"},
+        {"name": "huevos", "amount": 120, "unit": "g"},
+        {"name": "queso crema", "amount": 40, "unit": "g"},
+        {"name": "cebollino picado", "amount": 5, "unit": "g"},
+        {"name": "zumo de limón", "amount": 10, "unit": "ml"}
+      ],
+      "steps": ["Calienta agua con un chorrito de vinagre. Cuece los huevos poché 3-4 min.", "Extiende el queso crema en el plato, coloca el salmón encima.", "Pon los huevos sobre el salmón, añade cebollino y unas gotas de limón."],
+      "prepTime": 5, "cookTime": 5, "servings": 2,
+      "macros": {"calories": 400, "protein": 28, "fat": 32, "carbs": 2}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-b4", "name": "Pancakes de harina de almendra", "mealType": "breakfast",
+      "description": "Pancakes esponjosos sin gluten ni azúcar, perfectos para el desayuno keto.",
+      "ingredients": [
+        {"name": "harina de almendra", "amount": 80, "unit": "g"},
+        {"name": "huevos", "amount": 100, "unit": "g"},
+        {"name": "queso crema", "amount": 50, "unit": "g"},
+        {"name": "mantequilla", "amount": 20, "unit": "g"},
+        {"name": "edulcorante", "amount": 5, "unit": "g"}
+      ],
+      "steps": ["Mezcla harina de almendra, huevos, queso crema y edulcorante hasta obtener una masa homogénea.", "Calienta una sartén con mantequilla a fuego medio. Vierte pequeñas porciones de masa.", "Cocina 2-3 min por cada lado hasta que estén dorados. Sirve con mantequilla extra."],
+      "prepTime": 5, "cookTime": 10, "servings": 2,
+      "macros": {"calories": 540, "protein": 20, "fat": 48, "carbs": 7}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-b5", "name": "Frittata de chorizo y pimientos", "mealType": "breakfast",
+      "description": "Frittata al horno con chorizo picante, pimientos y queso gratinado.",
+      "ingredients": [
+        {"name": "huevos", "amount": 200, "unit": "g"},
+        {"name": "chorizo", "amount": 60, "unit": "g"},
+        {"name": "pimiento rojo", "amount": 50, "unit": "g"},
+        {"name": "queso cheddar rallado", "amount": 40, "unit": "g"},
+        {"name": "aceite de oliva", "amount": 15, "unit": "ml"}
+      ],
+      "steps": ["Precalienta el horno a 180°C. Saltea el chorizo y el pimiento en aceite 3 min.", "Bate los huevos con sal y pimienta. Vierte sobre el sofrito en una sartén apta para horno.", "Añade el queso encima y hornea 10-12 min hasta que cuaje. Corta en porciones."],
+      "prepTime": 5, "cookTime": 15, "servings": 2,
+      "macros": {"calories": 510, "protein": 32, "fat": 40, "carbs": 5}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-b6", "name": "Bowl de frutos secos con nata", "mealType": "breakfast",
+      "description": "Bowl cremoso de nata con almendras, nueces y semillas de chía.",
+      "ingredients": [
+        {"name": "almendras crudas", "amount": 40, "unit": "g"},
+        {"name": "nueces", "amount": 30, "unit": "g"},
+        {"name": "semillas de chía", "amount": 15, "unit": "g"},
+        {"name": "nata para montar", "amount": 80, "unit": "ml"},
+        {"name": "canela molida", "amount": 2, "unit": "g"},
+        {"name": "edulcorante", "amount": 3, "unit": "g"}
+      ],
+      "steps": ["Monta ligeramente la nata con el edulcorante.", "Mezcla las almendras, nueces y semillas de chía en un bowl.", "Vierte la nata sobre los frutos secos, espolvorea canela y sirve."],
+      "prepTime": 5, "cookTime": 0, "servings": 2,
+      "macros": {"calories": 450, "protein": 10, "fat": 42, "carbs": 6}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-b7", "name": "Huevos al horno con nata y queso", "mealType": "breakfast",
+      "description": "Huevos cocidos en nata con queso gratinado, listos en 10 minutos.",
+      "ingredients": [
+        {"name": "huevos", "amount": 150, "unit": "g"},
+        {"name": "nata para cocinar", "amount": 80, "unit": "ml"},
+        {"name": "queso gruyère rallado", "amount": 40, "unit": "g"},
+        {"name": "mantequilla", "amount": 10, "unit": "g"}
+      ],
+      "steps": ["Precalienta el horno a 200°C. Unta moldes individuales con mantequilla.", "Vierte la nata en los moldes, casca un huevo en cada uno y añade el queso.", "Hornea 8-10 min hasta que la clara esté cuajada pero la yema cremosa."],
+      "prepTime": 3, "cookTime": 10, "servings": 2,
+      "macros": {"calories": 380, "protein": 24, "fat": 32, "carbs": 2}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-b8", "name": "Crepes de queso crema", "mealType": "breakfast",
+      "description": "Crepes finas y flexibles de queso crema, perfectas para rellenar.",
+      "ingredients": [
+        {"name": "queso crema", "amount": 100, "unit": "g"},
+        {"name": "huevos", "amount": 100, "unit": "g"},
+        {"name": "mantequilla", "amount": 20, "unit": "g"},
+        {"name": "edulcorante", "amount": 3, "unit": "g"}
+      ],
+      "steps": ["Bate el queso crema con los huevos y el edulcorante hasta obtener una mezcla lisa.", "Calienta una sartén antiadherente con un poco de mantequilla a fuego medio-bajo.", "Vierte una capa fina de masa y cocina 1-2 min por lado. Repite con el resto."],
+      "prepTime": 5, "cookTime": 10, "servings": 2,
+      "macros": {"calories": 430, "protein": 18, "fat": 39, "carbs": 5}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-b9", "name": "Batido keto de mantequilla de almendra", "mealType": "breakfast",
+      "description": "Batido cremoso y saciante con leche de coco y mantequilla de almendra.",
+      "ingredients": [
+        {"name": "leche de coco", "amount": 200, "unit": "ml"},
+        {"name": "mantequilla de almendra", "amount": 30, "unit": "g"},
+        {"name": "semillas de lino molidas", "amount": 10, "unit": "g"},
+        {"name": "cacao en polvo sin azúcar", "amount": 8, "unit": "g"},
+        {"name": "edulcorante", "amount": 3, "unit": "g"}
+      ],
+      "steps": ["Pon todos los ingredientes en la batidora.", "Bate a velocidad alta 30-45 segundos hasta que esté cremoso.", "Sirve frío con hielo si lo deseas."],
+      "prepTime": 3, "cookTime": 0, "servings": 2,
+      "macros": {"calories": 380, "protein": 10, "fat": 36, "carbs": 7}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-b10", "name": "Tortilla de jamón serrano y queso", "mealType": "breakfast",
+      "description": "Tortilla enrollada con jamón serrano y queso manchego fundido.",
+      "ingredients": [
+        {"name": "huevos", "amount": 180, "unit": "g"},
+        {"name": "jamón serrano", "amount": 60, "unit": "g"},
+        {"name": "queso manchego rallado", "amount": 40, "unit": "g"},
+        {"name": "aceite de oliva", "amount": 10, "unit": "ml"}
+      ],
+      "steps": ["Bate los huevos con sal y pimienta.", "Calienta el aceite en la sartén y cuaja la tortilla a fuego medio.", "Cuando casi esté hecha, añade el jamón y el queso, enrolla y sirve."],
+      "prepTime": 3, "cookTime": 6, "servings": 2,
+      "macros": {"calories": 420, "protein": 34, "fat": 32, "carbs": 2}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-l1", "name": "Ensalada César con pollo y bacon", "mealType": "lunch",
+      "description": "La clásica César keto con pollo a la plancha, bacon crujiente y aderezo cremoso.",
+      "ingredients": [
+        {"name": "pechuga de pollo", "amount": 150, "unit": "g"},
+        {"name": "bacon", "amount": 40, "unit": "g"},
+        {"name": "lechuga romana", "amount": 100, "unit": "g"},
+        {"name": "queso parmesano rallado", "amount": 30, "unit": "g"},
+        {"name": "mayonesa", "amount": 30, "unit": "g"},
+        {"name": "aceite de oliva", "amount": 15, "unit": "ml"}
+      ],
+      "steps": ["Cocina el pollo a la plancha con sal y pimienta. Corta en tiras.", "Fríe el bacon hasta que esté crujiente.", "Mezcla lechuga, pollo, bacon y parmesano. Aliña con mayonesa diluida con un poco de limón."],
+      "prepTime": 10, "cookTime": 12, "servings": 2,
+      "macros": {"calories": 480, "protein": 38, "fat": 36, "carbs": 4}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-l2", "name": "Wrap de lechuga con atún y aguacate", "mealType": "lunch",
+      "description": "Wraps frescos de lechuga rellenos de atún, aguacate y mayonesa.",
+      "ingredients": [
+        {"name": "atún en aceite de oliva", "amount": 120, "unit": "g"},
+        {"name": "aguacate", "amount": 100, "unit": "g"},
+        {"name": "mayonesa", "amount": 20, "unit": "g"},
+        {"name": "hojas de lechuga grandes", "amount": 80, "unit": "g"},
+        {"name": "tomate cherry", "amount": 50, "unit": "g"}
+      ],
+      "steps": ["Escurre el atún y mezcla con la mayonesa, zumo de limón y pimienta.", "Aplasta el aguacate con sal.", "Rellena las hojas de lechuga con el aguacate, el atún y los tomatitos."],
+      "prepTime": 10, "cookTime": 0, "servings": 2,
+      "macros": {"calories": 380, "protein": 28, "fat": 28, "carbs": 5}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-l3", "name": "Hamburguesa keto sin pan", "mealType": "lunch",
+      "description": "Jugosa hamburguesa de ternera con queso, bacon y verduras, sin pan.",
+      "ingredients": [
+        {"name": "carne picada de ternera", "amount": 200, "unit": "g"},
+        {"name": "queso cheddar", "amount": 40, "unit": "g"},
+        {"name": "bacon", "amount": 40, "unit": "g"},
+        {"name": "lechuga", "amount": 30, "unit": "g"},
+        {"name": "tomate", "amount": 30, "unit": "g"},
+        {"name": "mayonesa", "amount": 20, "unit": "g"}
+      ],
+      "steps": ["Forma hamburguesas con la carne, salpimenta y cocina a la plancha 4 min por lado.", "Añade el bacon y el queso en los últimos 2 min para que se fundan.", "Sirve sobre hojas de lechuga con tomate y mayonesa."],
+      "prepTime": 5, "cookTime": 10, "servings": 2,
+      "macros": {"calories": 580, "protein": 40, "fat": 45, "carbs": 4}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-l4", "name": "Quiche de bacon sin masa", "mealType": "lunch",
+      "description": "Quiche cremosa de bacon, queso y espinacas sin base de masa.",
+      "ingredients": [
+        {"name": "bacon", "amount": 80, "unit": "g"},
+        {"name": "huevos", "amount": 150, "unit": "g"},
+        {"name": "nata para cocinar", "amount": 100, "unit": "ml"},
+        {"name": "queso gruyère rallado", "amount": 50, "unit": "g"},
+        {"name": "espinacas", "amount": 50, "unit": "g"},
+        {"name": "mantequilla", "amount": 10, "unit": "g"}
+      ],
+      "steps": ["Precalienta el horno a 180°C. Sofríe el bacon y las espinacas 3 min.", "Bate los huevos con la nata, sal y pimienta. Añade el bacon y espinacas.", "Vierte en molde engrasado, añade el queso encima y hornea 25-30 min."],
+      "prepTime": 10, "cookTime": 30, "servings": 2,
+      "macros": {"calories": 520, "protein": 30, "fat": 44, "carbs": 4}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-l5", "name": "Ensalada de salmón con rúcula y nueces", "mealType": "lunch",
+      "description": "Ensalada fresca con salmón a la plancha, rúcula, nueces y parmesano.",
+      "ingredients": [
+        {"name": "lomo de salmón", "amount": 150, "unit": "g"},
+        {"name": "rúcula", "amount": 60, "unit": "g"},
+        {"name": "nueces", "amount": 30, "unit": "g"},
+        {"name": "queso parmesano", "amount": 20, "unit": "g"},
+        {"name": "aceite de oliva virgen extra", "amount": 20, "unit": "ml"}
+      ],
+      "steps": ["Cocina el salmón a la plancha 3-4 min por lado con sal y pimienta.", "Coloca la rúcula en la base del plato.", "Pon el salmón encima, añade nueces, parmesano y aliña con aceite y limón."],
+      "prepTime": 5, "cookTime": 8, "servings": 2,
+      "macros": {"calories": 480, "protein": 34, "fat": 38, "carbs": 3}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-l6", "name": "Pollo salteado con brócoli y ajo", "mealType": "lunch",
+      "description": "Salteado rápido de pollo tierno con brócoli al dente y ajo dorado.",
+      "ingredients": [
+        {"name": "pechuga de pollo", "amount": 180, "unit": "g"},
+        {"name": "brócoli", "amount": 150, "unit": "g"},
+        {"name": "aceite de coco", "amount": 20, "unit": "ml"},
+        {"name": "ajo", "amount": 8, "unit": "g"},
+        {"name": "salsa de soja sin azúcar", "amount": 15, "unit": "ml"}
+      ],
+      "steps": ["Corta el pollo en trozos y el brócoli en floretes.", "Saltea el ajo en aceite de coco, añade el pollo y cocina 5 min.", "Añade el brócoli y la salsa de soja, saltea 5 min más hasta que esté al dente."],
+      "prepTime": 10, "cookTime": 12, "servings": 2,
+      "macros": {"calories": 360, "protein": 42, "fat": 16, "carbs": 7}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-l7", "name": "Carne picada con calabacín y queso", "mealType": "lunch",
+      "description": "Sofrito de carne picada con calabacín y queso gratinado encima.",
+      "ingredients": [
+        {"name": "carne picada mixta", "amount": 180, "unit": "g"},
+        {"name": "calabacín", "amount": 150, "unit": "g"},
+        {"name": "tomate triturado", "amount": 80, "unit": "g"},
+        {"name": "ajo", "amount": 5, "unit": "g"},
+        {"name": "aceite de oliva", "amount": 15, "unit": "ml"},
+        {"name": "queso mozzarella rallado", "amount": 40, "unit": "g"}
+      ],
+      "steps": ["Sofríe el ajo en aceite, añade la carne picada y cocina 5 min.", "Añade el calabacín en cubos y el tomate triturado. Cocina 8 min.", "Gratina con mozzarella en el horno 3-4 min hasta que se dore."],
+      "prepTime": 10, "cookTime": 18, "servings": 2,
+      "macros": {"calories": 450, "protein": 36, "fat": 32, "carbs": 6}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-l8", "name": "Revuelto de gambas y espárragos", "mealType": "lunch",
+      "description": "Revuelto meloso de gambas frescas con espárragos trigueros.",
+      "ingredients": [
+        {"name": "gambas peladas", "amount": 150, "unit": "g"},
+        {"name": "espárragos trigueros", "amount": 100, "unit": "g"},
+        {"name": "huevos", "amount": 100, "unit": "g"},
+        {"name": "ajo", "amount": 5, "unit": "g"},
+        {"name": "aceite de oliva", "amount": 20, "unit": "ml"},
+        {"name": "mantequilla", "amount": 10, "unit": "g"}
+      ],
+      "steps": ["Saltea el ajo en aceite, añade las gambas y los espárragos troceados 3 min.", "Baja el fuego, añade los huevos batidos y la mantequilla.", "Revuelve suavemente hasta que quede cremoso."],
+      "prepTime": 8, "cookTime": 8, "servings": 2,
+      "macros": {"calories": 380, "protein": 34, "fat": 26, "carbs": 4}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-l9", "name": "Sopa de pollo con verduras keto", "mealType": "lunch",
+      "description": "Reconfortante sopa de pollo con apio, champiñones y nata.",
+      "ingredients": [
+        {"name": "pechuga de pollo", "amount": 150, "unit": "g"},
+        {"name": "caldo de pollo", "amount": 400, "unit": "ml"},
+        {"name": "nata para cocinar", "amount": 60, "unit": "ml"},
+        {"name": "apio", "amount": 60, "unit": "g"},
+        {"name": "champiñones", "amount": 80, "unit": "g"},
+        {"name": "ajo", "amount": 5, "unit": "g"}
+      ],
+      "steps": ["Hierve el pollo en el caldo 15 min. Retira y desmenuza.", "Sofríe el ajo, apio y champiñones en mantequilla 5 min.", "Añade el caldo, el pollo desmenuzado y la nata. Calienta 5 min y sirve."],
+      "prepTime": 5, "cookTime": 25, "servings": 2,
+      "macros": {"calories": 320, "protein": 30, "fat": 20, "carbs": 5}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-l10", "name": "Ensalada caprese keto con aguacate", "mealType": "lunch",
+      "description": "Versión keto de la caprese con aguacate, mozzarella y albahaca fresca.",
+      "ingredients": [
+        {"name": "mozzarella fresca", "amount": 150, "unit": "g"},
+        {"name": "tomate", "amount": 100, "unit": "g"},
+        {"name": "aguacate", "amount": 80, "unit": "g"},
+        {"name": "albahaca fresca", "amount": 10, "unit": "g"},
+        {"name": "aceite de oliva virgen extra", "amount": 20, "unit": "ml"}
+      ],
+      "steps": ["Corta la mozzarella, el tomate y el aguacate en rodajas.", "Coloca de forma alternada en el plato.", "Aliña con aceite, sal en escamas y albahaca fresca."],
+      "prepTime": 8, "cookTime": 0, "servings": 2,
+      "macros": {"calories": 420, "protein": 18, "fat": 36, "carbs": 6}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-d1", "name": "Salmón al horno con espárragos", "mealType": "dinner",
+      "description": "Salmón jugoso al horno con espárragos, mantequilla y limón.",
+      "ingredients": [
+        {"name": "lomo de salmón", "amount": 200, "unit": "g"},
+        {"name": "espárragos", "amount": 150, "unit": "g"},
+        {"name": "mantequilla", "amount": 20, "unit": "g"},
+        {"name": "ajo", "amount": 5, "unit": "g"},
+        {"name": "zumo de limón", "amount": 15, "unit": "ml"}
+      ],
+      "steps": ["Precalienta el horno a 200°C.", "Coloca el salmón y los espárragos en una bandeja. Añade mantequilla, ajo laminado y limón.", "Hornea 15-18 min hasta que el salmón esté listo."],
+      "prepTime": 5, "cookTime": 18, "servings": 2,
+      "macros": {"calories": 460, "protein": 40, "fat": 32, "carbs": 4}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-d2", "name": "Pollo al limón con coliflor salteada", "mealType": "dinner",
+      "description": "Muslos de pollo al horno con salsa de limón y coliflor dorada.",
+      "ingredients": [
+        {"name": "muslos de pollo", "amount": 200, "unit": "g"},
+        {"name": "coliflor", "amount": 200, "unit": "g"},
+        {"name": "mantequilla", "amount": 25, "unit": "g"},
+        {"name": "zumo de limón", "amount": 20, "unit": "ml"},
+        {"name": "ajo", "amount": 5, "unit": "g"},
+        {"name": "romero fresco", "amount": 3, "unit": "g"}
+      ],
+      "steps": ["Precalienta el horno a 190°C. Unta el pollo con mantequilla, limón, ajo y romero.", "Hornea 30 min hasta que esté dorado.", "Saltea la coliflor en trozos con mantequilla y sal hasta que esté dorada."],
+      "prepTime": 10, "cookTime": 30, "servings": 2,
+      "macros": {"calories": 420, "protein": 38, "fat": 28, "carbs": 6}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-d3", "name": "Chuletón a la plancha con rúcula", "mealType": "dinner",
+      "description": "Chuletón jugoso a la plancha sobre cama de rúcula y parmesano.",
+      "ingredients": [
+        {"name": "chuletón de ternera", "amount": 250, "unit": "g"},
+        {"name": "rúcula", "amount": 60, "unit": "g"},
+        {"name": "queso parmesano", "amount": 20, "unit": "g"},
+        {"name": "aceite de oliva", "amount": 15, "unit": "ml"},
+        {"name": "sal en escamas", "amount": 3, "unit": "g"}
+      ],
+      "steps": ["Saca el chuletón de la nevera 20 min antes. Salpimenta generosamente.", "Cocina en sartén muy caliente con aceite, 3-4 min por lado.", "Reposa 3 min y sirve sobre la rúcula con parmesano y sal en escamas."],
+      "prepTime": 5, "cookTime": 10, "servings": 2,
+      "macros": {"calories": 520, "protein": 46, "fat": 36, "carbs": 2}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-d4", "name": "Bacalao con mantequilla y alcaparras", "mealType": "dinner",
+      "description": "Bacalao a la plancha con salsa de mantequilla dorada y alcaparras.",
+      "ingredients": [
+        {"name": "lomos de bacalao fresco", "amount": 200, "unit": "g"},
+        {"name": "mantequilla", "amount": 30, "unit": "g"},
+        {"name": "alcaparras", "amount": 20, "unit": "g"},
+        {"name": "ajo", "amount": 5, "unit": "g"},
+        {"name": "perejil picado", "amount": 5, "unit": "g"},
+        {"name": "zumo de limón", "amount": 15, "unit": "ml"}
+      ],
+      "steps": ["Seca el bacalao y cocínalo en sartén con aceite 3-4 min por lado.", "En otra sartén, derrite la mantequilla hasta que se dore, añade ajo y alcaparras 1 min.", "Vierte la salsa sobre el bacalao, añade perejil y limón."],
+      "prepTime": 5, "cookTime": 12, "servings": 2,
+      "macros": {"calories": 360, "protein": 40, "fat": 22, "carbs": 2}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-d5", "name": "Lomo de cerdo a la mostaza", "mealType": "dinner",
+      "description": "Lomo de cerdo en salsa cremosa de mostaza con judías verdes salteadas.",
+      "ingredients": [
+        {"name": "lomo de cerdo", "amount": 200, "unit": "g"},
+        {"name": "judías verdes", "amount": 150, "unit": "g"},
+        {"name": "mostaza de Dijon", "amount": 20, "unit": "g"},
+        {"name": "nata para cocinar", "amount": 60, "unit": "ml"},
+        {"name": "aceite de oliva", "amount": 15, "unit": "ml"},
+        {"name": "ajo", "amount": 5, "unit": "g"}
+      ],
+      "steps": ["Salpimenta el lomo y dóralo en aceite 4 min por lado.", "En la misma sartén, sofríe el ajo, añade la nata y la mostaza. Calienta 2 min.", "Saltea las judías con sal y sirve todo junto con la salsa."],
+      "prepTime": 8, "cookTime": 15, "servings": 2,
+      "macros": {"calories": 440, "protein": 38, "fat": 30, "carbs": 6}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-d6", "name": "Pollo al curry con leche de coco", "mealType": "dinner",
+      "description": "Pollo tierno en salsa aromática de curry y leche de coco.",
+      "ingredients": [
+        {"name": "pechuga de pollo", "amount": 200, "unit": "g"},
+        {"name": "leche de coco", "amount": 150, "unit": "ml"},
+        {"name": "curry en polvo", "amount": 8, "unit": "g"},
+        {"name": "cebolla", "amount": 40, "unit": "g"},
+        {"name": "ajo", "amount": 5, "unit": "g"},
+        {"name": "aceite de coco", "amount": 15, "unit": "ml"},
+        {"name": "espinacas", "amount": 50, "unit": "g"}
+      ],
+      "steps": ["Sofríe la cebolla y el ajo en aceite de coco hasta que se doren.", "Añade el curry y el pollo en trozos, cocina 5 min.", "Incorpora la leche de coco y las espinacas. Cocina a fuego lento 10 min."],
+      "prepTime": 10, "cookTime": 18, "servings": 2,
+      "macros": {"calories": 460, "protein": 38, "fat": 32, "carbs": 8}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-d7", "name": "Ternera con champiñones y nata", "mealType": "dinner",
+      "description": "Filetes de ternera en salsa cremosa de champiñones.",
+      "ingredients": [
+        {"name": "filetes de ternera", "amount": 200, "unit": "g"},
+        {"name": "champiñones", "amount": 150, "unit": "g"},
+        {"name": "nata para cocinar", "amount": 80, "unit": "ml"},
+        {"name": "mantequilla", "amount": 20, "unit": "g"},
+        {"name": "ajo", "amount": 5, "unit": "g"},
+        {"name": "perejil picado", "amount": 5, "unit": "g"}
+      ],
+      "steps": ["Dora los filetes en mantequilla 2-3 min por lado. Retira y reserva.", "En la misma sartén, saltea el ajo y los champiñones laminados 5 min.", "Añade la nata, lleva a ebullición 2 min y vuelve a poner la carne. Sirve con perejil."],
+      "prepTime": 5, "cookTime": 15, "servings": 2,
+      "macros": {"calories": 480, "protein": 40, "fat": 34, "carbs": 5}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-d8", "name": "Lubina al horno con verduras", "mealType": "dinner",
+      "description": "Lubina entera al horno con pimiento, ajo y aceite de oliva.",
+      "ingredients": [
+        {"name": "lubina entera limpia", "amount": 300, "unit": "g"},
+        {"name": "aceite de oliva virgen extra", "amount": 30, "unit": "ml"},
+        {"name": "ajo", "amount": 8, "unit": "g"},
+        {"name": "pimiento rojo", "amount": 60, "unit": "g"},
+        {"name": "zumo de limón", "amount": 20, "unit": "ml"},
+        {"name": "perejil fresco", "amount": 8, "unit": "g"}
+      ],
+      "steps": ["Precalienta el horno a 200°C. Haz cortes en la lubina y pon ajo laminado dentro.", "Coloca en bandeja con pimiento en tiras, riega con aceite y limón.", "Hornea 20-25 min. Sirve con perejil fresco."],
+      "prepTime": 8, "cookTime": 25, "servings": 2,
+      "macros": {"calories": 380, "protein": 42, "fat": 22, "carbs": 4}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-d9", "name": "Costillas de cerdo al horno con especias", "mealType": "dinner",
+      "description": "Costillas tiernas al horno con mezcla de especias ahumadas.",
+      "ingredients": [
+        {"name": "costillas de cerdo", "amount": 300, "unit": "g"},
+        {"name": "mantequilla", "amount": 20, "unit": "g"},
+        {"name": "ajo en polvo", "amount": 5, "unit": "g"},
+        {"name": "pimentón ahumado", "amount": 5, "unit": "g"},
+        {"name": "comino molido", "amount": 3, "unit": "g"},
+        {"name": "sal", "amount": 3, "unit": "g"}
+      ],
+      "steps": ["Precalienta el horno a 160°C. Mezcla las especias y frota bien las costillas.", "Envuelve en papel de aluminio y hornea 1h 30 min.", "Destapa, sube a 220°C y hornea 10 min más para que se doren."],
+      "prepTime": 10, "cookTime": 100, "servings": 2,
+      "macros": {"calories": 520, "protein": 40, "fat": 40, "carbs": 3}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-d10", "name": "Tortilla de atún y pimientos asados", "mealType": "dinner",
+      "description": "Tortilla jugosa con atún y pimientos asados, abundante y nutritiva.",
+      "ingredients": [
+        {"name": "huevos", "amount": 200, "unit": "g"},
+        {"name": "atún en aceite de oliva", "amount": 120, "unit": "g"},
+        {"name": "pimiento rojo asado", "amount": 60, "unit": "g"},
+        {"name": "aceite de oliva", "amount": 15, "unit": "ml"},
+        {"name": "orégano seco", "amount": 2, "unit": "g"}
+      ],
+      "steps": ["Escurre el atún. Bate los huevos con sal, pimienta y orégano.", "Calienta el aceite en la sartén, añade el pimiento y el atún 1 min.", "Vierte los huevos, cuaja a fuego medio-bajo dando la vuelta con cuidado."],
+      "prepTime": 5, "cookTime": 8, "servings": 2,
+      "macros": {"calories": 420, "protein": 44, "fat": 26, "carbs": 4}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-s1", "name": "Aguacate con sal en escamas y limón", "mealType": "snack",
+      "description": "El snack keto más sencillo y nutritivo.",
+      "ingredients": [
+        {"name": "aguacate maduro", "amount": 120, "unit": "g"},
+        {"name": "sal en escamas", "amount": 2, "unit": "g"},
+        {"name": "zumo de limón", "amount": 10, "unit": "ml"}
+      ],
+      "steps": ["Abre el aguacate y retira el hueso.", "Exprime el limón encima, añade sal en escamas y pimienta.", "Come directamente de la piel con una cuchara."],
+      "prepTime": 2, "cookTime": 0, "servings": 2,
+      "macros": {"calories": 190, "protein": 2, "fat": 18, "carbs": 2}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-s2", "name": "Mix de frutos secos variados", "mealType": "snack",
+      "description": "Mezcla energética de almendras, nueces y semillas de calabaza.",
+      "ingredients": [
+        {"name": "almendras crudas", "amount": 30, "unit": "g"},
+        {"name": "nueces", "amount": 20, "unit": "g"},
+        {"name": "semillas de calabaza", "amount": 15, "unit": "g"},
+        {"name": "semillas de girasol", "amount": 10, "unit": "g"}
+      ],
+      "steps": ["Mezcla todos los ingredientes en un bol.", "Puedes tostar ligeramente en sartén sin aceite 2-3 min.", "Sirve a temperatura ambiente."],
+      "prepTime": 2, "cookTime": 0, "servings": 2,
+      "macros": {"calories": 290, "protein": 9, "fat": 26, "carbs": 6}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-s3", "name": "Chips de queso parmesano", "mealType": "snack",
+      "description": "Chips crujientes de parmesano al horno, perfectos para picar.",
+      "ingredients": [
+        {"name": "queso parmesano rallado", "amount": 60, "unit": "g"},
+        {"name": "pimentón dulce", "amount": 2, "unit": "g"},
+        {"name": "orégano seco", "amount": 1, "unit": "g"}
+      ],
+      "steps": ["Precalienta el horno a 200°C. Forra una bandeja con papel de hornear.", "Haz montoncitos de queso con pimentón y orégano.", "Hornea 5-7 min hasta que estén dorados. Deja enfriar antes de despegar."],
+      "prepTime": 3, "cookTime": 7, "servings": 2,
+      "macros": {"calories": 240, "protein": 20, "fat": 18, "carbs": 2}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-s4", "name": "Rollitos de jamón con queso crema", "mealType": "snack",
+      "description": "Rollitos de jamón rellenos de queso crema y pepinillo.",
+      "ingredients": [
+        {"name": "jamón cocido en lonchas", "amount": 60, "unit": "g"},
+        {"name": "queso crema", "amount": 40, "unit": "g"},
+        {"name": "pepinillo en vinagre", "amount": 20, "unit": "g"},
+        {"name": "mostaza de Dijon", "amount": 5, "unit": "g"}
+      ],
+      "steps": ["Extiende las lonchas de jamón.", "Unta cada loncha con queso crema y un poco de mostaza.", "Pon un trocito de pepinillo y enrolla."],
+      "prepTime": 5, "cookTime": 0, "servings": 2,
+      "macros": {"calories": 200, "protein": 16, "fat": 14, "carbs": 3}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-s5", "name": "Huevo duro con mayonesa y pimentón", "mealType": "snack",
+      "description": "Clásico huevo duro con mayonesa y pimentón ahumado.",
+      "ingredients": [
+        {"name": "huevos", "amount": 120, "unit": "g"},
+        {"name": "mayonesa", "amount": 20, "unit": "g"},
+        {"name": "pimentón ahumado", "amount": 2, "unit": "g"}
+      ],
+      "steps": ["Cuece los huevos 10 min en agua hirviendo. Enfría en agua fría.", "Pela y corta por la mitad.", "Añade una cucharadita de mayonesa encima y espolvorea pimentón."],
+      "prepTime": 2, "cookTime": 10, "servings": 2,
+      "macros": {"calories": 240, "protein": 14, "fat": 20, "carbs": 1}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-s6", "name": "Aceitunas con queso feta", "mealType": "snack",
+      "description": "Combinación mediterránea de aceitunas y queso feta.",
+      "ingredients": [
+        {"name": "aceitunas variadas", "amount": 60, "unit": "g"},
+        {"name": "queso feta", "amount": 50, "unit": "g"},
+        {"name": "aceite de oliva virgen extra", "amount": 5, "unit": "ml"},
+        {"name": "orégano seco", "amount": 2, "unit": "g"}
+      ],
+      "steps": ["Escurre las aceitunas.", "Corta el queso feta en dados.", "Mezcla en un bol, aliña con aceite y orégano."],
+      "prepTime": 3, "cookTime": 0, "servings": 2,
+      "macros": {"calories": 220, "protein": 8, "fat": 20, "carbs": 3}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-s7", "name": "Palitos de apio con mantequilla de almendra", "mealType": "snack",
+      "description": "Palitos de apio crujientes con mantequilla de almendra cremosa.",
+      "ingredients": [
+        {"name": "apio en ramas", "amount": 100, "unit": "g"},
+        {"name": "mantequilla de almendra", "amount": 30, "unit": "g"},
+        {"name": "sal en escamas", "amount": 1, "unit": "g"}
+      ],
+      "steps": ["Lava y corta el apio en palitos de 10 cm.", "Sirve la mantequilla de almendra en un bol para mojar.", "Espolvorea sal en escamas sobre la mantequilla."],
+      "prepTime": 3, "cookTime": 0, "servings": 2,
+      "macros": {"calories": 180, "protein": 6, "fat": 16, "carbs": 5}, "isPregnancySafe": true
+    },
+    {
+      "id": "db-s8", "name": "Pepino con salmón ahumado y queso crema", "mealType": "snack",
+      "description": "Rodajas de pepino con queso crema y salmón ahumado.",
+      "ingredients": [
+        {"name": "pepino", "amount": 100, "unit": "g"},
+        {"name": "salmón ahumado", "amount": 60, "unit": "g"},
+        {"name": "queso crema", "amount": 40, "unit": "g"},
+        {"name": "eneldo fresco", "amount": 3, "unit": "g"}
+      ],
+      "steps": ["Corta el pepino en rodajas gruesas.", "Pon una cucharadita de queso crema encima de cada rodaja.", "Coloca un trocito de salmón y decora con eneldo."],
+      "prepTime": 5, "cookTime": 0, "servings": 2,
+      "macros": {"calories": 200, "protein": 14, "fat": 16, "carbs": 3}, "isPregnancySafe": true
+    }
+  ]
+}
