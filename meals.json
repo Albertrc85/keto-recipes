@@ -10004,6 +10004,2431 @@
         "carbs": 8
       },
       "isPregnancySafe": true
+    },
+    {
+      "id": "db-l11",
+      "name": "Ensalada griega keto con pollo y feta",
+      "mealType": "lunch",
+      "description": "Ensalada fresca estilo griego con pollo, feta, aceitunas y pepino.",
+      "ingredients": [
+        {
+          "name": "pechuga de pollo",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "name": "queso feta",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "pepino",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "aceitunas negras",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "name": "tomate",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 15,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Cocina el pollo a la plancha con sal y orégano y córtalo en tiras.",
+        "Mezcla pepino, tomate y aceitunas en un bowl.",
+        "Añade el pollo, desmenuza el feta y aliña con aceite y limón."
+      ],
+      "prepTime": 10,
+      "cookTime": 12,
+      "servings": 2,
+      "macros": {
+        "calories": 504,
+        "protein": 38,
+        "fat": 36,
+        "carbs": 7
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-l12",
+      "name": "Ensalada templada de salmón y aguacate",
+      "mealType": "lunch",
+      "description": "Salmón a la plancha sobre hojas verdes con aguacate y vinagreta de limón.",
+      "ingredients": [
+        {
+          "name": "lomo de salmón",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "aguacate",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "mezcla de hojas verdes",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "zumo de limón",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Cocina el salmón a la plancha 3-4 minutos por lado.",
+        "Reparte las hojas verdes y el aguacate en dos platos.",
+        "Añade el salmón y aliña con aceite, limón, sal y pimienta."
+      ],
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 588,
+        "protein": 34,
+        "fat": 48,
+        "carbs": 5
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-l13",
+      "name": "Crema de calabacín con queso",
+      "mealType": "lunch",
+      "description": "Crema suave de calabacín con queso crema y un toque de nuez moscada.",
+      "ingredients": [
+        {
+          "name": "calabacín",
+          "amount": 350,
+          "unit": "g"
+        },
+        {
+          "name": "caldo de pollo",
+          "amount": 350,
+          "unit": "ml"
+        },
+        {
+          "name": "queso crema",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "nuez moscada",
+          "amount": 1,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Saltea el calabacín troceado con aceite 3 minutos.",
+        "Añade el caldo y cocina 12 minutos hasta ablandar.",
+        "Tritura con queso crema y ajusta de sal y nuez moscada."
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 378,
+        "protein": 10,
+        "fat": 34,
+        "carbs": 8
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-l14",
+      "name": "Bowl de coliflor con ternera y salsa de soja",
+      "mealType": "lunch",
+      "description": "Salteado de ternera con 'arroz' de coliflor, jengibre y salsa de soja.",
+      "ingredients": [
+        {
+          "name": "carne de ternera en tiras",
+          "amount": 220,
+          "unit": "g"
+        },
+        {
+          "name": "coliflor rallada",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "name": "salsa de soja",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "jengibre fresco",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Saltea la ternera en aceite a fuego alto 3-4 minutos.",
+        "Añade jengibre y la coliflor rallada; cocina 5 minutos.",
+        "Incorpora la salsa de soja, mezcla 1 minuto y sirve."
+      ],
+      "prepTime": 10,
+      "cookTime": 12,
+      "servings": 2,
+      "macros": {
+        "calories": 566,
+        "protein": 40,
+        "fat": 42,
+        "carbs": 7
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-l15",
+      "name": "Zoodles con pesto y pollo",
+      "mealType": "lunch",
+      "description": "Fideos de calabacín con pesto y pollo a la plancha.",
+      "ingredients": [
+        {
+          "name": "calabacín",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "pechuga de pollo",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "name": "pesto",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "queso parmesano rallado",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Cocina el pollo a la plancha y córtalo en tiras.",
+        "Saltea los zoodles 2-3 minutos con aceite para que queden al dente.",
+        "Mezcla con el pesto, añade el pollo y termina con parmesano."
+      ],
+      "prepTime": 12,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 592,
+        "protein": 42,
+        "fat": 44,
+        "carbs": 7
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-l16",
+      "name": "Tacos de lechuga con carne y queso",
+      "mealType": "lunch",
+      "description": "Tacos sin tortilla: hojas de lechuga rellenas de carne especiada y queso.",
+      "ingredients": [
+        {
+          "name": "carne picada de ternera",
+          "amount": 220,
+          "unit": "g"
+        },
+        {
+          "name": "hojas de lechuga grandes",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar rallado",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "pimentón",
+          "amount": 2,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Dora la carne en aceite con pimentón, comino y sal.",
+        "Rellena hojas de lechuga con la carne caliente.",
+        "Añade cheddar por encima y sirve."
+      ],
+      "prepTime": 10,
+      "cookTime": 12,
+      "servings": 2,
+      "macros": {
+        "calories": 600,
+        "protein": 38,
+        "fat": 48,
+        "carbs": 4
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-l17",
+      "name": "Ensalada de huevo con mayonesa y apio",
+      "mealType": "lunch",
+      "description": "Ensalada cremosa de huevo duro con apio crujiente (perfecta para wraps).",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "name": "mayonesa",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "name": "apio",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "mostaza",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Cuece los huevos 10 minutos, enfría y pica.",
+        "Mezcla con mayonesa, mostaza y apio picado.",
+        "Ajusta de sal y pimienta y sirve frío."
+      ],
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 500,
+        "protein": 22,
+        "fat": 44,
+        "carbs": 4
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-l18",
+      "name": "Ensalada de atún con aceitunas y pepinillos",
+      "mealType": "lunch",
+      "description": "Atún con mayonesa, aceitunas y pepinillos: saciante y rápida.",
+      "ingredients": [
+        {
+          "name": "atún en aceite de oliva",
+          "amount": 160,
+          "unit": "g"
+        },
+        {
+          "name": "mayonesa",
+          "amount": 35,
+          "unit": "g"
+        },
+        {
+          "name": "aceitunas verdes",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "name": "pepinillos",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "zumo de limón",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Escurre ligeramente el atún y desmenúzalo.",
+        "Mezcla con mayonesa, aceitunas y pepinillos picados.",
+        "Añade limón y pimienta y sirve."
+      ],
+      "prepTime": 8,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 528,
+        "protein": 30,
+        "fat": 44,
+        "carbs": 3
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-l19",
+      "name": "Quiche sin masa de brócoli y cheddar",
+      "mealType": "lunch",
+      "description": "Quiche sin base con brócoli, cheddar y nata, muy cremosa.",
+      "ingredients": [
+        {
+          "name": "brócoli",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "nata para cocinar",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "queso cheddar rallado",
+          "amount": 70,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Cuece el brócoli 3 minutos y escúrrelo.",
+        "Bate huevos con nata y mezcla con el brócoli.",
+        "Vierte en un molde engrasado, añade cheddar y hornea 25 minutos a 180°C."
+      ],
+      "prepTime": 10,
+      "cookTime": 25,
+      "servings": 2,
+      "macros": {
+        "calories": 680,
+        "protein": 28,
+        "fat": 60,
+        "carbs": 7
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-l20",
+      "name": "Ensalada de col con cerdo desmenuzado",
+      "mealType": "lunch",
+      "description": "Col crujiente con cerdo desmenuzado y aderezo cremoso.",
+      "ingredients": [
+        {
+          "name": "lomo de cerdo cocido y desmenuzado",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "col blanca",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "mayonesa",
+          "amount": 35,
+          "unit": "g"
+        },
+        {
+          "name": "vinagre de manzana",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Mezcla la col finamente cortada con mayonesa y vinagre.",
+        "Añade el cerdo desmenuzado y remueve.",
+        "Ajusta de sal y pimienta y deja reposar 10 minutos si puedes."
+      ],
+      "prepTime": 12,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 632,
+        "protein": 34,
+        "fat": 52,
+        "carbs": 7
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-l21",
+      "name": "Crema de champiñones con nata",
+      "mealType": "lunch",
+      "description": "Crema rápida de champiñones con nata y ajo, súper reconfortante.",
+      "ingredients": [
+        {
+          "name": "champiñones",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "caldo de pollo",
+          "amount": 350,
+          "unit": "ml"
+        },
+        {
+          "name": "nata para cocinar",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "name": "ajo",
+          "amount": 6,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Saltea champiñones y ajo con mantequilla 6-7 minutos.",
+        "Añade el caldo y cocina 10 minutos.",
+        "Tritura y añade la nata; calienta 2 minutos y sirve."
+      ],
+      "prepTime": 10,
+      "cookTime": 18,
+      "servings": 2,
+      "macros": {
+        "calories": 570,
+        "protein": 14,
+        "fat": 54,
+        "carbs": 7
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-l22",
+      "name": "Ensalada de espinacas con bacon y nueces",
+      "mealType": "lunch",
+      "description": "Espinacas frescas con bacon crujiente, nueces y queso parmesano.",
+      "ingredients": [
+        {
+          "name": "espinacas frescas",
+          "amount": 140,
+          "unit": "g"
+        },
+        {
+          "name": "bacon",
+          "amount": 70,
+          "unit": "g"
+        },
+        {
+          "name": "nueces",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "name": "queso parmesano rallado",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Fríe el bacon hasta que esté crujiente y deja escurrir.",
+        "Mezcla las espinacas con nueces y parmesano.",
+        "Añade el bacon y aliña con aceite y vinagre."
+      ],
+      "prepTime": 10,
+      "cookTime": 8,
+      "servings": 2,
+      "macros": {
+        "calories": 606,
+        "protein": 24,
+        "fat": 54,
+        "carbs": 6
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-l23",
+      "name": "Ensalada caprese keto con pesto",
+      "mealType": "lunch",
+      "description": "Caprese con mozzarella, tomate y pesto, sin azúcar añadido.",
+      "ingredients": [
+        {
+          "name": "mozzarella fresca",
+          "amount": 160,
+          "unit": "g"
+        },
+        {
+          "name": "tomate",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "pesto",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "albahaca fresca",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Corta mozzarella y tomate en rodajas.",
+        "Alterna en el plato, añade albahaca y pesto.",
+        "Termina con aceite, sal y pimienta."
+      ],
+      "prepTime": 10,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 566,
+        "protein": 22,
+        "fat": 50,
+        "carbs": 7
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-l24",
+      "name": "Salteado de gambas con ajo y calabacín",
+      "mealType": "lunch",
+      "description": "Gambas al ajillo con calabacín en medias lunas, listo en 15 minutos.",
+      "ingredients": [
+        {
+          "name": "gambas peladas",
+          "amount": 220,
+          "unit": "g"
+        },
+        {
+          "name": "calabacín",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "ajo",
+          "amount": 6,
+          "unit": "g"
+        },
+        {
+          "name": "perejil picado",
+          "amount": 3,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Saltea el ajo en aceite 30 segundos.",
+        "Añade las gambas y cocina 2-3 minutos.",
+        "Incorpora el calabacín y saltea 4-5 minutos; termina con perejil."
+      ],
+      "prepTime": 10,
+      "cookTime": 12,
+      "servings": 2,
+      "macros": {
+        "calories": 488,
+        "protein": 34,
+        "fat": 36,
+        "carbs": 7
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-l25",
+      "name": "Wrap de lechuga con pavo, queso y mostaza",
+      "mealType": "lunch",
+      "description": "Wraps crujientes de lechuga con pavo, queso y salsa de mostaza.",
+      "ingredients": [
+        {
+          "name": "pechuga de pavo",
+          "amount": 160,
+          "unit": "g"
+        },
+        {
+          "name": "queso gouda",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "hojas de lechuga grandes",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "mayonesa",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "mostaza",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla mayonesa y mostaza para hacer una salsa rápida.",
+        "Rellena las hojas de lechuga con pavo y queso.",
+        "Añade la salsa, enrolla y sirve."
+      ],
+      "prepTime": 10,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 476,
+        "protein": 34,
+        "fat": 36,
+        "carbs": 4
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-l26",
+      "name": "Ensalada de aguacate y sardinas",
+      "mealType": "lunch",
+      "description": "Ensalada rápida con sardinas, aguacate y hojas verdes.",
+      "ingredients": [
+        {
+          "name": "sardinas en aceite de oliva",
+          "amount": 160,
+          "unit": "g"
+        },
+        {
+          "name": "aguacate",
+          "amount": 140,
+          "unit": "g"
+        },
+        {
+          "name": "mezcla de hojas verdes",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "zumo de limón",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Escurre ligeramente las sardinas.",
+        "Reparte hojas verdes y aguacate en platos.",
+        "Añade sardinas y aliña con limón, sal y pimienta."
+      ],
+      "prepTime": 8,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 618,
+        "protein": 28,
+        "fat": 54,
+        "carbs": 5
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-l27",
+      "name": "Coliflor tipo tabulé con pollo",
+      "mealType": "lunch",
+      "description": "Tabulé keto con coliflor rallada, pepino, hierbas y pollo.",
+      "ingredients": [
+        {
+          "name": "coliflor rallada",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "name": "pechuga de pollo",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "name": "pepino",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "perejil picado",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "zumo de limón",
+          "amount": 15,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Cocina el pollo a la plancha y córtalo en dados.",
+        "Mezcla coliflor rallada, pepino y perejil.",
+        "Añade el pollo y aliña con aceite y limón."
+      ],
+      "prepTime": 12,
+      "cookTime": 12,
+      "servings": 2,
+      "macros": {
+        "calories": 516,
+        "protein": 40,
+        "fat": 36,
+        "carbs": 8
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-l28",
+      "name": "Sopa rápida de pollo y coliflor",
+      "mealType": "lunch",
+      "description": "Sopa ligera y keto con pollo, coliflor y caldo.",
+      "ingredients": [
+        {
+          "name": "pechuga de pollo",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "name": "coliflor",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "caldo de pollo",
+          "amount": 600,
+          "unit": "ml"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "apio",
+          "amount": 60,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Lleva el caldo a ebullición y añade coliflor y apio picados.",
+        "Cocina 10 minutos y añade el pollo en dados.",
+        "Cocina 8-10 minutos más hasta que el pollo esté hecho."
+      ],
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 416,
+        "protein": 34,
+        "fat": 28,
+        "carbs": 7
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-l29",
+      "name": "Rollitos de berenjena con ricotta",
+      "mealType": "lunch",
+      "description": "Láminas de berenjena asadas rellenas de ricotta y espinacas.",
+      "ingredients": [
+        {
+          "name": "berenjena",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "ricotta",
+          "amount": 160,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "queso parmesano rallado",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Corta la berenjena en láminas y ásalas 10 minutos a 200°C con aceite.",
+        "Mezcla ricotta con espinacas salteadas y sal.",
+        "Rellena las láminas, enrolla y gratina 5 minutos con parmesano."
+      ],
+      "prepTime": 12,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 606,
+        "protein": 22,
+        "fat": 54,
+        "carbs": 8
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-l30",
+      "name": "Pimientos rellenos de atún y queso",
+      "mealType": "lunch",
+      "description": "Pimientos asados rellenos de atún y queso, gratinados al final.",
+      "ingredients": [
+        {
+          "name": "pimiento rojo",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "name": "atún en aceite de oliva",
+          "amount": 160,
+          "unit": "g"
+        },
+        {
+          "name": "mayonesa",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "name": "queso mozzarella rallado",
+          "amount": 60,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Asa los pimientos 20 minutos a 200°C y retira semillas.",
+        "Mezcla el atún con la mayonesa y rellena los pimientos.",
+        "Cubre con mozzarella y gratina 5 minutos."
+      ],
+      "prepTime": 10,
+      "cookTime": 25,
+      "servings": 2,
+      "macros": {
+        "calories": 552,
+        "protein": 32,
+        "fat": 44,
+        "carbs": 7
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-l31",
+      "name": "Ensalada de brócoli con mayonesa y parmesano",
+      "mealType": "lunch",
+      "description": "Brócoli tierno con aderezo de mayonesa y parmesano.",
+      "ingredients": [
+        {
+          "name": "brócoli",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "name": "mayonesa",
+          "amount": 35,
+          "unit": "g"
+        },
+        {
+          "name": "queso parmesano rallado",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Cuece el brócoli 3-4 minutos y enfría para que quede crujiente.",
+        "Mezcla mayonesa con parmesano y aceite.",
+        "Integra con el brócoli y ajusta de sal y pimienta."
+      ],
+      "prepTime": 10,
+      "cookTime": 8,
+      "servings": 2,
+      "macros": {
+        "calories": 484,
+        "protein": 14,
+        "fat": 44,
+        "carbs": 8
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-l32",
+      "name": "Ensalada de queso de cabra y tomates cherry",
+      "mealType": "lunch",
+      "description": "Ensalada simple con queso de cabra, tomates cherry y semillas.",
+      "ingredients": [
+        {
+          "name": "mezcla de hojas verdes",
+          "amount": 140,
+          "unit": "g"
+        },
+        {
+          "name": "tomate cherry",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "queso de cabra",
+          "amount": 70,
+          "unit": "g"
+        },
+        {
+          "name": "semillas de girasol",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 15,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Mezcla hojas verdes y tomates cherry cortados.",
+        "Añade queso de cabra y semillas.",
+        "Aliña con aceite, sal y pimienta."
+      ],
+      "prepTime": 10,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 568,
+        "protein": 18,
+        "fat": 52,
+        "carbs": 7
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-l33",
+      "name": "Pollo con mayonesa de ajo y ensalada de pepino",
+      "mealType": "lunch",
+      "description": "Pollo a la plancha con mayonesa de ajo y pepino crujiente.",
+      "ingredients": [
+        {
+          "name": "pechuga de pollo",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "mayonesa",
+          "amount": 35,
+          "unit": "g"
+        },
+        {
+          "name": "ajo",
+          "amount": 4,
+          "unit": "g"
+        },
+        {
+          "name": "pepino",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Cocina el pollo a la plancha con sal y pimienta.",
+        "Mezcla mayonesa con ajo rallado para hacer un alioli rápido.",
+        "Sirve el pollo con pepino en rodajas y un chorrito de aceite."
+      ],
+      "prepTime": 10,
+      "cookTime": 12,
+      "servings": 2,
+      "macros": {
+        "calories": 552,
+        "protein": 42,
+        "fat": 40,
+        "carbs": 6
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-l34",
+      "name": "Bowl de ensalada Cobb keto",
+      "mealType": "lunch",
+      "description": "Ensalada tipo Cobb con pollo, huevo, bacon y aguacate.",
+      "ingredients": [
+        {
+          "name": "pechuga de pollo",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "bacon",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "aguacate",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "lechuga romana",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Cuece el huevo 10 minutos y fríe el bacon hasta crujir.",
+        "Cocina el pollo a la plancha y córtalo.",
+        "Monta el bowl con lechuga, pollo, huevo, bacon y aguacate; aliña al gusto."
+      ],
+      "prepTime": 15,
+      "cookTime": 12,
+      "servings": 2,
+      "macros": {
+        "calories": 650,
+        "protein": 44,
+        "fat": 50,
+        "carbs": 6
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-l35",
+      "name": "Salmorejo keto de tomate y almendra",
+      "mealType": "lunch",
+      "description": "Salmorejo sin pan: tomate, almendra molida y aceite de oliva.",
+      "ingredients": [
+        {
+          "name": "tomate",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "name": "harina de almendra",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 25,
+          "unit": "ml"
+        },
+        {
+          "name": "ajo",
+          "amount": 3,
+          "unit": "g"
+        },
+        {
+          "name": "jamón serrano",
+          "amount": 40,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Tritura tomate, almendra, ajo, aceite y sal hasta que quede fino.",
+        "Enfría 20 minutos en la nevera.",
+        "Sirve con jamón picado por encima."
+      ],
+      "prepTime": 10,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 512,
+        "protein": 12,
+        "fat": 48,
+        "carbs": 8
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d11",
+      "name": "Salmón a la mantequilla de limón con brócoli",
+      "mealType": "dinner",
+      "description": "Salmón jugoso con salsa de mantequilla y limón, acompañado de brócoli.",
+      "ingredients": [
+        {
+          "name": "lomo de salmón",
+          "amount": 260,
+          "unit": "g"
+        },
+        {
+          "name": "brócoli",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "zumo de limón",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Hornea el salmón 12-14 minutos a 190°C con sal y pimienta.",
+        "Cuece o saltea el brócoli con aceite 6-7 minutos.",
+        "Derrite la mantequilla, añade limón y vierte sobre el salmón antes de servir."
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 652,
+        "protein": 40,
+        "fat": 52,
+        "carbs": 6
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d12",
+      "name": "Pollo cremoso al ajo con espinacas",
+      "mealType": "dinner",
+      "description": "Pollo en salsa cremosa de ajo y nata con espinacas tiernas.",
+      "ingredients": [
+        {
+          "name": "pechuga de pollo",
+          "amount": 260,
+          "unit": "g"
+        },
+        {
+          "name": "nata para cocinar",
+          "amount": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "espinacas",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "ajo",
+          "amount": 8,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Dora el pollo en mantequilla 4-5 minutos por lado y retira.",
+        "Saltea el ajo 30 segundos, añade la nata y reduce 3 minutos.",
+        "Incorpora espinacas y vuelve a poner el pollo 4-5 minutos hasta terminar."
+      ],
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 666,
+        "protein": 48,
+        "fat": 50,
+        "carbs": 6
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d13",
+      "name": "Solomillo de cerdo con salsa de mostaza y coliflor asada",
+      "mealType": "dinner",
+      "description": "Solomillo tierno con salsa de mostaza y coliflor al horno.",
+      "ingredients": [
+        {
+          "name": "solomillo de cerdo",
+          "amount": 260,
+          "unit": "g"
+        },
+        {
+          "name": "coliflor",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "nata para cocinar",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "mostaza",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 15,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Asa la coliflor con aceite y sal 20 minutos a 200°C.",
+        "Sella el solomillo en sartén 3-4 minutos por lado y deja reposar.",
+        "Calienta nata con mostaza 3 minutos y sirve la salsa sobre el cerdo."
+      ],
+      "prepTime": 12,
+      "cookTime": 25,
+      "servings": 2,
+      "macros": {
+        "calories": 684,
+        "protein": 46,
+        "fat": 52,
+        "carbs": 8
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d14",
+      "name": "Ternera salteada con brócoli y sésamo",
+      "mealType": "dinner",
+      "description": "Salteado estilo asiático con ternera, brócoli y semillas de sésamo.",
+      "ingredients": [
+        {
+          "name": "carne de ternera en tiras",
+          "amount": 260,
+          "unit": "g"
+        },
+        {
+          "name": "brócoli",
+          "amount": 220,
+          "unit": "g"
+        },
+        {
+          "name": "salsa de soja",
+          "amount": 25,
+          "unit": "ml"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "sésamo",
+          "amount": 6,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Saltea la ternera en aceite a fuego alto 3-4 minutos.",
+        "Añade el brócoli y un chorrito de agua; tapa 4 minutos.",
+        "Incorpora salsa de soja, espolvorea sésamo y cocina 1 minuto."
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 616,
+        "protein": 48,
+        "fat": 44,
+        "carbs": 7
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d15",
+      "name": "Pechugas rellenas de queso y pesto",
+      "mealType": "dinner",
+      "description": "Pechuga abierta y rellena de queso fundente y pesto aromático.",
+      "ingredients": [
+        {
+          "name": "pechuga de pollo",
+          "amount": 260,
+          "unit": "g"
+        },
+        {
+          "name": "queso mozzarella",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "pesto",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 15,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Abre las pechugas en forma de libro y salpimenta.",
+        "Rellena con pesto y mozzarella, cierra con palillos si hace falta.",
+        "Hornea 18-20 minutos a 190°C o hasta que el pollo esté hecho."
+      ],
+      "prepTime": 10,
+      "cookTime": 22,
+      "servings": 2,
+      "macros": {
+        "calories": 646,
+        "protein": 52,
+        "fat": 46,
+        "carbs": 6
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d16",
+      "name": "Albóndigas con salsa de tomate keto",
+      "mealType": "dinner",
+      "description": "Albóndigas jugosas con salsa de tomate sin azúcar y queso por encima.",
+      "ingredients": [
+        {
+          "name": "carne picada de ternera",
+          "amount": 260,
+          "unit": "g"
+        },
+        {
+          "name": "tomate triturado sin azúcar",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "queso parmesano rallado",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "ajo",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Forma albóndigas, salpimenta y dóralas en aceite.",
+        "Añade ajo y tomate triturado; cocina 12-15 minutos a fuego medio.",
+        "Termina con parmesano y sirve."
+      ],
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 604,
+        "protein": 44,
+        "fat": 44,
+        "carbs": 8
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d17",
+      "name": "Berenjenas rellenas de carne y queso",
+      "mealType": "dinner",
+      "description": "Berenjenas al horno rellenas de carne especiada y queso gratinado.",
+      "ingredients": [
+        {
+          "name": "berenjena",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "carne picada de ternera",
+          "amount": 220,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar rallado",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "cebolla",
+          "amount": 40,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Parte las berenjenas, haz cortes y hornéalas 20 minutos a 200°C.",
+        "Saca la pulpa, pícala y saltéala con cebolla y carne 10 minutos.",
+        "Rellena, cubre con cheddar y gratina 5 minutos."
+      ],
+      "prepTime": 15,
+      "cookTime": 35,
+      "servings": 2,
+      "macros": {
+        "calories": 668,
+        "protein": 42,
+        "fat": 52,
+        "carbs": 8
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d18",
+      "name": "Lasaña de calabacín con boloñesa",
+      "mealType": "dinner",
+      "description": "Lasaña keto con láminas de calabacín y boloñesa cremosa.",
+      "ingredients": [
+        {
+          "name": "calabacín",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "name": "carne picada de ternera",
+          "amount": 260,
+          "unit": "g"
+        },
+        {
+          "name": "tomate triturado sin azúcar",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "name": "queso mozzarella rallado",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 15,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Saltea la carne en aceite, añade tomate y cocina 12 minutos.",
+        "Corta el calabacín en láminas finas y monta capas con salsa y mozzarella.",
+        "Hornea 20 minutos a 190°C hasta gratinar."
+      ],
+      "prepTime": 20,
+      "cookTime": 30,
+      "servings": 2,
+      "macros": {
+        "calories": 684,
+        "protein": 46,
+        "fat": 52,
+        "carbs": 8
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d19",
+      "name": "Pollo tikka masala keto con coliflor arroz",
+      "mealType": "dinner",
+      "description": "Pollo especiado en salsa cremosa estilo tikka masala, con coliflor.",
+      "ingredients": [
+        {
+          "name": "muslos de pollo deshuesados",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "coliflor rallada",
+          "amount": 260,
+          "unit": "g"
+        },
+        {
+          "name": "nata para cocinar",
+          "amount": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "tomate triturado sin azúcar",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "garam masala",
+          "amount": 3,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Dora el pollo en mantequilla 6-7 minutos.",
+        "Añade tomate y especias, cocina 5 minutos y agrega la nata; reduce 5 minutos.",
+        "Saltea la coliflor 5 minutos y sirve el pollo encima."
+      ],
+      "prepTime": 15,
+      "cookTime": 25,
+      "servings": 2,
+      "macros": {
+        "calories": 702,
+        "protein": 46,
+        "fat": 54,
+        "carbs": 8
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d20",
+      "name": "Bacalao al horno con pimientos y alioli",
+      "mealType": "dinner",
+      "description": "Bacalao al horno con pimientos asados y alioli rápido de mayonesa.",
+      "ingredients": [
+        {
+          "name": "lomos de bacalao",
+          "amount": 260,
+          "unit": "g"
+        },
+        {
+          "name": "pimiento rojo",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "name": "mayonesa",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "name": "ajo",
+          "amount": 4,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Asa el pimiento en tiras 15 minutos a 200°C con aceite y sal.",
+        "Añade el bacalao y hornea 10-12 minutos.",
+        "Mezcla mayonesa con ajo rallado y sirve el alioli por encima."
+      ],
+      "prepTime": 12,
+      "cookTime": 25,
+      "servings": 2,
+      "macros": {
+        "calories": 608,
+        "protein": 46,
+        "fat": 44,
+        "carbs": 7
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d21",
+      "name": "Hamburguesas de pollo con ensalada crujiente",
+      "mealType": "dinner",
+      "description": "Hamburguesas de pollo sin pan con ensalada de col y pepino.",
+      "ingredients": [
+        {
+          "name": "carne picada de pollo",
+          "amount": 260,
+          "unit": "g"
+        },
+        {
+          "name": "col blanca",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "name": "pepino",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "mayonesa",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Forma hamburguesas con la carne de pollo, salpimenta y cocina 4-5 minutos por lado.",
+        "Corta col y pepino y mezcla con mayonesa y sal.",
+        "Sirve las hamburguesas con la ensalada."
+      ],
+      "prepTime": 12,
+      "cookTime": 12,
+      "servings": 2,
+      "macros": {
+        "calories": 564,
+        "protein": 44,
+        "fat": 40,
+        "carbs": 7
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d22",
+      "name": "Costillas al horno con col cremosa",
+      "mealType": "dinner",
+      "description": "Costillas especiadas al horno acompañadas de col cremosa.",
+      "ingredients": [
+        {
+          "name": "costillas de cerdo",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "col blanca",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "name": "nata para cocinar",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "pimentón",
+          "amount": 2,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Hornea las costillas con sal, pimienta y pimentón 60-70 minutos a 170°C.",
+        "Saltea la col con mantequilla 6 minutos.",
+        "Añade nata, reduce 4 minutos y sirve junto a las costillas."
+      ],
+      "prepTime": 15,
+      "cookTime": 75,
+      "servings": 2,
+      "macros": {
+        "calories": 816,
+        "protein": 52,
+        "fat": 64,
+        "carbs": 8
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d23",
+      "name": "Muslos de pollo al curry verde con coco",
+      "mealType": "dinner",
+      "description": "Curry verde suave con leche de coco y muslos de pollo tiernos.",
+      "ingredients": [
+        {
+          "name": "muslos de pollo deshuesados",
+          "amount": 320,
+          "unit": "g"
+        },
+        {
+          "name": "leche de coco",
+          "amount": 250,
+          "unit": "ml"
+        },
+        {
+          "name": "pasta de curry verde",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "name": "calabacín",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Dora el pollo en aceite 6-7 minutos.",
+        "Añade pasta de curry, mezcla 30 segundos y agrega la leche de coco.",
+        "Incorpora el calabacín y cocina 10-12 minutos a fuego suave."
+      ],
+      "prepTime": 12,
+      "cookTime": 25,
+      "servings": 2,
+      "macros": {
+        "calories": 766,
+        "protein": 44,
+        "fat": 62,
+        "carbs": 8
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d24",
+      "name": "Salteado de cerdo con col y jengibre",
+      "mealType": "dinner",
+      "description": "Salteado rápido de cerdo con col, jengibre y salsa de soja.",
+      "ingredients": [
+        {
+          "name": "lomo de cerdo en tiras",
+          "amount": 280,
+          "unit": "g"
+        },
+        {
+          "name": "col blanca",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "name": "salsa de soja",
+          "amount": 25,
+          "unit": "ml"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "jengibre fresco",
+          "amount": 6,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Saltea el cerdo en aceite a fuego alto 4-5 minutos.",
+        "Añade jengibre y la col; cocina 6-7 minutos.",
+        "Incorpora salsa de soja y cocina 1 minuto más."
+      ],
+      "prepTime": 12,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 630,
+        "protein": 46,
+        "fat": 46,
+        "carbs": 8
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d25",
+      "name": "Tortilla española keto de coliflor",
+      "mealType": "dinner",
+      "description": "Tortilla estilo española usando coliflor en lugar de patata.",
+      "ingredients": [
+        {
+          "name": "coliflor",
+          "amount": 350,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 220,
+          "unit": "g"
+        },
+        {
+          "name": "cebolla",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 20,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Cuece la coliflor en trozos 6 minutos y escúrrela muy bien.",
+        "Saltea la cebolla en aceite, añade la coliflor y cocina 3 minutos.",
+        "Mezcla con los huevos batidos y cuaja la tortilla por ambos lados."
+      ],
+      "prepTime": 15,
+      "cookTime": 18,
+      "servings": 2,
+      "macros": {
+        "calories": 602,
+        "protein": 30,
+        "fat": 50,
+        "carbs": 8
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d26",
+      "name": "Cazuela gratinada de pollo y brócoli",
+      "mealType": "dinner",
+      "description": "Cazuela cremosa de pollo y brócoli con queso gratinado.",
+      "ingredients": [
+        {
+          "name": "pechuga de pollo",
+          "amount": 260,
+          "unit": "g"
+        },
+        {
+          "name": "brócoli",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "name": "nata para cocinar",
+          "amount": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "queso mozzarella rallado",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Cuece el brócoli 3 minutos y reserva.",
+        "Saltea el pollo en mantequilla 8-10 minutos.",
+        "Mezcla con nata, pon en fuente, cubre con mozzarella y gratina 10 minutos."
+      ],
+      "prepTime": 12,
+      "cookTime": 25,
+      "servings": 2,
+      "macros": {
+        "calories": 732,
+        "protein": 50,
+        "fat": 56,
+        "carbs": 7
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d27",
+      "name": "Gambas al ajillo con espaguetis de calabacín",
+      "mealType": "dinner",
+      "description": "Gambas al ajillo servidas sobre espaguetis de calabacín al dente.",
+      "ingredients": [
+        {
+          "name": "gambas peladas",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "calabacín",
+          "amount": 450,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "ajo",
+          "amount": 8,
+          "unit": "g"
+        },
+        {
+          "name": "perejil picado",
+          "amount": 4,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Dora el ajo en aceite 30 segundos.",
+        "Añade las gambas y cocina 2-3 minutos.",
+        "Saltea el calabacín 2 minutos, mezcla con las gambas y termina con perejil."
+      ],
+      "prepTime": 15,
+      "cookTime": 12,
+      "servings": 2,
+      "macros": {
+        "calories": 612,
+        "protein": 46,
+        "fat": 44,
+        "carbs": 8
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d28",
+      "name": "Chuletas de cordero al romero con ensalada",
+      "mealType": "dinner",
+      "description": "Chuletas de cordero a la plancha con romero y ensalada verde.",
+      "ingredients": [
+        {
+          "name": "chuletas de cordero",
+          "amount": 320,
+          "unit": "g"
+        },
+        {
+          "name": "mezcla de hojas verdes",
+          "amount": 160,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "romero seco",
+          "amount": 2,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Salpimenta el cordero, añade romero y cocina a la plancha 3-4 minutos por lado.",
+        "Mezcla las hojas verdes y aliña con aceite y vinagre.",
+        "Sirve las chuletas con la ensalada."
+      ],
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 768,
+        "protein": 44,
+        "fat": 64,
+        "carbs": 4
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d29",
+      "name": "Pollo a la parmesana keto",
+      "mealType": "dinner",
+      "description": "Pollo con costra de almendra y parmesano, gratinado con mozzarella.",
+      "ingredients": [
+        {
+          "name": "pechuga de pollo",
+          "amount": 260,
+          "unit": "g"
+        },
+        {
+          "name": "harina de almendra",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "name": "queso parmesano rallado",
+          "amount": 35,
+          "unit": "g"
+        },
+        {
+          "name": "queso mozzarella rallado",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 15,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Mezcla almendra molida con parmesano y reboza el pollo.",
+        "Dora en sartén con aceite 3 minutos por lado.",
+        "Cubre con mozzarella y hornea 10 minutos a 200°C para gratinar."
+      ],
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 740,
+        "protein": 52,
+        "fat": 56,
+        "carbs": 7
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d30",
+      "name": "Pavo al horno con mantequilla y judías verdes",
+      "mealType": "dinner",
+      "description": "Pavo jugoso al horno con judías verdes salteadas.",
+      "ingredients": [
+        {
+          "name": "pechuga de pavo",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "judías verdes",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Hornea el pavo 20-25 minutos a 190°C (según grosor).",
+        "Saltea las judías con mantequilla 6-7 minutos.",
+        "Sirve el pavo con las judías y ajusta de sal."
+      ],
+      "prepTime": 10,
+      "cookTime": 25,
+      "servings": 2,
+      "macros": {
+        "calories": 636,
+        "protein": 52,
+        "fat": 44,
+        "carbs": 8
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d31",
+      "name": "Salmón en papillote con limón y calabacín",
+      "mealType": "dinner",
+      "description": "Salmón al papillote con calabacín y limón para una cena limpia.",
+      "ingredients": [
+        {
+          "name": "lomo de salmón",
+          "amount": 260,
+          "unit": "g"
+        },
+        {
+          "name": "calabacín",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "zumo de limón",
+          "amount": 15,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Coloca salmón y calabacín en papel de horno, añade aceite y limón.",
+        "Cierra el papillote y hornea 15 minutos a 190°C.",
+        "Abre con cuidado y sirve."
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 624,
+        "protein": 40,
+        "fat": 48,
+        "carbs": 8
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d32",
+      "name": "Estofado keto de ternera y setas",
+      "mealType": "dinner",
+      "description": "Estofado lento de ternera con setas y toque de nata.",
+      "ingredients": [
+        {
+          "name": "carne de ternera para guisar",
+          "amount": 320,
+          "unit": "g"
+        },
+        {
+          "name": "setas",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "caldo de carne",
+          "amount": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "nata para cocinar",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 15,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Dora la ternera en aceite 6-7 minutos.",
+        "Añade setas y caldo y cocina a fuego suave 45-60 minutos.",
+        "Agrega la nata al final, cocina 3 minutos y ajusta de sal."
+      ],
+      "prepTime": 15,
+      "cookTime": 60,
+      "servings": 2,
+      "macros": {
+        "calories": 708,
+        "protein": 52,
+        "fat": 52,
+        "carbs": 8
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d33",
+      "name": "Fajitas keto de pollo con pimientos",
+      "mealType": "dinner",
+      "description": "Fajitas sin tortilla: pollo salteado con pimientos y especias.",
+      "ingredients": [
+        {
+          "name": "pechuga de pollo",
+          "amount": 280,
+          "unit": "g"
+        },
+        {
+          "name": "pimiento verde",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "pimiento rojo",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "cebolla",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 15,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Corta pollo y verduras en tiras.",
+        "Saltea todo en aceite a fuego alto 8-10 minutos con comino y pimentón.",
+        "Sirve tal cual o sobre hojas de lechuga."
+      ],
+      "prepTime": 12,
+      "cookTime": 12,
+      "servings": 2,
+      "macros": {
+        "calories": 530,
+        "protein": 48,
+        "fat": 34,
+        "carbs": 8
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d34",
+      "name": "Pizza keto con base de coliflor",
+      "mealType": "dinner",
+      "description": "Pizza baja en carbohidratos con base de coliflor y mucho queso.",
+      "ingredients": [
+        {
+          "name": "coliflor rallada",
+          "amount": 450,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "queso mozzarella rallado",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "tomate triturado sin azúcar",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "pepperoni",
+          "amount": 80,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Cocina la coliflor al micro 6 minutos, escurre muy bien y mezcla con huevo y parte del queso.",
+        "Forma una base y hornea 15 minutos a 200°C.",
+        "Añade tomate, mozzarella y pepperoni y hornea 8-10 minutos más."
+      ],
+      "prepTime": 20,
+      "cookTime": 25,
+      "servings": 2,
+      "macros": {
+        "calories": 802,
+        "protein": 44,
+        "fat": 66,
+        "carbs": 8
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
+    },
+    {
+      "id": "db-d35",
+      "name": "Gratinado de coliflor con chorizo y queso",
+      "mealType": "dinner",
+      "description": "Coliflor gratinada con chorizo y queso, muy reconfortante.",
+      "ingredients": [
+        {
+          "name": "coliflor",
+          "amount": 350,
+          "unit": "g"
+        },
+        {
+          "name": "chorizo",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "nata para cocinar",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "queso cheddar rallado",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Cuece la coliflor 6 minutos y escúrrela.",
+        "Dora el chorizo en una sartén 3 minutos.",
+        "Mezcla coliflor, nata y chorizo, cubre con cheddar y gratina 12 minutos a 200°C."
+      ],
+      "prepTime": 15,
+      "cookTime": 25,
+      "servings": 2,
+      "macros": {
+        "calories": 870,
+        "protein": 34,
+        "fat": 78,
+        "carbs": 8
+      },
+      "isPregnancySafe": true,
+      "courseType": "single"
     }
   ]
 }

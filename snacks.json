@@ -655,6 +655,1026 @@
         "carbs": 2
       },
       "isPregnancySafe": true
+    },
+    {
+      "id": "db-s9",
+      "name": "Chips de cheddar al horno",
+      "mealType": "snack",
+      "description": "Chips crujientes de cheddar, perfectos para picar.",
+      "ingredients": [
+        {
+          "name": "queso cheddar rallado",
+          "amount": 120,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Precalienta el horno a 190°C y forra una bandeja con papel.",
+        "Haz montoncitos de cheddar dejando espacio entre ellos.",
+        "Hornea 6-8 minutos hasta dorar; deja enfriar para que queden crujientes."
+      ],
+      "prepTime": 5,
+      "cookTime": 8,
+      "servings": 2,
+      "macros": {
+        "calories": 242,
+        "protein": 18,
+        "fat": 18,
+        "carbs": 2
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s10",
+      "name": "Bombones de coco y cacao",
+      "mealType": "snack",
+      "description": "Bocados dulces keto con coco, cacao y un toque de vainilla.",
+      "ingredients": [
+        {
+          "name": "coco rallado sin azúcar",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "cacao en polvo sin azúcar",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "name": "edulcorante",
+          "amount": 6,
+          "unit": "g"
+        },
+        {
+          "name": "extracto de vainilla",
+          "amount": 2,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Derrite la mantequilla y mezcla con coco, cacao, edulcorante y vainilla.",
+        "Forma bolitas pequeñas y colócalas en una bandeja.",
+        "Refrigera 20-30 minutos hasta que estén firmes."
+      ],
+      "prepTime": 10,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 248,
+        "protein": 4,
+        "fat": 24,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s11",
+      "name": "Rollitos de pavo con queso crema y rúcula",
+      "mealType": "snack",
+      "description": "Rollitos fríos de pavo rellenos de queso crema y rúcula.",
+      "ingredients": [
+        {
+          "name": "pechuga de pavo",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "queso crema",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "rúcula",
+          "amount": 30,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Unta el queso crema sobre las lonchas de pavo.",
+        "Añade rúcula, enrolla y corta por la mitad.",
+        "Sirve frío."
+      ],
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 210,
+        "protein": 18,
+        "fat": 14,
+        "carbs": 3
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s12",
+      "name": "Palitos de apio con crema de cacahuete",
+      "mealType": "snack",
+      "description": "Snack crujiente de apio con crema de cacahuete sin azúcar.",
+      "ingredients": [
+        {
+          "name": "apio",
+          "amount": 160,
+          "unit": "g"
+        },
+        {
+          "name": "crema de cacahuete",
+          "amount": 40,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Lava y corta el apio en bastones.",
+        "Rellena con crema de cacahuete.",
+        "Opcional: espolvorea canela o sal en escamas."
+      ],
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 214,
+        "protein": 8,
+        "fat": 18,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s13",
+      "name": "Aceitunas aliñadas con ajo y orégano",
+      "mealType": "snack",
+      "description": "Aceitunas marinadas con ajo, orégano y aceite de oliva.",
+      "ingredients": [
+        {
+          "name": "aceitunas verdes",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "ajo",
+          "amount": 3,
+          "unit": "g"
+        },
+        {
+          "name": "orégano seco",
+          "amount": 2,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla aceitunas con aceite, ajo picado y orégano.",
+        "Deja reposar 10 minutos para que se impregnen.",
+        "Sirve a temperatura ambiente."
+      ],
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 146,
+        "protein": 2,
+        "fat": 14,
+        "carbs": 3
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s14",
+      "name": "Huevos rellenos de atún",
+      "mealType": "snack",
+      "description": "Huevos rellenos cremosos con atún y mayonesa.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 140,
+          "unit": "g"
+        },
+        {
+          "name": "atún en aceite de oliva",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "mayonesa",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "pimentón",
+          "amount": 1,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Cuece los huevos 10 minutos, enfría y corta por la mitad.",
+        "Mezcla yemas con atún y mayonesa.",
+        "Rellena las claras y espolvorea pimentón."
+      ],
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 260,
+        "protein": 18,
+        "fat": 20,
+        "carbs": 2
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s15",
+      "name": "Guacamole rápido con lima y cilantro",
+      "mealType": "snack",
+      "description": "Guacamole simple con lima y cilantro para mojar con verduras.",
+      "ingredients": [
+        {
+          "name": "aguacate",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "zumo de lima",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "cilantro fresco",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "name": "cebolla",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Machaca el aguacate con un tenedor.",
+        "Añade lima, cebolla muy picada, cilantro, sal y pimienta.",
+        "Sirve al momento."
+      ],
+      "prepTime": 8,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 238,
+        "protein": 4,
+        "fat": 22,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s16",
+      "name": "Dip de espinacas y queso",
+      "mealType": "snack",
+      "description": "Dip caliente de espinacas y queso, ideal con apio o pepino.",
+      "ingredients": [
+        {
+          "name": "espinacas",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "queso crema",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "queso mozzarella rallado",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "nata para cocinar",
+          "amount": 50,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Mezcla todos los ingredientes en un recipiente apto para horno.",
+        "Hornea 12-15 minutos a 190°C hasta burbujear.",
+        "Remueve y sirve caliente."
+      ],
+      "prepTime": 8,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 314,
+        "protein": 14,
+        "fat": 26,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s17",
+      "name": "Brochetas caprese mini",
+      "mealType": "snack",
+      "description": "Brochetas de mozzarella y tomate cherry con albahaca.",
+      "ingredients": [
+        {
+          "name": "tomate cherry",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "bolitas de mozzarella",
+          "amount": 140,
+          "unit": "g"
+        },
+        {
+          "name": "albahaca fresca",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Ensarta tomate, mozzarella y albahaca en palillos.",
+        "Aliña con aceite, sal y pimienta.",
+        "Sirve frío."
+      ],
+      "prepTime": 10,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 296,
+        "protein": 14,
+        "fat": 24,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s18",
+      "name": "Almendras tostadas con pimentón",
+      "mealType": "snack",
+      "description": "Almendras tostadas con pimentón ahumado y sal.",
+      "ingredients": [
+        {
+          "name": "almendras crudas",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 5,
+          "unit": "ml"
+        },
+        {
+          "name": "pimentón",
+          "amount": 2,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla almendras con aceite, pimentón y sal.",
+        "Tuesta en sartén 4-5 minutos removiendo.",
+        "Deja enfriar antes de servir."
+      ],
+      "prepTime": 5,
+      "cookTime": 5,
+      "servings": 2,
+      "macros": {
+        "calories": 246,
+        "protein": 8,
+        "fat": 22,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s19",
+      "name": "Crackers keto de semillas",
+      "mealType": "snack",
+      "description": "Crackers finos hechos con semillas y agua, sin harinas.",
+      "ingredients": [
+        {
+          "name": "semillas de chía",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "semillas de lino molidas",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "semillas de sésamo",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "name": "agua",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 5,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Mezcla semillas con agua, sal y aceite; deja gelificar 10 minutos.",
+        "Extiende fino sobre una bandeja con papel.",
+        "Hornea 25-30 minutos a 160°C y corta en crackers."
+      ],
+      "prepTime": 12,
+      "cookTime": 30,
+      "servings": 2,
+      "macros": {
+        "calories": 228,
+        "protein": 8,
+        "fat": 20,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s20",
+      "name": "Chocolate caliente keto con nata",
+      "mealType": "snack",
+      "description": "Chocolate caliente cremoso con cacao puro y nata.",
+      "ingredients": [
+        {
+          "name": "leche de almendra sin azúcar",
+          "amount": 250,
+          "unit": "ml"
+        },
+        {
+          "name": "nata para cocinar",
+          "amount": 60,
+          "unit": "ml"
+        },
+        {
+          "name": "cacao en polvo sin azúcar",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "name": "edulcorante",
+          "amount": 4,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Calienta la leche de almendra con la nata sin que hierva.",
+        "Añade cacao y edulcorante y bate para integrar.",
+        "Sirve caliente."
+      ],
+      "prepTime": 5,
+      "cookTime": 5,
+      "servings": 2,
+      "macros": {
+        "calories": 220,
+        "protein": 4,
+        "fat": 20,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s21",
+      "name": "Yogur griego con canela y almendras",
+      "mealType": "snack",
+      "description": "Yogur griego entero con canela y almendras crujientes.",
+      "ingredients": [
+        {
+          "name": "yogur griego natural",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "almendras crudas",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "name": "canela molida",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "name": "edulcorante",
+          "amount": 3,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla el yogur con el edulcorante y la canela.",
+        "Añade almendras troceadas.",
+        "Sirve frío."
+      ],
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 344,
+        "protein": 16,
+        "fat": 28,
+        "carbs": 7
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s22",
+      "name": "Bocados de pepinillo con queso y jamón",
+      "mealType": "snack",
+      "description": "Pepinillos rellenos de queso y cubiertos con jamón.",
+      "ingredients": [
+        {
+          "name": "pepinillos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "queso crema",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "jamón serrano",
+          "amount": 60,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Seca los pepinillos y ábrelos por la mitad si son grandes.",
+        "Rellena con queso crema.",
+        "Envuelve con jamón y sirve."
+      ],
+      "prepTime": 10,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 238,
+        "protein": 16,
+        "fat": 18,
+        "carbs": 3
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s23",
+      "name": "Cucharitas de salmón y aguacate",
+      "mealType": "snack",
+      "description": "Bocados fríos de salmón y aguacate con limón.",
+      "ingredients": [
+        {
+          "name": "salmón ahumado",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "aguacate",
+          "amount": 140,
+          "unit": "g"
+        },
+        {
+          "name": "zumo de limón",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "cebollino picado",
+          "amount": 3,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Machaca el aguacate con limón, sal y pimienta.",
+        "Coloca una cucharadita y añade tiras de salmón encima.",
+        "Termina con cebollino."
+      ],
+      "prepTime": 8,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 302,
+        "protein": 12,
+        "fat": 26,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s24",
+      "name": "Barritas keto de almendra y coco",
+      "mealType": "snack",
+      "description": "Barritas caseras sin horno con almendra, coco y mantequilla.",
+      "ingredients": [
+        {
+          "name": "harina de almendra",
+          "amount": 70,
+          "unit": "g"
+        },
+        {
+          "name": "coco rallado sin azúcar",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 35,
+          "unit": "g"
+        },
+        {
+          "name": "edulcorante",
+          "amount": 6,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla almendra, coco y edulcorante.",
+        "Añade mantequilla derretida y compacta en un molde pequeño.",
+        "Refrigera 1 hora y corta en barritas."
+      ],
+      "prepTime": 12,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 304,
+        "protein": 8,
+        "fat": 28,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s25",
+      "name": "Trufas de queso crema y cacao",
+      "mealType": "snack",
+      "description": "Trufas keto con queso crema, cacao y edulcorante.",
+      "ingredients": [
+        {
+          "name": "queso crema",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "cacao en polvo sin azúcar",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "name": "edulcorante",
+          "amount": 6,
+          "unit": "g"
+        },
+        {
+          "name": "coco rallado sin azúcar",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla queso crema con cacao y edulcorante.",
+        "Forma bolitas y pásalas por coco rallado.",
+        "Refrigera 30 minutos antes de servir."
+      ],
+      "prepTime": 12,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 278,
+        "protein": 6,
+        "fat": 26,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s26",
+      "name": "Brie al horno con nueces",
+      "mealType": "snack",
+      "description": "Brie horneado con nueces para un snack caliente y elegante.",
+      "ingredients": [
+        {
+          "name": "queso brie",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "name": "nueces",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 5,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Coloca el brie en una fuente pequeña y añade nueces por encima.",
+        "Hornea 8-10 minutos a 190°C hasta que ablande.",
+        "Sirve caliente."
+      ],
+      "prepTime": 5,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 342,
+        "protein": 14,
+        "fat": 30,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s27",
+      "name": "Tomates cherry con pesto y parmesano",
+      "mealType": "snack",
+      "description": "Tomates cherry aliñados con pesto y lascas de parmesano.",
+      "ingredients": [
+        {
+          "name": "tomate cherry",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "pesto",
+          "amount": 35,
+          "unit": "g"
+        },
+        {
+          "name": "queso parmesano rallado",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Corta los cherry por la mitad.",
+        "Mezcla con pesto y ajusta de sal.",
+        "Añade parmesano por encima y sirve."
+      ],
+      "prepTime": 8,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 270,
+        "protein": 10,
+        "fat": 22,
+        "carbs": 8
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s28",
+      "name": "Chips de kale al horno",
+      "mealType": "snack",
+      "description": "Kale crujiente al horno con aceite de oliva y sal.",
+      "ingredients": [
+        {
+          "name": "kale",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Lava y seca muy bien el kale; retira los tallos.",
+        "Mezcla con aceite y sal y reparte en bandeja.",
+        "Hornea 10-12 minutos a 170°C hasta crujiente."
+      ],
+      "prepTime": 8,
+      "cookTime": 12,
+      "servings": 2,
+      "macros": {
+        "calories": 148,
+        "protein": 4,
+        "fat": 12,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s29",
+      "name": "Mousse de aguacate y limón",
+      "mealType": "snack",
+      "description": "Mousse cremosa de aguacate con limón y edulcorante.",
+      "ingredients": [
+        {
+          "name": "aguacate",
+          "amount": 220,
+          "unit": "g"
+        },
+        {
+          "name": "zumo de limón",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "edulcorante",
+          "amount": 6,
+          "unit": "g"
+        },
+        {
+          "name": "nata para montar",
+          "amount": 80,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Tritura aguacate con limón y edulcorante.",
+        "Monta la nata y mezcla suavemente.",
+        "Refrigera 20 minutos antes de servir."
+      ],
+      "prepTime": 12,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 322,
+        "protein": 6,
+        "fat": 30,
+        "carbs": 7
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s30",
+      "name": "Bombas de grasa de mantequilla de cacahuete",
+      "mealType": "snack",
+      "description": "Fat bombs sencillas con mantequilla de cacahuete y coco.",
+      "ingredients": [
+        {
+          "name": "crema de cacahuete",
+          "amount": 70,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 35,
+          "unit": "g"
+        },
+        {
+          "name": "coco rallado sin azúcar",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "name": "edulcorante",
+          "amount": 6,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Derrite la mantequilla y mezcla con crema de cacahuete y edulcorante.",
+        "Añade coco, forma bolitas y enfría 30 minutos.",
+        "Guarda en la nevera."
+      ],
+      "prepTime": 10,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 292,
+        "protein": 6,
+        "fat": 28,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s31",
+      "name": "Mini tortillas de queso y chía",
+      "mealType": "snack",
+      "description": "Tortillitas finas de queso y chía, para comer solas o con dip.",
+      "ingredients": [
+        {
+          "name": "queso mozzarella rallado",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "semillas de chía",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla huevo, mozzarella y chía y deja reposar 5 minutos.",
+        "Cocina porciones pequeñas en sartén antiadherente 2 minutos por lado.",
+        "Deja templar y sirve."
+      ],
+      "prepTime": 8,
+      "cookTime": 8,
+      "servings": 2,
+      "macros": {
+        "calories": 290,
+        "protein": 20,
+        "fat": 22,
+        "carbs": 3
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s32",
+      "name": "Paté rápido de atún y aceitunas",
+      "mealType": "snack",
+      "description": "Paté untable de atún con aceitunas y limón.",
+      "ingredients": [
+        {
+          "name": "atún en aceite de oliva",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "aceitunas verdes",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "name": "mayonesa",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "zumo de limón",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Tritura el atún con aceitunas y mayonesa.",
+        "Añade limón y ajusta de sal y pimienta.",
+        "Sirve con bastones de pepino o apio."
+      ],
+      "prepTime": 8,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 304,
+        "protein": 20,
+        "fat": 24,
+        "carbs": 2
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s33",
+      "name": "Rollitos de pepino con pavo y queso",
+      "mealType": "snack",
+      "description": "Láminas de pepino rellenas de pavo y queso crema.",
+      "ingredients": [
+        {
+          "name": "pepino",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "pechuga de pavo",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "queso crema",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "eneldo fresco",
+          "amount": 3,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Corta el pepino en láminas largas con un pelador.",
+        "Unta queso crema, coloca pavo y enrolla.",
+        "Termina con eneldo y sirve."
+      ],
+      "prepTime": 10,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 224,
+        "protein": 16,
+        "fat": 16,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
     }
   ]
 }

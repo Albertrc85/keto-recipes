@@ -4920,6 +4920,1161 @@
         "carbs": 4
       },
       "isPregnancySafe": true
+    },
+    {
+      "id": "db-b11",
+      "name": "Omelette de champiñones y queso de cabra",
+      "mealType": "breakfast",
+      "description": "Omelette jugosa con champiñones salteados y queso de cabra cremoso.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "name": "champiñones",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "queso de cabra",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "name": "perejil picado",
+          "amount": 3,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Saltea los champiñones con la mantequilla hasta que doren; añade perejil.",
+        "Bate los huevos con sal y pimienta y viértelos en la sartén.",
+        "Cuando cuajen, añade el queso de cabra desmenuzado, pliega y cocina 1 minuto más."
+      ],
+      "prepTime": 5,
+      "cookTime": 8,
+      "servings": 2,
+      "macros": {
+        "calories": 496,
+        "protein": 30,
+        "fat": 40,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b12",
+      "name": "Huevos revueltos con salchicha y espinacas",
+      "mealType": "breakfast",
+      "description": "Revuelto rápido y saciante con salchicha, espinacas y un toque de queso.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "name": "salchicha fresca",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas frescas",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar rallado",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Dora la salchicha desmenuzada en una sartén con el aceite.",
+        "Añade las espinacas y cocina 1-2 minutos hasta que se reduzcan.",
+        "Incorpora los huevos batidos y remueve hasta que queden cremosos; termina con el cheddar."
+      ],
+      "prepTime": 5,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 522,
+        "protein": 32,
+        "fat": 42,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b13",
+      "name": "Tortilla de calabacín y parmesano",
+      "mealType": "breakfast",
+      "description": "Tortilla esponjosa con calabacín rallado y parmesano, ideal para llevar.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "calabacín",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "queso parmesano rallado",
+          "amount": 35,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Ralla el calabacín y saltéalo 3-4 minutos con mantequilla para que pierda agua.",
+        "Bate los huevos, mezcla con el calabacín y el parmesano.",
+        "Cuaja la tortilla a fuego medio por ambos lados hasta que esté dorada."
+      ],
+      "prepTime": 7,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 478,
+        "protein": 28,
+        "fat": 38,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b14",
+      "name": "Huevos benedict keto con holandesa rápida",
+      "mealType": "breakfast",
+      "description": "Versión keto sin pan: jamón, huevos poché y holandesa cremosa.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "name": "jamón cocido",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "name": "yemas de huevo",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "name": "zumo de limón",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Prepara los huevos poché en agua caliente 3-4 minutos.",
+        "Derrite la mantequilla y bátela con las yemas y el zumo de limón hasta emulsionar.",
+        "Sirve el jamón como base, coloca los huevos poché y napar con la holandesa."
+      ],
+      "prepTime": 8,
+      "cookTime": 8,
+      "servings": 2,
+      "macros": {
+        "calories": 580,
+        "protein": 26,
+        "fat": 52,
+        "carbs": 2
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b15",
+      "name": "Shakshuka keto de pimientos y huevos",
+      "mealType": "breakfast",
+      "description": "Huevos cocinados sobre un sofrito de pimientos y tomate concentrado.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "pimiento rojo",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "tomate triturado sin azúcar",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "comino molido",
+          "amount": 2,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Sofríe el pimiento en aceite 4-5 minutos.",
+        "Añade el tomate y el comino y cocina 5 minutos a fuego medio.",
+        "Haz huecos, casca los huevos y tapa 5-6 minutos hasta que cuajen."
+      ],
+      "prepTime": 5,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 435,
+        "protein": 22,
+        "fat": 35,
+        "carbs": 8
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b16",
+      "name": "Barquitas de aguacate con huevo y feta",
+      "mealType": "breakfast",
+      "description": "Aguacate al horno relleno de huevo y queso feta desmenuzado.",
+      "ingredients": [
+        {
+          "name": "aguacate",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 160,
+          "unit": "g"
+        },
+        {
+          "name": "queso feta",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Parte el aguacate y retira un poco de pulpa para hacer hueco.",
+        "Coloca cada mitad en una fuente, añade un huevo y hornea 10-12 minutos a 190°C.",
+        "Termina con feta desmenuzado y un chorrito de aceite."
+      ],
+      "prepTime": 5,
+      "cookTime": 12,
+      "servings": 2,
+      "macros": {
+        "calories": 544,
+        "protein": 22,
+        "fat": 48,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b17",
+      "name": "Muffins de huevo con bacon y cheddar",
+      "mealType": "breakfast",
+      "description": "Muffins al horno: perfectos para desayunos de la semana.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 220,
+          "unit": "g"
+        },
+        {
+          "name": "bacon",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar rallado",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Precalienta el horno a 180°C y engrasa un molde de muffins.",
+        "Dora el bacon en una sartén y mézclalo con espinacas.",
+        "Bate los huevos, añade cheddar y rellena los huecos; hornea 15 minutos."
+      ],
+      "prepTime": 10,
+      "cookTime": 18,
+      "servings": 2,
+      "macros": {
+        "calories": 584,
+        "protein": 34,
+        "fat": 48,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b18",
+      "name": "Yogur griego con nueces y cacao",
+      "mealType": "breakfast",
+      "description": "Bol cremoso con yogur griego entero, nueces y cacao sin azúcar.",
+      "ingredients": [
+        {
+          "name": "yogur griego natural",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "nueces",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "cacao en polvo sin azúcar",
+          "amount": 8,
+          "unit": "g"
+        },
+        {
+          "name": "edulcorante",
+          "amount": 3,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla el yogur con el edulcorante y el cacao.",
+        "Añade las nueces troceadas por encima.",
+        "Sirve frío; opcional: una pizca de canela."
+      ],
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 388,
+        "protein": 18,
+        "fat": 32,
+        "carbs": 7
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b19",
+      "name": "Pudin de chía con leche de coco y vainilla",
+      "mealType": "breakfast",
+      "description": "Pudin keto que se prepara la noche anterior y queda muy saciante.",
+      "ingredients": [
+        {
+          "name": "semillas de chía",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "leche de coco",
+          "amount": 250,
+          "unit": "ml"
+        },
+        {
+          "name": "extracto de vainilla",
+          "amount": 2,
+          "unit": "ml"
+        },
+        {
+          "name": "edulcorante",
+          "amount": 4,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla la chía con la leche de coco, vainilla y edulcorante.",
+        "Reposa 10 minutos, remueve y deja en la nevera mínimo 2 horas.",
+        "Sirve frío y vuelve a remover antes de comer."
+      ],
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 352,
+        "protein": 10,
+        "fat": 32,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b20",
+      "name": "Batido keto de aguacate y cacao",
+      "mealType": "breakfast",
+      "description": "Batido espeso y cremoso con aguacate, cacao y leche de almendra.",
+      "ingredients": [
+        {
+          "name": "aguacate",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "leche de almendra sin azúcar",
+          "amount": 250,
+          "unit": "ml"
+        },
+        {
+          "name": "cacao en polvo sin azúcar",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "name": "edulcorante",
+          "amount": 3,
+          "unit": "g"
+        },
+        {
+          "name": "hielo",
+          "amount": 80,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Pon todo en la batidora y tritura hasta que quede cremoso.",
+        "Ajusta de edulcorante y añade más hielo si lo quieres más espeso.",
+        "Sirve al momento."
+      ],
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 370,
+        "protein": 8,
+        "fat": 34,
+        "carbs": 8
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b21",
+      "name": "Huevos al plato con jamón y gruyère",
+      "mealType": "breakfast",
+      "description": "Huevos gratinados con jamón y queso gruyère, listos en pocos minutos.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "name": "jamón cocido",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "nata para cocinar",
+          "amount": 80,
+          "unit": "ml"
+        },
+        {
+          "name": "queso gruyère rallado",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Unta con mantequilla dos ramequines o recipientes pequeños.",
+        "Añade la nata y el jamón picado; casca un huevo en cada uno.",
+        "Cubre con gruyère y hornea 10-12 minutos a 200°C."
+      ],
+      "prepTime": 5,
+      "cookTime": 12,
+      "servings": 2,
+      "macros": {
+        "calories": 592,
+        "protein": 28,
+        "fat": 52,
+        "carbs": 3
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b22",
+      "name": "Chaffle de mozzarella estilo caprese",
+      "mealType": "breakfast",
+      "description": "Gofre keto de queso y huevo, con topping caprese (sin pan).",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "mozzarella rallada",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "tomate",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "albahaca fresca",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Mezcla huevo y mozzarella.",
+        "Cocina en gofrera 3-4 minutos hasta que esté dorado.",
+        "Sirve con tomate, albahaca y un chorrito de aceite; sal al gusto."
+      ],
+      "prepTime": 5,
+      "cookTime": 5,
+      "servings": 2,
+      "macros": {
+        "calories": 512,
+        "protein": 24,
+        "fat": 44,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b23",
+      "name": "Pancakes keto de coco y ricotta",
+      "mealType": "breakfast",
+      "description": "Pancakes suaves con harina de coco y ricotta, sin azúcar.",
+      "ingredients": [
+        {
+          "name": "harina de coco",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 140,
+          "unit": "g"
+        },
+        {
+          "name": "ricotta",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "edulcorante",
+          "amount": 4,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla harina de coco, huevos, ricotta y edulcorante.",
+        "Deja reposar 3 minutos para que espese.",
+        "Cocina porciones pequeñas en mantequilla 2-3 minutos por lado."
+      ],
+      "prepTime": 7,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 530,
+        "protein": 22,
+        "fat": 46,
+        "carbs": 7
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b24",
+      "name": "Huevos cocotte con salmón y eneldo",
+      "mealType": "breakfast",
+      "description": "Huevos al horno con nata y salmón, terminados con eneldo fresco.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 160,
+          "unit": "g"
+        },
+        {
+          "name": "nata para cocinar",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "salmón cocido",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "eneldo fresco",
+          "amount": 3,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Unta los recipientes con mantequilla y añade la nata.",
+        "Reparte el salmón desmigado y casca un huevo en cada uno.",
+        "Hornea 10 minutos a 200°C y termina con eneldo."
+      ],
+      "prepTime": 5,
+      "cookTime": 12,
+      "servings": 2,
+      "macros": {
+        "calories": 546,
+        "protein": 30,
+        "fat": 46,
+        "carbs": 3
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b25",
+      "name": "Tortilla rellena de pavo y queso",
+      "mealType": "breakfast",
+      "description": "Tortilla fina enrollada con pavo y queso fundido.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "name": "pechuga de pavo",
+          "amount": 90,
+          "unit": "g"
+        },
+        {
+          "name": "queso manchego rallado",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Bate los huevos y cuájalos en una sartén con aceite.",
+        "Añade el pavo y el queso por encima cuando aún esté jugosa.",
+        "Enrolla, deja que el queso funda 1 minuto y corta en porciones."
+      ],
+      "prepTime": 5,
+      "cookTime": 7,
+      "servings": 2,
+      "macros": {
+        "calories": 508,
+        "protein": 34,
+        "fat": 40,
+        "carbs": 3
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b26",
+      "name": "Granola keto de almendras y semillas",
+      "mealType": "breakfast",
+      "description": "Granola crujiente sin cereales: almendras, coco y semillas.",
+      "ingredients": [
+        {
+          "name": "almendras laminadas",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "coco rallado sin azúcar",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "semillas de calabaza",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "name": "canela molida",
+          "amount": 2,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla almendras, coco, semillas y canela.",
+        "Añade mantequilla derretida y remueve.",
+        "Hornea 12-15 minutos a 170°C removiendo a mitad para que tueste parejo."
+      ],
+      "prepTime": 8,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 534,
+        "protein": 14,
+        "fat": 50,
+        "carbs": 7
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b27",
+      "name": "Huevos escalfados con espárragos y mantequilla",
+      "mealType": "breakfast",
+      "description": "Huevos poché sobre espárragos salteados con mantequilla.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 160,
+          "unit": "g"
+        },
+        {
+          "name": "espárragos verdes",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "name": "zumo de limón",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Saltea los espárragos con mantequilla 5-6 minutos.",
+        "Escalfa los huevos 3-4 minutos en agua caliente.",
+        "Sirve los espárragos, coloca los huevos encima y añade limón y pimienta."
+      ],
+      "prepTime": 8,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 506,
+        "protein": 26,
+        "fat": 42,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b28",
+      "name": "Revuelto de chorizo y coliflor",
+      "mealType": "breakfast",
+      "description": "Revuelto estilo 'arroz' de coliflor con chorizo y huevo.",
+      "ingredients": [
+        {
+          "name": "coliflor rallada",
+          "amount": 220,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "name": "chorizo",
+          "amount": 70,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Dora el chorizo en la sartén con el aceite.",
+        "Añade la coliflor rallada y saltea 4-5 minutos.",
+        "Incorpora los huevos batidos y cocina removiendo hasta cuajar."
+      ],
+      "prepTime": 7,
+      "cookTime": 12,
+      "servings": 2,
+      "macros": {
+        "calories": 536,
+        "protein": 28,
+        "fat": 44,
+        "carbs": 7
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b29",
+      "name": "Frittata de brócoli y jamón",
+      "mealType": "breakfast",
+      "description": "Frittata al horno con brócoli tierno, jamón y queso.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 220,
+          "unit": "g"
+        },
+        {
+          "name": "brócoli",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "jamón serrano",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar rallado",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Cuece el brócoli 3 minutos y escúrrelo bien.",
+        "Mezcla huevos batidos, brócoli, jamón y cheddar.",
+        "Hornea 15 minutos a 190°C o hasta que cuaje y dore."
+      ],
+      "prepTime": 10,
+      "cookTime": 18,
+      "servings": 2,
+      "macros": {
+        "calories": 578,
+        "protein": 34,
+        "fat": 46,
+        "carbs": 7
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b30",
+      "name": "Crepes de harina de coco",
+      "mealType": "breakfast",
+      "description": "Crepes finas y flexibles hechas con harina de coco y huevo.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 140,
+          "unit": "g"
+        },
+        {
+          "name": "harina de coco",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "leche de almendra sin azúcar",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "name": "edulcorante",
+          "amount": 3,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Bate huevos, harina de coco, leche y edulcorante hasta que no haya grumos.",
+        "Deja reposar 5 minutos para que espese.",
+        "Cocina crepes finas en mantequilla 1-2 minutos por lado."
+      ],
+      "prepTime": 8,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 406,
+        "protein": 18,
+        "fat": 34,
+        "carbs": 7
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b31",
+      "name": "Bowl de nata con fresas y almendras",
+      "mealType": "breakfast",
+      "description": "Desayuno rápido: nata montada suave con fresas y almendras.",
+      "ingredients": [
+        {
+          "name": "nata para montar",
+          "amount": 180,
+          "unit": "ml"
+        },
+        {
+          "name": "fresas",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "almendras crudas",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "name": "edulcorante",
+          "amount": 3,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Monta la nata con el edulcorante hasta que espese.",
+        "Trocea las fresas y reparte en dos bowls.",
+        "Añade la nata y termina con almendras picadas."
+      ],
+      "prepTime": 8,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 460,
+        "protein": 8,
+        "fat": 44,
+        "carbs": 8
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b32",
+      "name": "Huevos a la mexicana keto",
+      "mealType": "breakfast",
+      "description": "Huevos revueltos con tomate, jalapeño y cilantro (porción de tomate controlada).",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "name": "tomate",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "cebolla",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "jalapeño",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "cilantro fresco",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Sofríe tomate, cebolla y jalapeño 3-4 minutos con aceite.",
+        "Añade los huevos batidos y remueve hasta cuajar a tu gusto.",
+        "Termina con cilantro y ajusta de sal."
+      ],
+      "prepTime": 7,
+      "cookTime": 8,
+      "servings": 2,
+      "macros": {
+        "calories": 430,
+        "protein": 24,
+        "fat": 34,
+        "carbs": 7
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b33",
+      "name": "Tortilla de berenjena y manchego",
+      "mealType": "breakfast",
+      "description": "Tortilla jugosa con berenjena salteada y queso manchego.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "berenjena",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "queso manchego rallado",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 15,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Corta la berenjena en dados pequeños y saltéala 8 minutos con aceite.",
+        "Bate los huevos, mezcla con berenjena y queso.",
+        "Cuaja la tortilla por ambos lados hasta que esté dorada."
+      ],
+      "prepTime": 10,
+      "cookTime": 12,
+      "servings": 2,
+      "macros": {
+        "calories": 522,
+        "protein": 28,
+        "fat": 42,
+        "carbs": 8
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b34",
+      "name": "Bizcocho de taza keto de limón",
+      "mealType": "breakfast",
+      "description": "Bizcocho rápido en taza con harina de almendra y ralladura de limón.",
+      "ingredients": [
+        {
+          "name": "harina de almendra",
+          "amount": 45,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "ralladura de limón",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "name": "edulcorante",
+          "amount": 4,
+          "unit": "g"
+        },
+        {
+          "name": "levadura química",
+          "amount": 2,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla todos los ingredientes en una taza grande apta para microondas.",
+        "Cocina 70-90 segundos (según potencia) hasta que cuaje.",
+        "Deja reposar 1 minuto y desmolda si quieres."
+      ],
+      "prepTime": 5,
+      "cookTime": 2,
+      "servings": 2,
+      "macros": {
+        "calories": 476,
+        "protein": 14,
+        "fat": 44,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b35",
+      "name": "Tostadas keto de nube con aguacate",
+      "mealType": "breakfast",
+      "description": "Pan nube (cloud bread) ligero servido con aguacate y aceite de oliva.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "queso crema",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "aguacate",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Separa claras y yemas. Bate claras a punto de nieve.",
+        "Mezcla yemas con queso crema y luego integra con movimientos suaves.",
+        "Hornea montoncitos 12 minutos a 170°C y sirve con aguacate y aceite."
+      ],
+      "prepTime": 10,
+      "cookTime": 12,
+      "servings": 2,
+      "macros": {
+        "calories": 514,
+        "protein": 18,
+        "fat": 46,
+        "carbs": 7
+      },
+      "isPregnancySafe": true
     }
   ]
 }
