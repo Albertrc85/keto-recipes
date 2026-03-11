@@ -1,0 +1,660 @@
+{
+  "version": 1,
+  "mealType": "snack",
+  "recipes": [
+    {
+      "id": "db-s1",
+      "name": "Aguacate con sal en escamas y limón",
+      "mealType": "snack",
+      "description": "El snack keto más sencillo y nutritivo.",
+      "ingredients": [
+        {
+          "name": "aguacate maduro",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "sal en escamas",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "name": "zumo de limón",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Abre el aguacate y retira el hueso.",
+        "Exprime el limón encima, añade sal en escamas y pimienta.",
+        "Come directamente de la piel con una cuchara."
+      ],
+      "prepTime": 2,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 190,
+        "protein": 2,
+        "fat": 18,
+        "carbs": 2
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s2",
+      "name": "Mix de frutos secos variados",
+      "mealType": "snack",
+      "description": "Mezcla energética de almendras, nueces y semillas de calabaza.",
+      "ingredients": [
+        {
+          "name": "almendras crudas",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "nueces",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "semillas de calabaza",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "name": "semillas de girasol",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla todos los ingredientes en un bol.",
+        "Puedes tostar ligeramente en sartén sin aceite 2-3 min.",
+        "Sirve a temperatura ambiente."
+      ],
+      "prepTime": 2,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 290,
+        "protein": 9,
+        "fat": 26,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s3",
+      "name": "Chips de queso parmesano",
+      "mealType": "snack",
+      "description": "Chips crujientes de parmesano al horno, perfectos para picar.",
+      "ingredients": [
+        {
+          "name": "queso parmesano rallado",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "pimentón dulce",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "name": "orégano seco",
+          "amount": 1,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Precalienta el horno a 200°C. Forra una bandeja con papel de hornear.",
+        "Haz montoncitos de queso con pimentón y orégano.",
+        "Hornea 5-7 min hasta que estén dorados. Deja enfriar antes de despegar."
+      ],
+      "prepTime": 3,
+      "cookTime": 7,
+      "servings": 2,
+      "macros": {
+        "calories": 240,
+        "protein": 20,
+        "fat": 18,
+        "carbs": 2
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s4",
+      "name": "Rollitos de jamón con queso crema",
+      "mealType": "snack",
+      "description": "Rollitos de jamón rellenos de queso crema y pepinillo.",
+      "ingredients": [
+        {
+          "name": "jamón cocido en lonchas",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "queso crema",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "name": "pepinillo en vinagre",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "mostaza de Dijon",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Extiende las lonchas de jamón.",
+        "Unta cada loncha con queso crema y un poco de mostaza.",
+        "Pon un trocito de pepinillo y enrolla."
+      ],
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 200,
+        "protein": 16,
+        "fat": 14,
+        "carbs": 3
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s5",
+      "name": "Huevo duro con mayonesa y pimentón",
+      "mealType": "snack",
+      "description": "Clásico huevo duro con mayonesa y pimentón ahumado.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "mayonesa",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "pimentón ahumado",
+          "amount": 2,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Cuece los huevos 10 min en agua hirviendo. Enfría en agua fría.",
+        "Pela y corta por la mitad.",
+        "Añade una cucharadita de mayonesa encima y espolvorea pimentón."
+      ],
+      "prepTime": 2,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 240,
+        "protein": 14,
+        "fat": 20,
+        "carbs": 1
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s6",
+      "name": "Aceitunas con queso feta",
+      "mealType": "snack",
+      "description": "Combinación mediterránea de aceitunas y queso feta.",
+      "ingredients": [
+        {
+          "name": "aceitunas variadas",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "queso feta",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva virgen extra",
+          "amount": 5,
+          "unit": "ml"
+        },
+        {
+          "name": "orégano seco",
+          "amount": 2,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Escurre las aceitunas.",
+        "Corta el queso feta en dados.",
+        "Mezcla en un bol, aliña con aceite y orégano."
+      ],
+      "prepTime": 3,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 220,
+        "protein": 8,
+        "fat": 20,
+        "carbs": 3
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s7",
+      "name": "Palitos de apio con mantequilla de almendra",
+      "mealType": "snack",
+      "description": "Palitos de apio crujientes con mantequilla de almendra cremosa.",
+      "ingredients": [
+        {
+          "name": "apio en ramas",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla de almendra",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "sal en escamas",
+          "amount": 1,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Lava y corta el apio en palitos de 10 cm.",
+        "Sirve la mantequilla de almendra en un bol para mojar.",
+        "Espolvorea sal en escamas sobre la mantequilla."
+      ],
+      "prepTime": 3,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 180,
+        "protein": 6,
+        "fat": 16,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-s8",
+      "name": "Pepino con salmón ahumado y queso crema",
+      "mealType": "snack",
+      "description": "Rodajas de pepino con queso crema y salmón ahumado.",
+      "ingredients": [
+        {
+          "name": "pepino",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "salmón ahumado",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "queso crema",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "name": "eneldo fresco",
+          "amount": 3,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Corta el pepino en rodajas gruesas.",
+        "Pon una cucharadita de queso crema encima de cada rodaja.",
+        "Coloca un trocito de salmón y decora con eneldo."
+      ],
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 200,
+        "protein": 14,
+        "fat": 16,
+        "carbs": 3
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-s-6-0",
+      "name": "Anchoas con Mantequilla Divina",
+      "mealType": "snack",
+      "description": "Un snack salado y delicioso, perfecto para satisfacer tus antojos con anchoas y mantequilla derretida. Ideal para acompañar con un vaso de vino keto.",
+      "ingredients": [
+        {
+          "name": "anchoas en aceite de oliva",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla sin sal",
+          "amount": 30,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Abrir el frasco de anchoas y escurrir el aceite.",
+        "Calentar la mantequilla en un tazón a baño maría.",
+        "Mezclar las anchoas con la mantequilla derretida."
+      ],
+      "prepTime": 5,
+      "cookTime": 5,
+      "servings": 1,
+      "macros": {
+        "calories": 320,
+        "protein": 20,
+        "fat": 28,
+        "carbs": 0
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-s-6-1",
+      "name": "Chips de Bacon Crispy",
+      "mealType": "snack",
+      "description": "Chips de bacon crujientes y sabrosos, perfectos para un snack keto. Fáciles de hacer y deliciosos de comer.",
+      "ingredients": [
+        {
+          "name": "bacón",
+          "amount": 200,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Precalentar el horno a 200°C.",
+        "Cortar el bacon en tiras finas.",
+        "Hornear durante 15-20 minutos o hasta que estén crujientes."
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 400,
+        "protein": 25,
+        "fat": 35,
+        "carbs": 0
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-s-6-2",
+      "name": "Bolas de Queso Crema Keto",
+      "mealType": "snack",
+      "description": "Bolas de queso crema suaves y cremosas, ideales para un snack keto rápido y delicioso.",
+      "ingredients": [
+        {
+          "name": "queso crema",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "huevo",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezclar el queso crema con el huevo.",
+        "Formar bolas pequeñas.",
+        "Refrigerar durante 30 minutos."
+      ],
+      "prepTime": 10,
+      "cookTime": 0,
+      "servings": 4,
+      "macros": {
+        "calories": 200,
+        "protein": 10,
+        "fat": 18,
+        "carbs": 2
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-s-6-3",
+      "name": "Jamón con Queso Keto",
+      "mealType": "snack",
+      "description": "Un clásico snack keto, fácil de preparar y siempre delicioso. Jamón y queso, una combinación perfecta.",
+      "ingredients": [
+        {
+          "name": "jamón",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Cortar el jamón y el queso en lonchas finas.",
+        "Servir juntos."
+      ],
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 1,
+      "macros": {
+        "calories": 250,
+        "protein": 20,
+        "fat": 18,
+        "carbs": 1
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-s-6-4",
+      "name": "Nueces con Canela Keto",
+      "mealType": "snack",
+      "description": "Un snack keto saludable y aromático, perfecto para satisfacer tus antojos salados con un toque de canela.",
+      "ingredients": [
+        {
+          "name": "nueces",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "canela en polvo",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezclar las nueces con la canela en polvo.",
+        "Servir."
+      ],
+      "prepTime": 2,
+      "cookTime": 0,
+      "servings": 1,
+      "macros": {
+        "calories": 180,
+        "protein": 4,
+        "fat": 18,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-s-6-5",
+      "name": "Pizza Keto de Queso",
+      "mealType": "snack",
+      "description": "Una pizza keto creativa con base de queso, perfecta para satisfacer tus antojos de pizza sin salir de la dieta cetogénica.",
+      "ingredients": [
+        {
+          "name": "queso mozzarella",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "salsa de tomate",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "name": "pepperoni",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Precalentar el horno a 200°C.",
+        "Formar una base con el queso mozzarella.",
+        "Agregar la salsa de tomate y el pepperoni.",
+        "Hornear durante 10-15 minutos."
+      ],
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 1,
+      "macros": {
+        "calories": 350,
+        "protein": 20,
+        "fat": 28,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-s-6-6",
+      "name": "Lasaña de Calabacín Keto",
+      "mealType": "snack",
+      "description": "Una lasaña keto saludable y deliciosa, hecha con calabacín y queso, perfecta para un snack o comida ligera.",
+      "ingredients": [
+        {
+          "name": "calabacín",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "queso ricotta",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "queso parmesano",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Cortar el calabacín en lonchas finas.",
+        "Mezclar el queso ricotta con el queso parmesano.",
+        "Armar la lasaña con capas de calabacín y queso.",
+        "Hornear durante 20-25 minutos."
+      ],
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 300,
+        "protein": 20,
+        "fat": 22,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-s-6-7",
+      "name": "Huevos Duros Keto",
+      "mealType": "snack",
+      "description": "Huevos duros, un snack keto clásico y fácil de preparar, rico en proteínas y sin carbohidratos.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 120,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Poner los huevos en una olla con agua.",
+        "Hervir durante 10-12 minutos.",
+        "Enfriar y pelar."
+      ],
+      "prepTime": 5,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 140,
+        "protein": 12,
+        "fat": 10,
+        "carbs": 1
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-s-6-8",
+      "name": "Champiñones Rellenos Keto",
+      "mealType": "snack",
+      "description": "Champiñones rellenos de queso y especias, un snack keto sabroso y saludable, perfecto para cualquier momento del día.",
+      "ingredients": [
+        {
+          "name": "champiñones",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "perejil picado",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Limpiar los champiñones y quitar los tallos.",
+        "Mezclar el queso cheddar con el perejil picado.",
+        "Rellenar los champiñones con la mezcla de queso.",
+        "Hornear durante 10-12 minutos."
+      ],
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 220,
+        "protein": 10,
+        "fat": 18,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-s-6-9",
+      "name": "Aceitunas Keto",
+      "mealType": "snack",
+      "description": "Aceitunas, un snack keto saludable y delicioso, rico en grasas saludables y sin carbohidratos.",
+      "ingredients": [
+        {
+          "name": "aceitunas",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Servir las aceitunas.",
+        "Puedes agregar un poco de aceite de oliva si lo deseas."
+      ],
+      "prepTime": 2,
+      "cookTime": 0,
+      "servings": 1,
+      "macros": {
+        "calories": 160,
+        "protein": 2,
+        "fat": 16,
+        "carbs": 2
+      },
+      "isPregnancySafe": true
+    }
+  ]
+}

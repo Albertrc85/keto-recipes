@@ -1,0 +1,4925 @@
+{
+  "version": 1,
+  "mealType": "breakfast",
+  "recipes": [
+    {
+      "id": "db-b1",
+      "name": "Huevos revueltos con bacon y aguacate",
+      "mealType": "breakfast",
+      "description": "Clásico keto con huevos cremosos, bacon crujiente y aguacate fresco.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "bacon",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "aguacate",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Fríe el bacon hasta que esté crujiente y resérvalo.",
+        "Derrite la mantequilla a fuego medio y añade los huevos batidos. Revuelve suavemente hasta que estén cremosos.",
+        "Sirve con el bacon y el aguacate en rodajas. Salpimenta al gusto."
+      ],
+      "prepTime": 5,
+      "cookTime": 8,
+      "servings": 2,
+      "macros": {
+        "calories": 520,
+        "protein": 28,
+        "fat": 44,
+        "carbs": 3
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b2",
+      "name": "Tortilla de queso y espinacas",
+      "mealType": "breakfast",
+      "description": "Tortilla esponjosa rellena de queso fundido y espinacas salteadas.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas frescas",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar rallado",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 15,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Saltea las espinacas en la mitad de la mantequilla hasta que se reduzcan.",
+        "Bate los huevos con sal y pimienta. Cuaja en la sartén con el resto de mantequilla.",
+        "Añade espinacas y queso, dobla la tortilla y sirve cuando el queso se haya fundido."
+      ],
+      "prepTime": 5,
+      "cookTime": 6,
+      "servings": 2,
+      "macros": {
+        "calories": 440,
+        "protein": 30,
+        "fat": 35,
+        "carbs": 3
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b3",
+      "name": "Salmón ahumado con huevos poché",
+      "mealType": "breakfast",
+      "description": "Desayuno elegante con salmón ahumado, huevos poché y queso crema.",
+      "ingredients": [
+        {
+          "name": "salmón ahumado",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "queso crema",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "name": "cebollino picado",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "name": "zumo de limón",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Calienta agua con un chorrito de vinagre. Cuece los huevos poché 3-4 min.",
+        "Extiende el queso crema en el plato, coloca el salmón encima.",
+        "Pon los huevos sobre el salmón, añade cebollino y unas gotas de limón."
+      ],
+      "prepTime": 5,
+      "cookTime": 5,
+      "servings": 2,
+      "macros": {
+        "calories": 400,
+        "protein": 28,
+        "fat": 32,
+        "carbs": 2
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b4",
+      "name": "Pancakes de harina de almendra",
+      "mealType": "breakfast",
+      "description": "Pancakes esponjosos sin gluten ni azúcar, perfectos para el desayuno keto.",
+      "ingredients": [
+        {
+          "name": "harina de almendra",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "queso crema",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "edulcorante",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla harina de almendra, huevos, queso crema y edulcorante hasta obtener una masa homogénea.",
+        "Calienta una sartén con mantequilla a fuego medio. Vierte pequeñas porciones de masa.",
+        "Cocina 2-3 min por cada lado hasta que estén dorados. Sirve con mantequilla extra."
+      ],
+      "prepTime": 5,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 540,
+        "protein": 20,
+        "fat": 48,
+        "carbs": 7
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b5",
+      "name": "Frittata de chorizo y pimientos",
+      "mealType": "breakfast",
+      "description": "Frittata al horno con chorizo picante, pimientos y queso gratinado.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "chorizo",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "pimiento rojo",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar rallado",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 15,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Precalienta el horno a 180°C. Saltea el chorizo y el pimiento en aceite 3 min.",
+        "Bate los huevos con sal y pimienta. Vierte sobre el sofrito en una sartén apta para horno.",
+        "Añade el queso encima y hornea 10-12 min hasta que cuaje. Corta en porciones."
+      ],
+      "prepTime": 5,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 510,
+        "protein": 32,
+        "fat": 40,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b6",
+      "name": "Bowl de frutos secos con nata",
+      "mealType": "breakfast",
+      "description": "Bowl cremoso de nata con almendras, nueces y semillas de chía.",
+      "ingredients": [
+        {
+          "name": "almendras crudas",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "name": "nueces",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "semillas de chía",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "name": "nata para montar",
+          "amount": 80,
+          "unit": "ml"
+        },
+        {
+          "name": "canela molida",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "name": "edulcorante",
+          "amount": 3,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Monta ligeramente la nata con el edulcorante.",
+        "Mezcla las almendras, nueces y semillas de chía en un bowl.",
+        "Vierte la nata sobre los frutos secos, espolvorea canela y sirve."
+      ],
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 450,
+        "protein": 10,
+        "fat": 42,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b7",
+      "name": "Huevos al horno con nata y queso",
+      "mealType": "breakfast",
+      "description": "Huevos cocidos en nata con queso gratinado, listos en 10 minutos.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "nata para cocinar",
+          "amount": 80,
+          "unit": "ml"
+        },
+        {
+          "name": "queso gruyère rallado",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Precalienta el horno a 200°C. Unta moldes individuales con mantequilla.",
+        "Vierte la nata en los moldes, casca un huevo en cada uno y añade el queso.",
+        "Hornea 8-10 min hasta que la clara esté cuajada pero la yema cremosa."
+      ],
+      "prepTime": 3,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 380,
+        "protein": 24,
+        "fat": 32,
+        "carbs": 2
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b8",
+      "name": "Crepes de queso crema",
+      "mealType": "breakfast",
+      "description": "Crepes finas y flexibles de queso crema, perfectas para rellenar.",
+      "ingredients": [
+        {
+          "name": "queso crema",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "edulcorante",
+          "amount": 3,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Bate el queso crema con los huevos y el edulcorante hasta obtener una mezcla lisa.",
+        "Calienta una sartén antiadherente con un poco de mantequilla a fuego medio-bajo.",
+        "Vierte una capa fina de masa y cocina 1-2 min por lado. Repite con el resto."
+      ],
+      "prepTime": 5,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 430,
+        "protein": 18,
+        "fat": 39,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b9",
+      "name": "Batido keto de mantequilla de almendra",
+      "mealType": "breakfast",
+      "description": "Batido cremoso y saciante con leche de coco y mantequilla de almendra.",
+      "ingredients": [
+        {
+          "name": "leche de coco",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "mantequilla de almendra",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "semillas de lino molidas",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "name": "cacao en polvo sin azúcar",
+          "amount": 8,
+          "unit": "g"
+        },
+        {
+          "name": "edulcorante",
+          "amount": 3,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Pon todos los ingredientes en la batidora.",
+        "Bate a velocidad alta 30-45 segundos hasta que esté cremoso.",
+        "Sirve frío con hielo si lo deseas."
+      ],
+      "prepTime": 3,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 380,
+        "protein": 10,
+        "fat": 36,
+        "carbs": 7
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "db-b10",
+      "name": "Tortilla de jamón serrano y queso",
+      "mealType": "breakfast",
+      "description": "Tortilla enrollada con jamón serrano y queso manchego fundido.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "name": "jamón serrano",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "queso manchego rallado",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Bate los huevos con sal y pimienta.",
+        "Calienta el aceite en la sartén y cuaja la tortilla a fuego medio.",
+        "Cuando casi esté hecha, añade el jamón y el queso, enrolla y sirve."
+      ],
+      "prepTime": 3,
+      "cookTime": 6,
+      "servings": 2,
+      "macros": {
+        "calories": 420,
+        "protein": 34,
+        "fat": 32,
+        "carbs": 2
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-0-0",
+      "name": "Tortilla Francesa Keto",
+      "mealType": "breakfast",
+      "description": "Una deliciosa tortilla francesa hecha con huevos y queso, perfecta para empezar el día con energía",
+      "ingredients": [
+        {
+          "name": "Huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Queso crema",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Mantequilla",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Batir los huevos con sal y pimienta",
+        "Calentar la mantequilla en una sartén",
+        "Agregar el queso y cocinar hasta que esté derretido"
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 320,
+        "protein": 20,
+        "fat": 25,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-0-1",
+      "name": "Huevos Revueltos con Espinacas",
+      "mealType": "breakfast",
+      "description": "Un plato nutritivo y sabroso que combina huevos revueltos con espinacas frescas",
+      "ingredients": [
+        {
+          "name": "Huevos",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Espinacas frescas",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Queso parmesano",
+          "amount": 30,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Calentar una sartén con mantequilla",
+        "Agregar las espinacas y cocinar hasta que estén marchitas",
+        "Batir los huevos y agregar el queso"
+      ],
+      "prepTime": 8,
+      "cookTime": 12,
+      "servings": 2,
+      "macros": {
+        "calories": 280,
+        "protein": 22,
+        "fat": 20,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-0-2",
+      "name": "Bacon con Huevos y Queso",
+      "mealType": "breakfast",
+      "description": "Un clásico desayuno americano con bacon crujiente, huevos y queso derretido",
+      "ingredients": [
+        {
+          "name": "Bacon",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Queso cheddar",
+          "amount": 40,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Cocinar el bacon en una sartén hasta que esté crujiente",
+        "Batir los huevos y agregar el queso",
+        "Cocinar los huevos hasta que estén revueltos"
+      ],
+      "prepTime": 10,
+      "cookTime": 18,
+      "servings": 2,
+      "macros": {
+        "calories": 380,
+        "protein": 25,
+        "fat": 30,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-0-3",
+      "name": "Salmón Ahumado con Aguacate",
+      "mealType": "breakfast",
+      "description": "Un plato ligero y saludable que combina salmón ahumado con aguacate fresco",
+      "ingredients": [
+        {
+          "name": "Salmón ahumado",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Aguacate",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Huevos",
+          "amount": 60,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Tostar el salmón ahumado en una sartén",
+        "Cortar el aguacate en rodajas",
+        "Batir los huevos y servir con el salmón y el aguacate"
+      ],
+      "prepTime": 8,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 320,
+        "protein": 25,
+        "fat": 25,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-0-4",
+      "name": "Frittata de Queso y Vegetales",
+      "mealType": "breakfast",
+      "description": "Una frittata deliciosa y nutritiva hecha con queso, vegetales y huevos",
+      "ingredients": [
+        {
+          "name": "Huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Queso parmesano",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Zanahorias",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Pimiento rojo",
+          "amount": 30,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Calentar una sartén con mantequilla",
+        "Agregar los vegetales y cocinar hasta que estén tiernos",
+        "Batir los huevos y agregar el queso"
+      ],
+      "prepTime": 12,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 300,
+        "protein": 20,
+        "fat": 20,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-0-5",
+      "name": "Pizza Keto con Queso y Pepperoni",
+      "mealType": "breakfast",
+      "description": "Una pizza keto deliciosa y fácil de hacer, con queso y pepperoni como ingredientes principales",
+      "ingredients": [
+        {
+          "name": "Queso mozzarella",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Pepperoni",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Huevos",
+          "amount": 60,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Calentar una sartén con mantequilla",
+        "Agregar el queso y cocinar hasta que esté derretido",
+        "Agregar el pepperoni y los huevos"
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 350,
+        "protein": 20,
+        "fat": 28,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-0-6",
+      "name": "Lasaña de Calabacín con Queso",
+      "mealType": "breakfast",
+      "description": "Una lasaña keto deliciosa y saludable, hecha con calabacín y queso como ingredientes principales",
+      "ingredients": [
+        {
+          "name": "Calabacín",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Queso ricotta",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Huevos",
+          "amount": 60,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Cortar el calabacín en rodajas",
+        "Calentar una sartén con mantequilla",
+        "Agregar el queso y los huevos"
+      ],
+      "prepTime": 12,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 300,
+        "protein": 20,
+        "fat": 22,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-0-7",
+      "name": "Tortilla de Espinacas y Queso",
+      "mealType": "breakfast",
+      "description": "Una tortilla deliciosa y nutritiva hecha con espinacas, queso y huevos",
+      "ingredients": [
+        {
+          "name": "Huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Espinacas frescas",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Queso parmesano",
+          "amount": 40,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Calentar una sartén con mantequilla",
+        "Agregar las espinacas y cocinar hasta que estén marchitas",
+        "Batir los huevos y agregar el queso"
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 280,
+        "protein": 22,
+        "fat": 20,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-0-8",
+      "name": "Huevos Revueltos con Salmón Ahumado",
+      "mealType": "breakfast",
+      "description": "Un plato ligero y saludable que combina huevos revueltos con salmón ahumado",
+      "ingredients": [
+        {
+          "name": "Huevos",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Salmón ahumado",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Cebolla",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Calentar una sartén con mantequilla",
+        "Agregar la cebolla y cocinar hasta que esté tierna",
+        "Batir los huevos y agregar el salmón ahumado"
+      ],
+      "prepTime": 8,
+      "cookTime": 12,
+      "servings": 2,
+      "macros": {
+        "calories": 300,
+        "protein": 25,
+        "fat": 22,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-0-9",
+      "name": "Frittata de Queso y Bacon",
+      "mealType": "breakfast",
+      "description": "Una frittata deliciosa y nutritiva hecha con queso, bacon y huevos",
+      "ingredients": [
+        {
+          "name": "Huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Bacon",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "name": "Queso cheddar",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Calentar una sartén con mantequilla",
+        "Agregar el bacon y cocinar hasta que esté crujiente",
+        "Batir los huevos y agregar el queso"
+      ],
+      "prepTime": 10,
+      "cookTime": 18,
+      "servings": 2,
+      "macros": {
+        "calories": 340,
+        "protein": 22,
+        "fat": 26,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-1-0",
+      "name": "Tortilla de Espinacas y Queso",
+      "mealType": "breakfast",
+      "description": "Una deliciosa tortilla rellena de espinacas y queso, perfecta para empezar el día con energía.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Batir los huevos",
+        "Agregar espinacas y queso",
+        "Cocinar en sartén"
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 320,
+        "protein": 25,
+        "fat": 25,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-1-1",
+      "name": "Pancakes de Almendra y Mantequilla",
+      "mealType": "breakfast",
+      "description": "Pancakes esponjosos hechos con harina de almendra y mantequilla derretida, ideal para un desayuno keto.",
+      "ingredients": [
+        {
+          "name": "harina de almendra",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezclar ingredientes",
+        "Cocinar en sartén",
+        "Servir caliente"
+      ],
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 400,
+        "protein": 15,
+        "fat": 35,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-1-2",
+      "name": "Salmón Ahumado con Aguacate",
+      "mealType": "breakfast",
+      "description": "Un plato fresco y saludable que combina el salmón ahumado con aguacate y huevos revueltos.",
+      "ingredients": [
+        {
+          "name": "salmón ahumado",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "aguacate",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezclar huevos y aguacate",
+        "Agregar salmón ahumado",
+        "Servir fresco"
+      ],
+      "prepTime": 10,
+      "cookTime": 5,
+      "servings": 2,
+      "macros": {
+        "calories": 350,
+        "protein": 30,
+        "fat": 25,
+        "carbs": 5
+      },
+      "isPregnancySafe": false
+    },
+    {
+      "id": "gen-b-1-3",
+      "name": "Crepes de Queso Crema y Fresas",
+      "mealType": "breakfast",
+      "description": "Deliciosos crepes rellenos de queso crema y fresas frescas, un desayuno keto indulgente.",
+      "ingredients": [
+        {
+          "name": "queso crema",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "fresas",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "harina de almendra",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezclar queso crema y fresas",
+        "Cocinar crepes",
+        "Rellenar y servir"
+      ],
+      "prepTime": 15,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 300,
+        "protein": 15,
+        "fat": 25,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-1-4",
+      "name": "Bowles de Frutos Secos y Nueces",
+      "mealType": "breakfast",
+      "description": "Un tazón saludable lleno de frutos secos, nueces y semillas, perfecto para un desayuno keto.",
+      "ingredients": [
+        {
+          "name": "frutos secos",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "nueces",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "semillas de chía",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezclar ingredientes",
+        "Agregar leche de almendra",
+        "Servir fresco"
+      ],
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 400,
+        "protein": 10,
+        "fat": 35,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-1-5",
+      "name": "Frittata de Espinacas y Queso",
+      "mealType": "breakfast",
+      "description": "Una frittata esponjosa llena de espinacas y queso, ideal para un desayuno keto.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Batir huevos",
+        "Agregar espinacas y queso",
+        "Cocinar en sartén"
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 320,
+        "protein": 25,
+        "fat": 25,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-1-6",
+      "name": "Pizza Keto de Queso y Pepperoni",
+      "mealType": "breakfast",
+      "description": "Una pizza keto crujiente hecha con queso y pepperoni, perfecta para un desayuno indulgente.",
+      "ingredients": [
+        {
+          "name": "queso mozzarella",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "pepperoni",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "harina de almendra",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezclar queso y harina de almendra",
+        "Agregar pepperoni",
+        "Cocinar en horno"
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 400,
+        "protein": 20,
+        "fat": 35,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-1-7",
+      "name": "Lasaña de Calabacín y Queso",
+      "mealType": "breakfast",
+      "description": "Una lasaña keto creativa hecha con calabacín y queso, perfecta para un desayuno saludable.",
+      "ingredients": [
+        {
+          "name": "calabacín",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "queso ricotta",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "queso mozzarella",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Cocinar calabacín",
+        "Mezclar queso ricotta y mozzarella",
+        "Armar lasaña"
+      ],
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 350,
+        "protein": 25,
+        "fat": 25,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-1-8",
+      "name": "Taza de Mantequilla de Almendra y Huevos",
+      "mealType": "breakfast",
+      "description": "Un desayuno keto rico y cremoso hecho con mantequilla de almendra y huevos revueltos.",
+      "ingredients": [
+        {
+          "name": "mantequilla de almendra",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezclar mantequilla de almendra y huevos",
+        "Cocinar en sartén",
+        "Servir caliente"
+      ],
+      "prepTime": 5,
+      "cookTime": 5,
+      "servings": 2,
+      "macros": {
+        "calories": 300,
+        "protein": 15,
+        "fat": 25,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-1-9",
+      "name": "Batido de Proteínas y Agua de Coco",
+      "mealType": "breakfast",
+      "description": "Un batido keto refrescante hecho con proteínas y agua de coco, perfecto para un desayuno ligero.",
+      "ingredients": [
+        {
+          "name": "proteínas en polvo",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "agua de coco",
+          "amount": 200,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Mezclar proteínas y agua de coco",
+        "Agregar hielo",
+        "Licuar hasta suave"
+      ],
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 10,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-2-0",
+      "name": "Crepes de Queso Crema Keto",
+      "mealType": "breakfast",
+      "description": "Deliciosos crepes rellenos de queso crema y espinacas, perfectos para un desayuno keto",
+      "ingredients": [
+        {
+          "name": "queso crema",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "huevo",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "name": "almendras molidas",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezclar los ingredientes",
+        "Calentar una sartén antiadherente",
+        "Cocinar los crepes"
+      ],
+      "prepTime": 15,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 420,
+        "protein": 25,
+        "fat": 35,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-2-1",
+      "name": "Bowl de Frutos Secos Keto",
+      "mealType": "breakfast",
+      "description": "Un tazón lleno de frutos secos y semillas, perfecto para un desayuno keto rápido y fácil",
+      "ingredients": [
+        {
+          "name": "almendras",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "pistachos",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "semillas de chía",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "leche de almendras",
+          "amount": 200,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Mezclar los frutos secos y semillas",
+        "Agregar leche de almendras"
+      ],
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 1,
+      "macros": {
+        "calories": 500,
+        "protein": 15,
+        "fat": 45,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-2-2",
+      "name": "Batido Keto de Proteínas",
+      "mealType": "breakfast",
+      "description": "Un batido refrescante y lleno de proteínas, perfecto para un desayuno keto en movimiento",
+      "ingredients": [
+        {
+          "name": "proteína en polvo",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "leche de coco",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "mantequilla de almendras",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "hielo",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezclar los ingredientes",
+        "Agregar hielo"
+      ],
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 1,
+      "macros": {
+        "calories": 350,
+        "protein": 30,
+        "fat": 25,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-2-3",
+      "name": "Huevos al Horno con Espinacas",
+      "mealType": "breakfast",
+      "description": "Huevos frescos al horno con espinacas y queso, un desayuno keto clásico",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 4,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Precalentar el horno",
+        "Mezclar los ingredientes",
+        "Cocinar los huevos"
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 300,
+        "protein": 20,
+        "fat": 20,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-2-4",
+      "name": "Mousse de Aguacate Keto",
+      "mealType": "breakfast",
+      "description": "Un postre para desayunar, una deliciosa mousse de aguacate con crema y azúcar de monk",
+      "ingredients": [
+        {
+          "name": "aguacate",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "crema para batir",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "azúcar de monk",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "name": "vainilla",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezclar los ingredientes",
+        "Batir la crema"
+      ],
+      "prepTime": 10,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 300,
+        "protein": 5,
+        "fat": 25,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-2-5",
+      "name": "Pizza Keto de Queso",
+      "mealType": "breakfast",
+      "description": "Una pizza keto para desayunar, hecha con queso y topping de choice",
+      "ingredients": [
+        {
+          "name": "queso mozzarella",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "queso parmesano",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "huevo",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "name": "tomate seco",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Precalentar el horno",
+        "Mezclar los ingredientes",
+        "Cocinar la pizza"
+      ],
+      "prepTime": 15,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 400,
+        "protein": 20,
+        "fat": 30,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-2-6",
+      "name": "Lasaña de Calabacín Keto",
+      "mealType": "breakfast",
+      "description": "Una lasaña keto para desayunar, hecha con calabacín y queso",
+      "ingredients": [
+        {
+          "name": "calabacín",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "queso ricotta",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "queso parmesano",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "huevo",
+          "amount": 2,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Precalentar el horno",
+        "Mezclar los ingredientes",
+        "Cocinar la lasaña"
+      ],
+      "prepTime": 20,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 350,
+        "protein": 20,
+        "fat": 25,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-2-7",
+      "name": "Tortilla de Espinacas Keto",
+      "mealType": "breakfast",
+      "description": "Una tortilla keto para desayunar, hecha con espinacas y queso",
+      "ingredients": [
+        {
+          "name": "espinacas",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "huevo",
+          "amount": 4,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Precalentar el horno",
+        "Mezclar los ingredientes",
+        "Cocinar la tortilla"
+      ],
+      "prepTime": 15,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 300,
+        "protein": 20,
+        "fat": 20,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-2-8",
+      "name": "Crepes de Chocolate Keto",
+      "mealType": "breakfast",
+      "description": "Deliciosos crepes de chocolate keto, perfectos para un desayuno especial",
+      "ingredients": [
+        {
+          "name": "almendras molidas",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "cacao en polvo",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "azúcar de monk",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "name": "huevo",
+          "amount": 2,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezclar los ingredientes",
+        "Calentar una sartén antiadherente",
+        "Cocinar los crepes"
+      ],
+      "prepTime": 15,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 350,
+        "protein": 10,
+        "fat": 25,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-2-9",
+      "name": "Batido de Aguacate y Espinacas Keto",
+      "mealType": "breakfast",
+      "description": "Un batido keto refrescante y lleno de nutrientes, perfecto para un desayuno rápido",
+      "ingredients": [
+        {
+          "name": "aguacate",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "leche de almendras",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "proteína en polvo",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezclar los ingredientes",
+        "Agregar hielo"
+      ],
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 1,
+      "macros": {
+        "calories": 300,
+        "protein": 20,
+        "fat": 20,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-3-0",
+      "name": "Huevos al Horno con Espinacas",
+      "mealType": "breakfast",
+      "description": "Un plato nutritivo y delicioso para comenzar el día, con espinacas frescas y huevos frescos.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "queso crema",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "sal",
+          "amount": 2,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Precalienta el horno a 180°C",
+        "Bate los huevos con sal y espinacas picadas",
+        "Vierte la mezcla en un molde para horno y coloca el queso crema encima",
+        "Hornea durante 20 minutos"
+      ],
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 320,
+        "protein": 25,
+        "fat": 25,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-3-1",
+      "name": "Mousse de Aguacate con Huevo",
+      "mealType": "breakfast",
+      "description": "Un desayuno cremoso y saludable, con aguacate fresco y huevo cocido.",
+      "ingredients": [
+        {
+          "name": "aguacate",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "huevo",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "crema para batir",
+          "amount": 50,
+          "unit": "ml"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Corta el aguacate por la mitad y retira el hueso",
+        "Bate la crema hasta que esté suave",
+        "Agrega el huevo cocido y bate hasta integrar",
+        "Mezcla con el aguacate y sal al gusto"
+      ],
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 1,
+      "macros": {
+        "calories": 400,
+        "protein": 15,
+        "fat": 35,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-3-2",
+      "name": "Yogur Griego con Semillas y Nueces",
+      "mealType": "breakfast",
+      "description": "Un desayuno fresco y nutritivo, con yogur griego y semillas para un buen comienzo.",
+      "ingredients": [
+        {
+          "name": "yogur griego",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "semillas de chía",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "name": "nueces picadas",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "miel",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla el yogur con semillas de chía",
+        "Agrega nueces picadas y miel al gusto",
+        "Sirve fresco"
+      ],
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 1,
+      "macros": {
+        "calories": 250,
+        "protein": 20,
+        "fat": 15,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-3-3",
+      "name": "Muffins de Queso y Espinacas",
+      "mealType": "breakfast",
+      "description": "Muffins deliciosos y saludables, con queso y espinacas para un desayuno completo.",
+      "ingredients": [
+        {
+          "name": "queso rallado",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas picadas",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "huevo",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "harina de almendras",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla el queso con espinacas y huevo",
+        "Agrega harina de almendras y mezcla hasta integrar",
+        "Vierte en moldes para muffins y hornea a 180°C durante 15 minutos"
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 300,
+        "protein": 20,
+        "fat": 20,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-3-4",
+      "name": "Wrap de Lechuga con Huevo y Queso",
+      "mealType": "breakfast",
+      "description": "Un desayuno fresco y saludable, con lechuga y huevo para un comienzo ligero.",
+      "ingredients": [
+        {
+          "name": "lechuga",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "huevo",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "queso crema",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "tomate",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Coloca una hoja de lechuga en un plato",
+        "Agrega un huevo cocido y queso crema",
+        "Agrega tomate picado y sirve"
+      ],
+      "prepTime": 5,
+      "cookTime": 10,
+      "servings": 1,
+      "macros": {
+        "calories": 200,
+        "protein": 15,
+        "fat": 15,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-3-5",
+      "name": "Pizza Keto de Queso y Pepperoni",
+      "mealType": "breakfast",
+      "description": "Una pizza keto deliciosa y saludable, con queso y pepperoni para un desayuno especial.",
+      "ingredients": [
+        {
+          "name": "queso mozzarella",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "pepperoni",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "huevo",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "salsa de tomate",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla el queso con huevo y salsa de tomate",
+        "Agrega pepperoni picado",
+        "Vierte en un molde para pizza y hornea a 200°C durante 15 minutos"
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 400,
+        "protein": 25,
+        "fat": 30,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-3-6",
+      "name": "Lasaña de Calabacín y Queso",
+      "mealType": "breakfast",
+      "description": "Una lasaña keto deliciosa y saludable, con calabacín y queso para un desayuno completo.",
+      "ingredients": [
+        {
+          "name": "calabacín",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "queso ricotta",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "huevo",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "queso parmesano",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Corta el calabacín en rodajas",
+        "Mezcla el queso ricotta con huevo y queso parmesano",
+        "Arma la lasaña con calabacín y queso",
+        "Hornea a 180°C durante 20 minutos"
+      ],
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 350,
+        "protein": 20,
+        "fat": 25,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-3-7",
+      "name": "Tortilla de Espinacas y Queso",
+      "mealType": "breakfast",
+      "description": "Una tortilla keto deliciosa y saludable, con espinacas y queso para un desayuno completo.",
+      "ingredients": [
+        {
+          "name": "espinacas",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "queso crema",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "huevo",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla las espinacas con queso crema y huevo",
+        "Agrega sal al gusto",
+        "Vierte en un molde para tortilla y hornea a 180°C durante 15 minutos"
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 250,
+        "protein": 15,
+        "fat": 20,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-3-8",
+      "name": "Huevo Revuelto con Champiñones y Espinacas",
+      "mealType": "breakfast",
+      "description": "Un desayuno keto delicioso y saludable, con huevo revuelto y champiñones para un comienzo nutritivo.",
+      "ingredients": [
+        {
+          "name": "huevo",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "champiñones",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Bate los huevos con sal",
+        "Agrega champiñones picados y espinacas",
+        "Cocina en una sartén a fuego medio durante 5 minutos"
+      ],
+      "prepTime": 5,
+      "cookTime": 5,
+      "servings": 1,
+      "macros": {
+        "calories": 200,
+        "protein": 15,
+        "fat": 15,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-3-9",
+      "name": "Crema de Aguacate y Huevo",
+      "mealType": "breakfast",
+      "description": "Una crema keto deliciosa y saludable, con aguacate y huevo para un desayuno completo.",
+      "ingredients": [
+        {
+          "name": "aguacate",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "huevo",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "crema para batir",
+          "amount": 50,
+          "unit": "ml"
+        },
+        {
+          "name": "sal",
+          "amount": 1,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Corta el aguacate por la mitad y retira el hueso",
+        "Bate la crema hasta que esté suave",
+        "Agrega el huevo cocido y bate hasta integrar",
+        "Mezcla con el aguacate y sal al gusto"
+      ],
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 1,
+      "macros": {
+        "calories": 350,
+        "protein": 15,
+        "fat": 30,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-4-0",
+      "name": "Muffins de Queso Keto",
+      "mealType": "breakfast",
+      "description": "Deliciosos muffins de queso para empezar el día con energía y sabor. Hechos con queso crema, huevo y especias, estos muffins son una excelente opción para una dieta cetogénica.",
+      "ingredients": [
+        {
+          "name": "queso crema",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "huevo",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "especias",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Precalienta el horno a 180°C",
+        "Mezcla los ingredientes en un tazón",
+        "Coloca la mezcla en moldes para muffins"
+      ],
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 400,
+        "protein": 25,
+        "fat": 30,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-4-1",
+      "name": "Wrap de Lechuga con Huevo Keto",
+      "mealType": "breakfast",
+      "description": "Un wrap de lechuga fresca con huevo revuelto y queso, perfecto para un desayuno ligero y delicioso. Ideal para aquellos que buscan una opción baja en carbohidratos.",
+      "ingredients": [
+        {
+          "name": "lechuga",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "huevo",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "queso",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Lava la lechuga y sécala",
+        "Revuelve el huevo en un tazón",
+        "Coloca el huevo y el queso en la lechuga"
+      ],
+      "prepTime": 5,
+      "cookTime": 10,
+      "servings": 1,
+      "macros": {
+        "calories": 250,
+        "protein": 20,
+        "fat": 15,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-4-2",
+      "name": "Omelette de Jamón Keto",
+      "mealType": "breakfast",
+      "description": "Una omelette cremosa y deliciosa hecha con jamón, queso y huevo. Perfecta para un desayuno keto que te mantenga satisfecho hasta la hora del almuerzo.",
+      "ingredients": [
+        {
+          "name": "jamón",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "queso",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "huevo",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Bate el huevo en un tazón",
+        "Agrega el jamón y el queso",
+        "Cocina en una sartén a fuego medio"
+      ],
+      "prepTime": 5,
+      "cookTime": 10,
+      "servings": 1,
+      "macros": {
+        "calories": 300,
+        "protein": 25,
+        "fat": 20,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-4-3",
+      "name": "Huevos Rancheros Keto",
+      "mealType": "breakfast",
+      "description": "Un desayuno tradicional mexicano adaptado a la dieta cetogénica, con huevos, crema y queso sobre una base de lechuga. Un plato lleno de sabor y energía.",
+      "ingredients": [
+        {
+          "name": "huevo",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "crema",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "queso",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "lechuga",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Cocina los huevos en una sartén",
+        "Mezcla la crema y el queso",
+        "Coloca los huevos sobre la lechuga y agrega la mezcla de crema y queso"
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 1,
+      "macros": {
+        "calories": 350,
+        "protein": 20,
+        "fat": 25,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-4-4",
+      "name": "Parfait de Frutos Secos Keto",
+      "mealType": "breakfast",
+      "description": "Un parfait delicioso y saludable hecho con frutos secos, crema y huevo. Una excelente opción para un desayuno keto que te proporcione la energía necesaria para empezar el día.",
+      "ingredients": [
+        {
+          "name": "frutos secos",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "crema",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "huevo",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla los frutos secos y la crema en un tazón",
+        "Agrega el huevo batido",
+        "Coloca la mezcla en un vaso o tazón"
+      ],
+      "prepTime": 5,
+      "cookTime": 10,
+      "servings": 1,
+      "macros": {
+        "calories": 400,
+        "protein": 15,
+        "fat": 30,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-4-5",
+      "name": "Pizza Keto de Queso",
+      "mealType": "breakfast",
+      "description": "Una pizza cetogénica única hecha con una base de queso, perfecta para un desayuno o brunch. Puedes agregar tus ingredientes favoritos como pepperoni o champiñones.",
+      "ingredients": [
+        {
+          "name": "queso",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "huevo",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "pepperoni",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Precalienta el horno a 180°C",
+        "Mezcla el queso y el huevo en un tazón",
+        "Coloca la mezcla en un molde para pizza y agrega los ingredientes deseados"
+      ],
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 500,
+        "protein": 25,
+        "fat": 40,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-4-6",
+      "name": "Lasaña de Calabacín Keto",
+      "mealType": "breakfast",
+      "description": "Un desayuno creativo y delicioso hecho con calabacín, queso y huevo. Una excelente opción para aquellos que buscan una receta keto innovadora y saludable.",
+      "ingredients": [
+        {
+          "name": "calabacín",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "queso",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "huevo",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Corta el calabacín en rebanadas",
+        "Mezcla el queso y el huevo en un tazón",
+        "Arma la lasaña con las rebanadas de calabacín y la mezcla de queso y huevo"
+      ],
+      "prepTime": 15,
+      "cookTime": 25,
+      "servings": 2,
+      "macros": {
+        "calories": 450,
+        "protein": 20,
+        "fat": 35,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-4-7",
+      "name": "Tortilla de Espinacas Keto",
+      "mealType": "breakfast",
+      "description": "Una tortilla deliciosa y saludable hecha con espinacas, queso y huevo. Perfecta para un desayuno keto que te proporcione nutrientes esenciales.",
+      "ingredients": [
+        {
+          "name": "espinacas",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "queso",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "huevo",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Saltea las espinacas en una sartén",
+        "Mezcla el queso y el huevo en un tazón",
+        "Agrega las espinacas a la mezcla y cocina en una sartén"
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 1,
+      "macros": {
+        "calories": 300,
+        "protein": 20,
+        "fat": 20,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-4-8",
+      "name": "Crema de Aguacate Keto",
+      "mealType": "breakfast",
+      "description": "Un desayuno cremoso y saludable hecho con aguacate, huevo y crema. Una excelente opción para un desayuno keto que te mantenga satisfecho.",
+      "ingredients": [
+        {
+          "name": "aguacate",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "huevo",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "crema",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla el aguacate y el huevo en un tazón",
+        "Agrega la crema y mezcla bien",
+        "Sirve en un vaso o tazón"
+      ],
+      "prepTime": 5,
+      "cookTime": 10,
+      "servings": 1,
+      "macros": {
+        "calories": 400,
+        "protein": 15,
+        "fat": 35,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-4-9",
+      "name": "Pan Cetogénico de Queso",
+      "mealType": "breakfast",
+      "description": "Un pan delicioso y saludable hecho con queso, huevo y crema. Perfecto para un desayuno keto que te permita disfrutar de un pan fresco y casero.",
+      "ingredients": [
+        {
+          "name": "queso",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "huevo",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "crema",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla el queso y el huevo en un tazón",
+        "Agrega la crema y mezcla bien",
+        "Coloca la mezcla en un molde para pan y hornea"
+      ],
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 500,
+        "protein": 25,
+        "fat": 40,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-5-0",
+      "name": "Huevos Rancheros Keto",
+      "mealType": "breakfast",
+      "description": "Un desayuno mexicano clásico con un toque cetogénico, huevos frescos sobre tortillas de queso crema y salsa de tomate casera",
+      "ingredients": [
+        {
+          "name": "Huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Queso crema",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Tomates",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Cilantro",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Calienta una sartén con queso crema derretido",
+        "Agrega huevos frescos y cocínalos a tu gusto",
+        "Sirve con salsa de tomate casera y cilantro"
+      ],
+      "prepTime": 15,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 420,
+        "protein": 25,
+        "fat": 32,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-5-1",
+      "name": "Parfait de Frutos Secos Keto",
+      "mealType": "breakfast",
+      "description": "Un parfait cetogénico con frutos secos, crema de leche y huevo batido, una explosión de sabores y texturas",
+      "ingredients": [
+        {
+          "name": "Frutos secos",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Crema de leche",
+          "amount": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "Huevo",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Miel de abeja",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla crema de leche con huevo batido y miel de abeja",
+        "Agrega frutos secos y mezcla bien",
+        "Sirve en un vaso alto"
+      ],
+      "prepTime": 10,
+      "cookTime": 0,
+      "servings": 1,
+      "macros": {
+        "calories": 380,
+        "protein": 15,
+        "fat": 30,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-5-2",
+      "name": "Tostada de Queso Crema sobre Pepino Keto",
+      "mealType": "breakfast",
+      "description": "Un desayuno fresco y cetogénico con queso crema sobre pepino, perfecto para el verano",
+      "ingredients": [
+        {
+          "name": "Queso crema",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Pepino",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Sal",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "name": "Pimienta",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Corta el pepino en rodajas",
+        "Unta queso crema sobre cada rodaja",
+        "Agrega sal y pimienta al gusto"
+      ],
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 200,
+        "protein": 10,
+        "fat": 15,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-5-3",
+      "name": "Smoothie Bowl Keto",
+      "mealType": "breakfast",
+      "description": "Un smoothie cetogénico con frutas y verduras, servido en un tazón con toppings deliciosos",
+      "ingredients": [
+        {
+          "name": "Leche de almendras",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "Frutas congeladas",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "EsPINacas",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Cacao en polvo",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla todos los ingredientes en una licuadora",
+        "Sirve en un tazón",
+        "Agrega toppings como frutos secos y semillas"
+      ],
+      "prepTime": 10,
+      "cookTime": 0,
+      "servings": 1,
+      "macros": {
+        "calories": 350,
+        "protein": 15,
+        "fat": 25,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-5-4",
+      "name": "Scrambled Eggs con Trufa Keto",
+      "mealType": "breakfast",
+      "description": "Un desayuno cetogénico con huevos revueltos y trufa, un lujo para los sentidos",
+      "ingredients": [
+        {
+          "name": "Huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Trufa",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "Mantequilla",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "Sal",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Calienta mantequilla en una sartén",
+        "Agrega huevos y revuelve",
+        "Agrega trufa y sal al gusto"
+      ],
+      "prepTime": 10,
+      "cookTime": 5,
+      "servings": 2,
+      "macros": {
+        "calories": 250,
+        "protein": 20,
+        "fat": 18,
+        "carbs": 2
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-5-5",
+      "name": "Pizza Keto",
+      "mealType": "breakfast",
+      "description": "Una pizza cetogénica con base de queso crema y toppings deliciosos, perfecta para el desayuno",
+      "ingredients": [
+        {
+          "name": "Queso crema",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Huevos",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Tomates",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Orégano",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla queso crema con huevos",
+        "Agrega tomates y orégano",
+        "Hornea en el horno hasta que esté dorada"
+      ],
+      "prepTime": 15,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 400,
+        "protein": 25,
+        "fat": 30,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-5-6",
+      "name": "Lasaña de Calabacín Keto",
+      "mealType": "breakfast",
+      "description": "Una lasaña cetogénica con calabacín y queso crema, un desayuno delicioso y saludable",
+      "ingredients": [
+        {
+          "name": "Calabacín",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Queso crema",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Huevos",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Orégano",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Corta el calabacín en rodajas",
+        "Mezcla queso crema con huevos",
+        "Arma la lasaña y hornea en el horno"
+      ],
+      "prepTime": 20,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 350,
+        "protein": 20,
+        "fat": 25,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-5-7",
+      "name": "Tortilla de Espinacas Keto",
+      "mealType": "breakfast",
+      "description": "Una tortilla cetogénica con espinacas y queso crema, un desayuno saludable y delicioso",
+      "ingredients": [
+        {
+          "name": "Espinacas",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Queso crema",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Huevos",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Sal",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla espinacas con queso crema y huevos",
+        "Calienta una sartén y cocina la tortilla",
+        "Sirve caliente"
+      ],
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 250,
+        "protein": 20,
+        "fat": 18,
+        "carbs": 2
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-5-8",
+      "name": "Crema de Queso con Huevo Keto",
+      "mealType": "breakfast",
+      "description": "Una crema cetogénica con queso crema y huevo, un desayuno delicioso y cremoso",
+      "ingredients": [
+        {
+          "name": "Queso crema",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Huevos",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Leche de almendras",
+          "amount": 50,
+          "unit": "ml"
+        },
+        {
+          "name": "Mantequilla",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla queso crema con huevos y leche de almendras",
+        "Calienta mantequilla en una sartén",
+        "Cocina la crema hasta que esté suave"
+      ],
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 300,
+        "protein": 20,
+        "fat": 22,
+        "carbs": 2
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-5-9",
+      "name": "Batido de Proteínas Keto",
+      "mealType": "breakfast",
+      "description": "Un batido cetogénico con proteínas y crema de leche, un desayuno rápido y nutritivo",
+      "ingredients": [
+        {
+          "name": "Proteínas en polvo",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "Crema de leche",
+          "amount": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "Huevos",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Miel de abeja",
+          "amount": 10,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla proteínas en polvo con crema de leche y huevos",
+        "Agrega miel de abeja al gusto",
+        "Sirve frío"
+      ],
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 1,
+      "macros": {
+        "calories": 250,
+        "protein": 30,
+        "fat": 15,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-6-0",
+      "name": "Tortilla de Espinacas Keto",
+      "mealType": "breakfast",
+      "description": "Una deliciosa tortilla de espinacas y queso para empezar el día con energía. Preparada con ingredientes frescos y sin carbohidratos ajoutados.",
+      "ingredients": [
+        {
+          "name": "espinacas frescas",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 4,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Precalienta el horno a 180°C.",
+        "Mezcla los huevos, espinacas y queso en un tazón.",
+        "Vierte la mezcla en un molde para tortilla y hornea durante 20 minutos."
+      ],
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 320,
+        "protein": 20,
+        "fat": 24,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-6-1",
+      "name": "Smoothie Bowl Keto de Fresa",
+      "mealType": "breakfast",
+      "description": "Un delicioso smoothie bowl keto preparado con fresas frescas y crema de coco. Decorado con nueces y semillas para un toque crujiente.",
+      "ingredients": [
+        {
+          "name": "fresas frescas",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "crema de coco",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "leche de almendras",
+          "amount": 50,
+          "unit": "ml"
+        },
+        {
+          "name": "nueces de macadamia",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla las fresas, crema de coco y leche de almendras en una licuadora.",
+        "Vierte la mezcla en un tazón y decora con nueces y semillas."
+      ],
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 1,
+      "macros": {
+        "calories": 400,
+        "protein": 10,
+        "fat": 35,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-6-2",
+      "name": "Scrambled Eggs con Trufa",
+      "mealType": "breakfast",
+      "description": "Un plato de scrambled eggs con un toque de trufa para un desayuno elegante y delicioso.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 4,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de trufa",
+          "amount": 5,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Bate los huevos en un tazón.",
+        "Calienta la mantequilla en una sartén y agrega los huevos.",
+        "Añade el aceite de trufa y revuelve hasta que estén cocidos."
+      ],
+      "prepTime": 5,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 240,
+        "protein": 18,
+        "fat": 18,
+        "carbs": 2
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-6-3",
+      "name": "Quiche sin Masa de Queso y Espinacas",
+      "mealType": "breakfast",
+      "description": "Una quiche sin masa preparada con queso, espinacas y huevos. Un desayuno keto delicioso y sin carbohidratos.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 4,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas frescas",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "crema de coco",
+          "amount": 50,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Precalienta el horno a 180°C.",
+        "Mezcla los huevos, queso, espinacas y crema de coco en un tazón.",
+        "Vierte la mezcla en un molde para quiche y hornea durante 25 minutos."
+      ],
+      "prepTime": 10,
+      "cookTime": 25,
+      "servings": 2,
+      "macros": {
+        "calories": 360,
+        "protein": 22,
+        "fat": 28,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-6-4",
+      "name": "Stracciatella con Espinacas y Queso",
+      "mealType": "breakfast",
+      "description": "Un plato de stracciatella preparado con espinacas, queso y huevos. Un desayuno keto delicioso y saludable.",
+      "ingredients": [
+        {
+          "name": "espinacas frescas",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "queso parmesano",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 4,
+          "unit": "g"
+        },
+        {
+          "name": "crema de coco",
+          "amount": 20,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Mezcla las espinacas, queso y crema de coco en un tazón.",
+        "Bate los huevos en un tazón separado.",
+        "Agrega los huevos a la mezcla de espinacas y queso y revuelve hasta que estén cocidos."
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 280,
+        "protein": 18,
+        "fat": 20,
+        "carbs": 3
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-6-5",
+      "name": "Egg Muffins de Queso y Espinacas",
+      "mealType": "breakfast",
+      "description": "Unos deliciosos egg muffins preparados con queso, espinacas y huevos. Un desayuno keto práctico y delicioso.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 6,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas frescas",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Precalienta el horno a 180°C.",
+        "Mezcla los huevos, queso y espinacas en un tazón.",
+        "Vierte la mezcla en moldes para muffins y hornea durante 15 minutos."
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 6,
+      "macros": {
+        "calories": 200,
+        "protein": 12,
+        "fat": 14,
+        "carbs": 2
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-6-6",
+      "name": "Pizza Keto de Queso y Champiñones",
+      "mealType": "breakfast",
+      "description": "Una pizza keto preparada con queso, champiñones y huevos. Un desayuno keto delicioso y sin carbohidratos.",
+      "ingredients": [
+        {
+          "name": "queso mozzarella",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "champiñones frescos",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Precalienta el horno a 180°C.",
+        "Mezcla el queso, champiñones y huevos en un tazón.",
+        "Vierte la mezcla en un molde para pizza y hornea durante 15 minutos."
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 320,
+        "protein": 18,
+        "fat": 24,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-6-7",
+      "name": "Lasaña de Calabacín y Queso",
+      "mealType": "breakfast",
+      "description": "Una lasaña keto preparada con calabacín, queso y huevos. Un desayuno keto delicioso y sin carbohidratos.",
+      "ingredients": [
+        {
+          "name": "calabacín fresco",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "queso ricotta",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Precalienta el horno a 180°C.",
+        "Corta el calabacín en rodajas finas.",
+        "Mezcla el queso, huevos y calabacín en un tazón y hornea durante 20 minutos."
+      ],
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 280,
+        "protein": 16,
+        "fat": 20,
+        "carbs": 3
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-6-8",
+      "name": "Tortilla de Queso y Espinacas con Nueces",
+      "mealType": "breakfast",
+      "description": "Una tortilla keto preparada con queso, espinacas y nueces. Un desayuno keto delicioso y sin carbohidratos.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 4,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas frescas",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "nueces de macadamia",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla los huevos, queso y espinacas en un tazón.",
+        "Agrega las nueces y revuelve hasta que estén bien combinadas.",
+        "Vierte la mezcla en una sartén y cocina durante 10 minutos."
+      ],
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 320,
+        "protein": 18,
+        "fat": 24,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-6-9",
+      "name": "Crema de Queso y Espinacas con Huevo",
+      "mealType": "breakfast",
+      "description": "Una crema keto preparada con queso, espinacas y huevo. Un desayuno keto delicioso y sin carbohidratos.",
+      "ingredients": [
+        {
+          "name": "queso crema",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas frescas",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Mezcla el queso, espinacas y huevos en un tazón.",
+        "Agrega el aceite de oliva y revuelve hasta que estén bien combinados.",
+        "Vierte la mezcla en una sartén y cocina durante 5 minutos."
+      ],
+      "prepTime": 5,
+      "cookTime": 5,
+      "servings": 2,
+      "macros": {
+        "calories": 240,
+        "protein": 14,
+        "fat": 18,
+        "carbs": 2
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-7-0",
+      "name": "Stracciatella de Espinacas Keto",
+      "mealType": "breakfast",
+      "description": "Una deliciosa mezcla de espinacas, queso crema y huevo, perfecta para comenzar el día con energía. Este plato es una excelente opción para aquellos que buscan una comida cetogénica rica en proteínas y grasas saludables.",
+      "ingredients": [
+        {
+          "name": "espinacas frescas",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "queso crema",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Batir los huevos en un tazón y agregar el queso crema.",
+        "Calentar el aceite de oliva en una sartén y agregar las espinacas frescas.",
+        "Cocinar las espinacas hasta que estén suaves y agregar la mezcla de huevo y queso."
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 420,
+        "protein": 25,
+        "fat": 35,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-7-1",
+      "name": "Egg Muffins Keto",
+      "mealType": "breakfast",
+      "description": "Deliciosos muffins de huevo rellenos de queso y espinacas, perfectos para un desayuno rápido y cetogénico.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 240,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas frescas",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Batir los huevos en un tazón y agregar el queso cheddar y las espinacas frescas.",
+        "Calentar el aceite de oliva en una sartén y agregar la mezcla de huevo.",
+        "Cocinar en moldes para muffins hasta que estén firmes y dorados."
+      ],
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 4,
+      "macros": {
+        "calories": 320,
+        "protein": 20,
+        "fat": 25,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-7-2",
+      "name": "Shakshuka Keto",
+      "mealType": "breakfast",
+      "description": "Un plato norteafricano clásico, adaptado a la dieta cetogénica, con huevos poché en una rica salsa de tomate y pimientos.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "tomates frescos",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "pimientos rojos",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Calentar el aceite de oliva en una sartén y agregar los pimientos rojos y los tomates frescos.",
+        "Cocinar hasta que los vegetales estén suaves y agregar los huevos.",
+        "Cocinar a fuego lento hasta que los huevos estén pochés."
+      ],
+      "prepTime": 15,
+      "cookTime": 25,
+      "servings": 2,
+      "macros": {
+        "calories": 380,
+        "protein": 20,
+        "fat": 30,
+        "carbs": 8
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-7-3",
+      "name": "Frittata de Calabacín Keto",
+      "mealType": "breakfast",
+      "description": "Una deliciosa frittata rellena de calabacín y queso, perfecta para un desayuno cetogénico y saludable.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 240,
+          "unit": "g"
+        },
+        {
+          "name": "calabacín",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Batir los huevos en un tazón y agregar el queso cheddar y el calabacín.",
+        "Calentar el aceite de oliva en una sartén y agregar la mezcla de huevo.",
+        "Cocinar hasta que la frittata esté firme y dorada."
+      ],
+      "prepTime": 15,
+      "cookTime": 25,
+      "servings": 4,
+      "macros": {
+        "calories": 360,
+        "protein": 25,
+        "fat": 28,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-7-4",
+      "name": "Huevos Florentinos Keto",
+      "mealType": "breakfast",
+      "description": "Un plato clásico, adaptado a la dieta cetogénica, con huevos poché sobre espinacas y queso, cubierto con una rica salsa holandesa.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas frescas",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Calentar la mantequilla en una sartén y agregar las espinacas frescas.",
+        "Cocinar hasta que las espinacas estén suaves y agregar los huevos.",
+        "Cubrir con queso cheddar y cocinar a fuego lento hasta que el queso esté derretido."
+      ],
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 400,
+        "protein": 25,
+        "fat": 35,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-7-5",
+      "name": "Pizza Keto de Queso",
+      "mealType": "breakfast",
+      "description": "Una deliciosa pizza cetogénica hecha con una base de queso y rellena de ingredientes saludables.",
+      "ingredients": [
+        {
+          "name": "queso mozzarella",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "queso parmesano",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas frescas",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Precalentar el horno a 180°C.",
+        "Mezclar el queso mozzarella y el queso parmesano en un tazón.",
+        "Agregar los huevos y las espinacas frescas, y mezclar hasta que estén bien combinados.",
+        "Colocar la mezcla en una bandeja para hornear y hornear durante 15-20 minutos, o hasta que la base esté dorada y el queso esté derretido."
+      ],
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 440,
+        "protein": 30,
+        "fat": 38,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-7-6",
+      "name": "Lasagna de Calabacín Keto",
+      "mealType": "breakfast",
+      "description": "Una deliciosa lasagna cetogénica hecha con calabacín y rellena de queso y carne.",
+      "ingredients": [
+        {
+          "name": "calabacín",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "carne molida",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "queso ricotta",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "queso mozzarella",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Precalentar el horno a 180°C.",
+        "Cortar el calabacín en rodajas finas.",
+        "Mezclar la carne molida con el queso ricotta y el queso mozzarella.",
+        "Armar la lasagna con capas de calabacín, carne y queso, y hornear durante 25-30 minutos, o hasta que esté caliente y burbujeante."
+      ],
+      "prepTime": 20,
+      "cookTime": 30,
+      "servings": 4,
+      "macros": {
+        "calories": 520,
+        "protein": 40,
+        "fat": 45,
+        "carbs": 8
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-7-7",
+      "name": "Tortilla de Espinacas y Queso Keto",
+      "mealType": "breakfast",
+      "description": "Una deliciosa tortilla cetogénica hecha con espinacas y queso, perfecta para un desayuno saludable.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 240,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas frescas",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Batir los huevos en un tazón y agregar las espinacas frescas y el queso cheddar.",
+        "Calentar el aceite de oliva en una sartén y agregar la mezcla de huevo.",
+        "Cocinar hasta que la tortilla esté firme y dorada."
+      ],
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 4,
+      "macros": {
+        "calories": 360,
+        "protein": 25,
+        "fat": 28,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-7-8",
+      "name": "Huevos Revueltos con Chorizo Keto",
+      "mealType": "breakfast",
+      "description": "Un plato cetogénico y sabroso, con huevos revueltos y chorizo, perfecto para un desayuno energético.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 240,
+          "unit": "g"
+        },
+        {
+          "name": "chorizo",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "name": "espinacas frescas",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Calentar el aceite de oliva en una sartén y agregar el chorizo.",
+        "Cocinar hasta que el chorizo esté dorado y agregar los huevos.",
+        "Revolver los huevos y agregar las espinacas frescas."
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 400,
+        "protein": 30,
+        "fat": 35,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-7-9",
+      "name": "Omelette de Queso y Espinacas Keto",
+      "mealType": "breakfast",
+      "description": "Una deliciosa omelette cetogénica hecha con queso y espinacas, perfecta para un desayuno saludable y rápido.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 240,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas frescas",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Batir los huevos en un tazón y agregar el queso cheddar y las espinacas frescas.",
+        "Calentar el aceite de oliva en una sartén y agregar la mezcla de huevo.",
+        "Cocinar hasta que la omelette esté firme y dorada."
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 320,
+        "protein": 20,
+        "fat": 25,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-8-0",
+      "name": "Desayuno Inglés Keto",
+      "mealType": "breakfast",
+      "description": "Un desayuno clásico inglés con un toque cetogénico, con huevos, tocino y champiñones.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "tocino",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "champiñones",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Saltea los champiñones en una sartén con aceite de oliva",
+        "Agrega el tocino y cocina hasta que esté crujiente",
+        "Rompe los huevos y cocina hasta que estén revueltos"
+      ],
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 420,
+        "protein": 25,
+        "fat": 32,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-8-1",
+      "name": "Frittata de Calabacín",
+      "mealType": "breakfast",
+      "description": "Una frittata deliciosa y cetogénica hecha con calabacín, huevos y queso.",
+      "ingredients": [
+        {
+          "name": "calabacín",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar",
+          "amount": 80,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Saltea el calabacín en una sartén con aceite de oliva",
+        "Rompe los huevos y mezcla con el queso",
+        "Agrega la mezcla de huevos al calabacín y cocina hasta que esté firme"
+      ],
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 380,
+        "protein": 20,
+        "fat": 28,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-8-2",
+      "name": "Huevos Florentinos",
+      "mealType": "breakfast",
+      "description": "Un desayuno clásico con un toque cetogénico, con huevos, espinacas y queso.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "queso parmesano",
+          "amount": 80,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Saltea las espinacas en una sartén con aceite de oliva",
+        "Rompe los huevos y cocina hasta que estén revueltos",
+        "Agrega el queso y cocina hasta que esté derretido"
+      ],
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 360,
+        "protein": 22,
+        "fat": 24,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-8-3",
+      "name": "Pizza Keto de Queso",
+      "mealType": "breakfast",
+      "description": "Una pizza cetogénica y deliciosa hecha con una base de queso y ingredientes keto.",
+      "ingredients": [
+        {
+          "name": "queso mozzarella",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "queso parmesano",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "champiñones",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla los quesos y forma una base circular",
+        "Agrega los champiñones y cocina en el horno hasta que estén dorados"
+      ],
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 420,
+        "protein": 20,
+        "fat": 32,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-8-4",
+      "name": "Lasaña de Calabacín Keto",
+      "mealType": "breakfast",
+      "description": "Una lasaña cetogénica y deliciosa hecha con calabacín y ingredientes keto.",
+      "ingredients": [
+        {
+          "name": "calabacín",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "queso ricotta",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "queso parmesano",
+          "amount": 80,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Corta el calabacín en rodajas finas",
+        "Mezcla el queso ricotta y el queso parmesano",
+        "Arma la lasaña con las rodajas de calabacín y la mezcla de queso"
+      ],
+      "prepTime": 15,
+      "cookTime": 25,
+      "servings": 2,
+      "macros": {
+        "calories": 400,
+        "protein": 22,
+        "fat": 28,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-8-5",
+      "name": "Tortilla de Espinacas Keto",
+      "mealType": "breakfast",
+      "description": "Una tortilla cetogénica y deliciosa hecha con espinacas y huevos.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "queso feta",
+          "amount": 80,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Saltea las espinacas en una sartén con aceite de oliva",
+        "Rompe los huevos y mezcla con el queso feta",
+        "Agrega la mezcla de huevos a las espinacas y cocina hasta que esté firme"
+      ],
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 360,
+        "protein": 20,
+        "fat": 24,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-8-6",
+      "name": "Champiñones Rellenos Keto",
+      "mealType": "breakfast",
+      "description": "Champiñones rellenos con una mezcla de queso y huevos, cetogénicos y deliciosos.",
+      "ingredients": [
+        {
+          "name": "champiñones",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 120,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Limpia los champiñones y retira los tallos",
+        "Mezcla el queso cheddar y los huevos",
+        "Rellena los champiñones con la mezcla de queso y cocina en el horno hasta que estén dorados"
+      ],
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 400,
+        "protein": 20,
+        "fat": 28,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-8-7",
+      "name": "Tocino y Huevo Keto",
+      "mealType": "breakfast",
+      "description": "Un desayuno clásico con un toque cetogénico, con tocino y huevos.",
+      "ingredients": [
+        {
+          "name": "tocino",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 120,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Cocina el tocino en una sartén hasta que esté crujiente",
+        "Rompe los huevos y cocina hasta que estén revueltos"
+      ],
+      "prepTime": 5,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 320,
+        "protein": 18,
+        "fat": 22,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-8-8",
+      "name": "Quiche Lorraine Keto",
+      "mealType": "breakfast",
+      "description": "Una quiche cetogénica y deliciosa hecha con huevos, crema y queso.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "crema",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "name": "queso gruyère",
+          "amount": 80,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezcla los huevos, la crema y el queso",
+        "Vierte la mezcla en un molde para quiche y cocina en el horno hasta que esté firme"
+      ],
+      "prepTime": 10,
+      "cookTime": 25,
+      "servings": 2,
+      "macros": {
+        "calories": 400,
+        "protein": 20,
+        "fat": 28,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-8-9",
+      "name": "Omelette de Queso Keto",
+      "mealType": "breakfast",
+      "description": "Una omelette cetogénica y deliciosa hecha con huevos y queso.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar",
+          "amount": 80,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Rompe los huevos y mezcla con el queso",
+        "Cocina la mezcla en una sartén hasta que esté firme y dorada"
+      ],
+      "prepTime": 5,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 320,
+        "protein": 18,
+        "fat": 22,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-9-0",
+      "name": "Tortilla de Espinacas Keto",
+      "mealType": "breakfast",
+      "description": "Una deliciosa tortilla llena de espinacas y queso, perfecta para empezar el día con energía.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar",
+          "amount": 150,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Batir los huevos",
+        "Agregar espinacas y queso",
+        "Cocinar en sartén"
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 420,
+        "protein": 28,
+        "fat": 32,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-9-1",
+      "name": "Pizza Keto de Queso",
+      "mealType": "breakfast",
+      "description": "Una pizza keto única con base de queso y rellena de ingredientes deliciosos, ideal para un desayuno diferente.",
+      "ingredients": [
+        {
+          "name": "queso mozzarella",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "name": "queso parmesano",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "pepperoni",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezclar quesos",
+        "Agregar pepperoni",
+        "Cocinar en horno"
+      ],
+      "prepTime": 12,
+      "cookTime": 18,
+      "servings": 2,
+      "macros": {
+        "calories": 500,
+        "protein": 25,
+        "fat": 40,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-9-2",
+      "name": "Lasaña de Calabacín Keto",
+      "mealType": "breakfast",
+      "description": "Una lasaña keto innovadora utilizando calabacín en lugar de pasta, perfecta para un desayuno saludable y delicioso.",
+      "ingredients": [
+        {
+          "name": "calabacín",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "queso ricotta",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "queso parmesano",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Cortar calabacín",
+        "Mezclar queso ricotta y parmesano",
+        "Armar lasaña"
+      ],
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 2,
+      "macros": {
+        "calories": 380,
+        "protein": 20,
+        "fat": 28,
+        "carbs": 8
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-9-3",
+      "name": "Batido Keto de Proteínas",
+      "mealType": "breakfast",
+      "description": "Un batido keto rápido y nutritivo, ideal para aquellos que buscan una opción fácil y rápida para el desayuno.",
+      "ingredients": [
+        {
+          "name": "proteína en polvo",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "leche de almendras",
+          "amount": 250,
+          "unit": "ml"
+        },
+        {
+          "name": "mantequilla de maní",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezclar ingredientes",
+        "Licuar"
+      ],
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 1,
+      "macros": {
+        "calories": 320,
+        "protein": 25,
+        "fat": 24,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-9-4",
+      "name": "Tostada Keto de Aguacate",
+      "mealType": "breakfast",
+      "description": "Una tostada keto cremosa y deliciosa, cubierta con aguacate y huevo.",
+      "ingredients": [
+        {
+          "name": "aguacate",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "queso feta",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Tostar pan keto",
+        "Untar aguacate",
+        "Agregar huevo y queso"
+      ],
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 1,
+      "macros": {
+        "calories": 350,
+        "protein": 15,
+        "fat": 28,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-9-5",
+      "name": "Omelette Keto de Champiñones",
+      "mealType": "breakfast",
+      "description": "Una omelette keto llena de champiñones y queso, perfecta para un desayuno sabroso.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "champiñones",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "queso cheddar",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Batir huevos",
+        "Agregar champiñones y queso",
+        "Cocinar en sartén"
+      ],
+      "prepTime": 10,
+      "cookTime": 12,
+      "servings": 1,
+      "macros": {
+        "calories": 280,
+        "protein": 18,
+        "fat": 20,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-9-6",
+      "name": "Crepes Keto de Fresa",
+      "mealType": "breakfast",
+      "description": "Crepes keto deliciosos y finos, rellenos de fresa y crema, perfectos para un desayuno dulce.",
+      "ingredients": [
+        {
+          "name": "harina de almendras",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "fresas",
+          "amount": 150,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezclar harina y huevos",
+        "Cocinar crepes",
+        "Rellenar con fresas y crema"
+      ],
+      "prepTime": 15,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 300,
+        "protein": 12,
+        "fat": 22,
+        "carbs": 8
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-9-7",
+      "name": "Salmón Keto Ahumado",
+      "mealType": "breakfast",
+      "description": "Un desayuno keto saludable y delicioso, con salmón ahumado y aguacate.",
+      "ingredients": [
+        {
+          "name": "salmón ahumado",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "aguacate",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "huevos",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Tostar pan keto",
+        "Untar aguacate",
+        "Agregar salmón y huevo"
+      ],
+      "prepTime": 10,
+      "cookTime": 5,
+      "servings": 1,
+      "macros": {
+        "calories": 320,
+        "protein": 25,
+        "fat": 24,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-9-8",
+      "name": "Galletas Keto de Nueces",
+      "mealType": "breakfast",
+      "description": "Galletas keto crujientes y deliciosas, hechas con nueces y perfectas para acompañar el desayuno.",
+      "ingredients": [
+        {
+          "name": "harina de almendras",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "nueces",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "mantequilla de maní",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezclar harina y nueces",
+        "Agregar mantequilla de maní",
+        "Hornear"
+      ],
+      "prepTime": 15,
+      "cookTime": 15,
+      "servings": 4,
+      "macros": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 20,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-9-9",
+      "name": "Quiche Keto de Espinacas",
+      "mealType": "breakfast",
+      "description": "Una quiche keto deliciosa y saludable, llena de espinacas y queso, perfecta para un desayuno completo.",
+      "ingredients": [
+        {
+          "name": "huevos",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "espinacas",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "queso feta",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezclar huevos y espinacas",
+        "Agregar queso",
+        "Cocinar en horno"
+      ],
+      "prepTime": 15,
+      "cookTime": 25,
+      "servings": 2,
+      "macros": {
+        "calories": 400,
+        "protein": 22,
+        "fat": 30,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-11-0",
+      "name": "Tortilla Keto de Espinacas",
+      "mealType": "breakfast",
+      "description": "Una deliciosa tortilla llena de espinacas y queso, perfecta para empezar el día con energía",
+      "ingredients": [
+        {
+          "name": "Huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Espinacas frescas",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Queso cheddar",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Mantequilla",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Batir los huevos en un tazón",
+        "Agregar espinacas y queso, mezclar bien",
+        "Calentar mantequilla en una sartén y cocinar la tortilla"
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 320,
+        "protein": 22,
+        "fat": 24,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-11-1",
+      "name": "Pizza Keto de Queso",
+      "mealType": "breakfast",
+      "description": "Una pizza keto única con base de queso, perfecta para satisfacer tus antojos",
+      "ingredients": [
+        {
+          "name": "Queso mozzarella",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Queso parmesano",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Huevos",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Aceite de oliva",
+          "amount": 10,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        "Precaliente el horno a 180°C",
+        "Mezclar quesos y huevos en un tazón",
+        "Colocar la mezcla en una bandeja para hornear y agregar aceite de oliva"
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 380,
+        "protein": 25,
+        "fat": 30,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-11-2",
+      "name": "Lasaña de Calabacín Keto",
+      "mealType": "breakfast",
+      "description": "Una lasaña keto con calabacín, queso y carne, perfecta para un desayuno sabroso",
+      "ingredients": [
+        {
+          "name": "Calabacín",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Carne molida",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Queso ricotta",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Queso parmesano",
+          "amount": 30,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Cocinar la carne molida en una sartén",
+        "Cortar el calabacín en rodajas finas",
+        "Armar la lasaña con capas de calabacín, carne y queso"
+      ],
+      "prepTime": 15,
+      "cookTime": 25,
+      "servings": 2,
+      "macros": {
+        "calories": 420,
+        "protein": 30,
+        "fat": 32,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-11-3",
+      "name": "Huevos Revueltos con Espinacas y Queso",
+      "mealType": "breakfast",
+      "description": "Un desayuno clásico con un toque keto, huevos revueltos con espinacas y queso",
+      "ingredients": [
+        {
+          "name": "Huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Espinacas frescas",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Queso cheddar",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Mantequilla",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Batir los huevos en un tazón",
+        "Agregar espinacas y queso, mezclar bien",
+        "Calentar mantequilla en una sartén y cocinar los huevos revueltos"
+      ],
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 300,
+        "protein": 20,
+        "fat": 22,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-11-4",
+      "name": "Tostada Keto de Aguacate y Huevo",
+      "mealType": "breakfast",
+      "description": "Una tostada keto con aguacate y huevo, perfecta para un desayuno saludable y delicioso",
+      "ingredients": [
+        {
+          "name": "Aguacate",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Huevos",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Pan keto",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Sal y pimienta",
+          "amount": 5,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Tostar el pan keto",
+        "Machacar el aguacate y untarlo en el pan",
+        "Cocinar el huevo y colocarlo encima del aguacate"
+      ],
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 350,
+        "protein": 15,
+        "fat": 28,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-11-5",
+      "name": "Batido Keto de Proteínas y Grasas",
+      "mealType": "breakfast",
+      "description": "Un batido keto con proteínas y grasas, perfecto para un desayuno rápido y nutritivo",
+      "ingredients": [
+        {
+          "name": "Proteína en polvo",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "name": "Leche de almendras",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "Mantequilla de coco",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "name": "Huevos",
+          "amount": 100,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezclar todos los ingredientes en una licuadora",
+        "Batir hasta que estén bien combinados"
+      ],
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 2,
+      "macros": {
+        "calories": 400,
+        "protein": 25,
+        "fat": 32,
+        "carbs": 5
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-11-6",
+      "name": "Omelette Keto de Queso y Vegetales",
+      "mealType": "breakfast",
+      "description": "Una omelette keto con queso y vegetales, perfecta para un desayuno saludable y delicioso",
+      "ingredients": [
+        {
+          "name": "Huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Queso cheddar",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Espinacas frescas",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Pimiento rojo",
+          "amount": 50,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Batir los huevos en un tazón",
+        "Agregar queso, espinacas y pimiento, mezclar bien",
+        "Calentar una sartén y cocinar la omelette"
+      ],
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 320,
+        "protein": 20,
+        "fat": 24,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-11-7",
+      "name": "Tortilla Keto de Camarones y Queso",
+      "mealType": "breakfast",
+      "description": "Una tortilla keto con camarones y queso, perfecta para un desayuno sabroso y nutritivo",
+      "ingredients": [
+        {
+          "name": "Huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Camarones",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Queso cheddar",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Mantequilla",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Batir los huevos en un tazón",
+        "Agregar camarones y queso, mezclar bien",
+        "Calentar mantequilla en una sartén y cocinar la tortilla"
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 360,
+        "protein": 25,
+        "fat": 26,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-11-8",
+      "name": "Panqueques Keto de Avena y Nueces",
+      "mealType": "breakfast",
+      "description": "Unos panqueques keto con avena y nueces, perfectos para un desayuno delicioso y saludable",
+      "ingredients": [
+        {
+          "name": "Avena",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Nueces de macadamia",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Mantequilla",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Mezclar avena, nueces y huevos en un tazón",
+        "Calentar mantequilla en una sartén y cocinar los panqueques"
+      ],
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 2,
+      "macros": {
+        "calories": 400,
+        "protein": 15,
+        "fat": 32,
+        "carbs": 6
+      },
+      "isPregnancySafe": true
+    },
+    {
+      "id": "gen-b-11-9",
+      "name": "Huevos Keto con Espinacas y Queso Frito",
+      "mealType": "breakfast",
+      "description": "Unos huevos keto con espinacas y queso frito, perfectos para un desayuno sabroso y nutritivo",
+      "ingredients": [
+        {
+          "name": "Huevos",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "name": "Espinacas frescas",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "name": "Queso cheddar",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "Mantequilla",
+          "amount": 20,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Batir los huevos en un tazón",
+        "Agregar espinacas y queso, mezclar bien",
+        "Calentar mantequilla en una sartén y cocinar los huevos"
+      ],
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 2,
+      "macros": {
+        "calories": 320,
+        "protein": 20,
+        "fat": 24,
+        "carbs": 4
+      },
+      "isPregnancySafe": true
+    }
+  ]
+}
