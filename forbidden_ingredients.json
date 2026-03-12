@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "description": "Ingredientes prohibidos o a evitar en dieta cetogénica y/o durante el embarazo",
+  "categories": {
+    "antiKeto_carbos": {
+      "label": "Prohibidos keto — altos en carbohidratos",
+      "reason": "Rompen la cetosis por su alto contenido en carbohidratos",
+      "items": [
+        { "name": "arroz", "carbos_netos": 28, "unidad": "g" },
+        { "name": "pasta (trigo)", "carbos_netos": 25, "unidad": "g" },
+        { "name": "pan", "carbos_netos": 45, "unidad": "g" },
+        { "name": "patata", "carbos_netos": 17, "unidad": "g" },
+        { "name": "boniato (batata)", "carbos_netos": 18, "unidad": "g" },
+        { "name": "maíz", "carbos_netos": 17, "unidad": "g" },
+        { "name": "trigo (harina blanca)", "carbos_netos": 72, "unidad": "g" },
+        { "name": "avena", "carbos_netos": 56, "unidad": "g" },
+        { "name": "quinoa", "carbos_netos": 64, "unidad": "g" },
+        { "name": "cebada", "carbos_netos": 65, "unidad": "g" },
+        { "name": "lentejas", "carbos_netos": 40, "unidad": "g" },
+        { "name": "garbanzos", "carbos_netos": 45, "unidad": "g" },
+        { "name": "alubias / judías", "carbos_netos": 38, "unidad": "g" },
+        { "name": "guisantes", "carbos_netos": 9, "unidad": "g" },
+        { "name": "remolacha", "carbos_netos": 7, "unidad": "g" },
+        { "name": "zanahoria", "carbos_netos": 6.8, "unidad": "g" },
+        { "name": "calabaza (naranja)", "carbos_netos": 6, "unidad": "g" },
+        { "name": "cebolla (grandes cantidades)", "carbos_netos": 7, "unidad": "g" }
+      ]
+    },
+    "antiKeto_azucares": {
+      "label": "Prohibidos keto — azúcares y dulces",
+      "reason": "Disparan la glucemia e interrumpen la cetosis inmediatamente",
+      "items": [
+        { "name": "azúcar blanca", "carbos_netos": 100, "unidad": "g" },
+        { "name": "azúcar morena", "carbos_netos": 98, "unidad": "g" },
+        { "name": "miel", "carbos_netos": 82, "unidad": "g" },
+        { "name": "jarabe de arce (maple syrup)", "carbos_netos": 67, "unidad": "g" },
+        { "name": "jarabe de agave", "carbos_netos": 76, "unidad": "g" },
+        { "name": "mermelada", "carbos_netos": 65, "unidad": "g" },
+        { "name": "chocolate con leche / blanco", "carbos_netos": 52, "unidad": "g" },
+        { "name": "dulces y caramelos", "carbos_netos": 80, "unidad": "g" },
+        { "name": "helados convencionales", "carbos_netos": 22, "unidad": "g" },
+        { "name": "galletas", "carbos_netos": 65, "unidad": "g" },
+        { "name": "bollería / pasteles", "carbos_netos": 55, "unidad": "g" },
+        { "name": "ketchup", "carbos_netos": 25, "unidad": "g", "notas": "Sustituir por mostaza o salsa de tomate casera sin azúcar" },
+        { "name": "salsa barbacoa", "carbos_netos": 26, "unidad": "g" }
+      ]
+    },
+    "antiKeto_frutas": {
+      "label": "Frutas altas en azúcar (evitar o limitar mucho)",
+      "reason": "Alto contenido en fructosa, puede interferir con la cetosis",
+      "items": [
+        { "name": "plátano", "carbos_netos": 20, "unidad": "g" },
+        { "name": "uvas", "carbos_netos": 17, "unidad": "g" },
+        { "name": "mango", "carbos_netos": 14, "unidad": "g" },
+        { "name": "piña", "carbos_netos": 13, "unidad": "g" },
+        { "name": "cerezas", "carbos_netos": 12, "unidad": "g" },
+        { "name": "higos", "carbos_netos": 19, "unidad": "g" },
+        { "name": "melocotón", "carbos_netos": 9, "unidad": "g" },
+        { "name": "pera", "carbos_netos": 12, "unidad": "g" },
+        { "name": "manzana", "carbos_netos": 12, "unidad": "g" },
+        { "name": "naranja / mandarina", "carbos_netos": 10, "unidad": "g" },
+        { "name": "sandía", "carbos_netos": 7.6, "unidad": "g" },
+        { "name": "melón", "carbos_netos": 8, "unidad": "g" },
+        { "name": "dátiles", "carbos_netos": 63, "unidad": "g" },
+        { "name": "pasas / fruta seca", "carbos_netos": 65, "unidad": "g" }
+      ]
+    },
+    "antiKeto_bebidas": {
+      "label": "Bebidas prohibidas keto",
+      "reason": "Altas en azúcar o que interfieren con la cetosis",
+      "items": [
+        { "name": "refrescos azucarados (Coca-Cola, Fanta...)", "carbos_netos": 10, "unidad": "ml" },
+        { "name": "zumos de fruta", "carbos_netos": 10, "unidad": "ml" },
+        { "name": "leche entera / desnatada", "carbos_netos": 5, "unidad": "ml", "notas": "Sustituir por leche de almendras sin azúcar" },
+        { "name": "bebidas energéticas (Red Bull, Monster...)", "carbos_netos": 11, "unidad": "ml" },
+        { "name": "batidos comerciales", "carbos_netos": 15, "unidad": "ml" },
+        { "name": "alcohol (cerveza, vino dulce, cócteles)", "carbos_netos": 5, "unidad": "ml", "notas": "El alcohol detiene la cetosis; prohibido además en embarazo" }
+      ]
+    },
+    "embarazo": {
+      "label": "Prohibidos durante el embarazo",
+      "reason": "Riesgo de listeria, toxoplasmosis, mercurio elevado u otras complicaciones",
+      "items": [
+        { "name": "pescado crudo (sushi, sashimi)", "riesgo": "mercurio y bacterias", "alternativa": "pescado cocinado a >70°C" },
+        { "name": "salmón ahumado en frío", "riesgo": "listeria", "alternativa": "salmón a la plancha u horno" },
+        { "name": "atún rojo / pez espada / tiburón / blanquillo", "riesgo": "mercurio elevado", "alternativa": "salmón, trucha, sardinas" },
+        { "name": "carne cruda o poco hecha (tartar, carpaccio)", "riesgo": "toxoplasmosis, E. coli", "alternativa": "carne bien cocinada >70°C" },
+        { "name": "pollo crudo o poco cocinado", "riesgo": "salmonela", "alternativa": "pollo cocinado hasta 74°C interior" },
+        { "name": "huevo crudo o poco hecho", "riesgo": "salmonela", "alternativa": "huevo totalmente cocinado" },
+        { "name": "huevo crudo en salsas (mayonesa casera)", "riesgo": "salmonela", "alternativa": "mayonesa pasteurizada comercial" },
+        { "name": "queso blando no pasteurizado (brie, camembert, roquefort, gorgonzola)", "riesgo": "listeria", "alternativa": "queso curado pasteurizado (manchego, parmesano, cheddar)" },
+        { "name": "queso fresco no pasteurizado", "riesgo": "listeria", "alternativa": "queso fresco pasteurizado" },
+        { "name": "embutidos y fiambres fríos (jamón cocido, mortadela, pavo en lonchas)", "riesgo": "listeria", "alternativa": "calentar hasta que humee antes de comer" },
+        { "name": "patés y foie", "riesgo": "listeria y exceso de vitamina A (hígado)", "alternativa": "patés vegetales keto" },
+        { "name": "hígado y vísceras (grandes cantidades)", "riesgo": "exceso de vitamina A teratogénica", "alternativa": "consumo ocasional muy limitado si lo autoriza el médico" },
+        { "name": "brotes crudos (alfalfa, soja, rábano)", "riesgo": "salmonela, E. coli", "alternativa": "verduras de hoja bien lavadas" },
+        { "name": "alcohol (cualquier tipo)", "riesgo": "síndrome alcohólico fetal, aborto", "alternativa": "agua, infusiones, agua con gas" },
+        { "name": "cafeína en exceso (>200 mg/día)", "riesgo": "bajo peso al nacer", "alternativa": "máx. 1-2 cafés al día; infusiones sin cafeína" },
+        { "name": "suplementos herbales sin supervisión médica", "riesgo": "variable, algunos estimulan contracciones", "alternativa": "solo suplementos pautados por médico" }
+      ]
+    }
+  }
+}

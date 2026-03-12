@@ -1,0 +1,178 @@
+{
+  "version": 1,
+  "description": "Ingredientes permitidos en dieta cetogénica estricta (<10g carbos netos)",
+  "categories": {
+    "carnes": {
+      "label": "Carnes",
+      "items": [
+        { "name": "pollo", "carbos_netos": 0, "unidad": "g", "notas": "Todas las partes, preferiblemente con piel" },
+        { "name": "ternera", "carbos_netos": 0, "unidad": "g" },
+        { "name": "cerdo", "carbos_netos": 0, "unidad": "g", "notas": "Incluye costillas, lomo, secreto" },
+        { "name": "cordero", "carbos_netos": 0, "unidad": "g" },
+        { "name": "pavo", "carbos_netos": 0, "unidad": "g" },
+        { "name": "conejo", "carbos_netos": 0, "unidad": "g" },
+        { "name": "pato", "carbos_netos": 0, "unidad": "g" },
+        { "name": "bacon", "carbos_netos": 0.5, "unidad": "g" },
+        { "name": "salchicha (sin relleno)", "carbos_netos": 1, "unidad": "g", "notas": "Revisar etiqueta, evitar con fécula" },
+        { "name": "jamón serrano", "carbos_netos": 0.3, "unidad": "g" },
+        { "name": "chorizo", "carbos_netos": 1, "unidad": "g" },
+        { "name": "morcilla (sin arroz)", "carbos_netos": 2, "unidad": "g" },
+        { "name": "hígado", "carbos_netos": 4, "unidad": "g", "notas": "Moderado; prohibido en embarazo" }
+      ]
+    },
+    "pescados_mariscos": {
+      "label": "Pescados y Mariscos",
+      "items": [
+        { "name": "salmón", "carbos_netos": 0, "unidad": "g" },
+        { "name": "atún fresco", "carbos_netos": 0, "unidad": "g" },
+        { "name": "sardinas", "carbos_netos": 0, "unidad": "g" },
+        { "name": "caballa", "carbos_netos": 0, "unidad": "g" },
+        { "name": "trucha", "carbos_netos": 0, "unidad": "g" },
+        { "name": "bacalao", "carbos_netos": 0, "unidad": "g" },
+        { "name": "merluza", "carbos_netos": 0, "unidad": "g" },
+        { "name": "dorada", "carbos_netos": 0, "unidad": "g" },
+        { "name": "lubina", "carbos_netos": 0, "unidad": "g" },
+        { "name": "gambas", "carbos_netos": 0.5, "unidad": "g" },
+        { "name": "langostinos", "carbos_netos": 0.5, "unidad": "g" },
+        { "name": "mejillones", "carbos_netos": 3.5, "unidad": "g", "notas": "Moderado" },
+        { "name": "pulpo", "carbos_netos": 2, "unidad": "g" },
+        { "name": "calamar", "carbos_netos": 3, "unidad": "g", "notas": "Sin rebozar" },
+        { "name": "anchoas", "carbos_netos": 0, "unidad": "g" }
+      ]
+    },
+    "lacteos_huevos": {
+      "label": "Lácteos y Huevos",
+      "items": [
+        { "name": "huevo", "carbos_netos": 0.6, "unidad": "ud" },
+        { "name": "mantequilla", "carbos_netos": 0.1, "unidad": "g" },
+        { "name": "nata para cocinar (35% M.G.)", "carbos_netos": 3, "unidad": "ml" },
+        { "name": "queso parmesano", "carbos_netos": 0, "unidad": "g" },
+        { "name": "queso cheddar", "carbos_netos": 0.4, "unidad": "g" },
+        { "name": "queso mozzarella", "carbos_netos": 2.2, "unidad": "g" },
+        { "name": "queso manchego", "carbos_netos": 0.5, "unidad": "g" },
+        { "name": "queso gruyère", "carbos_netos": 0.4, "unidad": "g" },
+        { "name": "queso feta", "carbos_netos": 1.2, "unidad": "g" },
+        { "name": "queso crema", "carbos_netos": 2.7, "unidad": "g" },
+        { "name": "mascarpone", "carbos_netos": 4, "unidad": "g" },
+        { "name": "ghee", "carbos_netos": 0, "unidad": "g" },
+        { "name": "yogur griego entero (sin azúcar)", "carbos_netos": 4, "unidad": "g", "notas": "Moderado, sin fruta ni azúcar añadido" },
+        { "name": "crema agria (sour cream)", "carbos_netos": 3, "unidad": "g" }
+      ]
+    },
+    "verduras_hoja": {
+      "label": "Verduras de hoja y bajas en carbos",
+      "items": [
+        { "name": "espinacas", "carbos_netos": 1.4, "unidad": "g" },
+        { "name": "lechuga romana", "carbos_netos": 1.2, "unidad": "g" },
+        { "name": "rúcula", "carbos_netos": 2, "unidad": "g" },
+        { "name": "col rizada (kale)", "carbos_netos": 3.6, "unidad": "g" },
+        { "name": "brócoli", "carbos_netos": 4, "unidad": "g" },
+        { "name": "coliflor", "carbos_netos": 3, "unidad": "g" },
+        { "name": "calabacín", "carbos_netos": 2.1, "unidad": "g" },
+        { "name": "pepino", "carbos_netos": 2.2, "unidad": "g" },
+        { "name": "apio", "carbos_netos": 1.4, "unidad": "g" },
+        { "name": "champiñones", "carbos_netos": 2, "unidad": "g" },
+        { "name": "pimiento rojo", "carbos_netos": 4.2, "unidad": "g", "notas": "Moderado" },
+        { "name": "pimiento verde", "carbos_netos": 2.6, "unidad": "g" },
+        { "name": "tomate", "carbos_netos": 2.7, "unidad": "g", "notas": "Moderado" },
+        { "name": "espárragos", "carbos_netos": 2, "unidad": "g" },
+        { "name": "judías verdes", "carbos_netos": 3.6, "unidad": "g" },
+        { "name": "berenjena", "carbos_netos": 2.9, "unidad": "g" },
+        { "name": "cebolla (poca cantidad)", "carbos_netos": 7, "unidad": "g", "notas": "Solo para condimentar" },
+        { "name": "cebolleta", "carbos_netos": 4.7, "unidad": "g" },
+        { "name": "ajo", "carbos_netos": 1, "unidad": "diente", "notas": "Para condimentar" },
+        { "name": "aguacate", "carbos_netos": 1.8, "unidad": "g" },
+        { "name": "aceitunas", "carbos_netos": 0.5, "unidad": "ud" },
+        { "name": "alcachofa", "carbos_netos": 5, "unidad": "g", "notas": "Moderado" },
+        { "name": "hinojo", "carbos_netos": 4, "unidad": "g" }
+      ]
+    },
+    "grasas_aceites": {
+      "label": "Grasas y Aceites",
+      "items": [
+        { "name": "aceite de oliva virgen extra", "carbos_netos": 0, "unidad": "ml" },
+        { "name": "aceite de coco", "carbos_netos": 0, "unidad": "ml" },
+        { "name": "aceite de aguacate", "carbos_netos": 0, "unidad": "ml" },
+        { "name": "aceite de sésamo", "carbos_netos": 0, "unidad": "ml" },
+        { "name": "mantequilla de cacahuete (sin azúcar)", "carbos_netos": 8, "unidad": "g", "notas": "Moderado, verificar sin azúcar" },
+        { "name": "mantequilla de almendras", "carbos_netos": 5, "unidad": "g" },
+        { "name": "aceite MCT", "carbos_netos": 0, "unidad": "ml", "notas": "Potencia cetosis" },
+        { "name": "manteca de cerdo", "carbos_netos": 0, "unidad": "g" }
+      ]
+    },
+    "frutos_secos_semillas": {
+      "label": "Frutos Secos y Semillas",
+      "items": [
+        { "name": "almendras", "carbos_netos": 3, "unidad": "g" },
+        { "name": "nueces", "carbos_netos": 3, "unidad": "g" },
+        { "name": "macadamia", "carbos_netos": 1.5, "unidad": "g" },
+        { "name": "pacanas", "carbos_netos": 1.2, "unidad": "g" },
+        { "name": "avellanas", "carbos_netos": 4.7, "unidad": "g", "notas": "Moderado" },
+        { "name": "piñones", "carbos_netos": 4, "unidad": "g" },
+        { "name": "semillas de chía", "carbos_netos": 2, "unidad": "g" },
+        { "name": "semillas de lino", "carbos_netos": 0.5, "unidad": "g" },
+        { "name": "semillas de cáñamo", "carbos_netos": 1.1, "unidad": "g" },
+        { "name": "pipas de girasol", "carbos_netos": 5, "unidad": "g", "notas": "Moderado" },
+        { "name": "pipas de calabaza", "carbos_netos": 4, "unidad": "g" },
+        { "name": "harina de almendra", "carbos_netos": 3, "unidad": "g", "notas": "Sustituto de harina normal" },
+        { "name": "coco rallado (sin azúcar)", "carbos_netos": 3, "unidad": "g" }
+      ]
+    },
+    "condimentos_salsas": {
+      "label": "Condimentos y Salsas",
+      "items": [
+        { "name": "sal", "carbos_netos": 0, "unidad": "g" },
+        { "name": "pimienta negra", "carbos_netos": 0.1, "unidad": "g" },
+        { "name": "orégano", "carbos_netos": 0.5, "unidad": "g" },
+        { "name": "albahaca", "carbos_netos": 0.1, "unidad": "g" },
+        { "name": "tomillo", "carbos_netos": 0.2, "unidad": "g" },
+        { "name": "romero", "carbos_netos": 0.2, "unidad": "g" },
+        { "name": "comino", "carbos_netos": 0.5, "unidad": "g" },
+        { "name": "pimentón", "carbos_netos": 1, "unidad": "g" },
+        { "name": "curry en polvo", "carbos_netos": 1, "unidad": "g" },
+        { "name": "cúrcuma", "carbos_netos": 0.5, "unidad": "g" },
+        { "name": "mostaza (sin azúcar)", "carbos_netos": 0.5, "unidad": "g" },
+        { "name": "mayonesa (sin azúcar)", "carbos_netos": 0.6, "unidad": "g" },
+        { "name": "vinagre de manzana", "carbos_netos": 0.9, "unidad": "ml" },
+        { "name": "vinagre balsámico (poca cantidad)", "carbos_netos": 3, "unidad": "ml", "notas": "Solo pequeñas cantidades" },
+        { "name": "salsa de soja (tamari)", "carbos_netos": 0.8, "unidad": "ml" },
+        { "name": "salsa tabasco", "carbos_netos": 0.1, "unidad": "ml" },
+        { "name": "tahini", "carbos_netos": 3, "unidad": "g" },
+        { "name": "caldo de huesos", "carbos_netos": 0, "unidad": "ml" },
+        { "name": "caldo de pollo (sin almidón)", "carbos_netos": 0.5, "unidad": "ml" }
+      ]
+    },
+    "edulcorantes": {
+      "label": "Edulcorantes permitidos",
+      "items": [
+        { "name": "eritritol", "carbos_netos": 0, "unidad": "g", "notas": "No eleva glucemia" },
+        { "name": "stevia pura", "carbos_netos": 0, "unidad": "g" },
+        { "name": "monk fruit (fruto del monje)", "carbos_netos": 0, "unidad": "g" },
+        { "name": "xilitol", "carbos_netos": 0, "unidad": "g", "notas": "Tóxico para perros; puede causar efecto laxante en exceso" },
+        { "name": "alulosa", "carbos_netos": 0, "unidad": "g" }
+      ]
+    },
+    "bebidas": {
+      "label": "Bebidas",
+      "items": [
+        { "name": "agua", "carbos_netos": 0, "unidad": "ml" },
+        { "name": "agua con gas", "carbos_netos": 0, "unidad": "ml" },
+        { "name": "café solo", "carbos_netos": 0, "unidad": "ml" },
+        { "name": "té negro / verde / rojo", "carbos_netos": 0, "unidad": "ml" },
+        { "name": "infusiones sin azúcar", "carbos_netos": 0, "unidad": "ml" },
+        { "name": "leche de almendras sin azúcar", "carbos_netos": 1, "unidad": "ml" },
+        { "name": "leche de coco sin azúcar", "carbos_netos": 2, "unidad": "ml" }
+      ]
+    },
+    "otros": {
+      "label": "Otros",
+      "items": [
+        { "name": "proteína de suero (whey, sin azúcar)", "carbos_netos": 2, "unidad": "g" },
+        { "name": "cacao puro (100%)", "carbos_netos": 5, "unidad": "g", "notas": "Sin azúcar añadido" },
+        { "name": "gelatina sin sabor", "carbos_netos": 0, "unidad": "g" },
+        { "name": "psyllium husk (cáscara de psyllium)", "carbos_netos": 0, "unidad": "g", "notas": "Fibra, espesante keto" },
+        { "name": "levadura nutricional", "carbos_netos": 2, "unidad": "g", "notas": "Sabor a queso, rica en B12" }
+      ]
+    }
+  }
+}
